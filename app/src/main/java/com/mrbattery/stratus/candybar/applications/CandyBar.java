@@ -1,4 +1,4 @@
-package com.material.dashboard.candybar.sample.applications;
+package com.mrbattery.stratus.candybar.applications;
 
 import android.support.annotation.NonNull;
 

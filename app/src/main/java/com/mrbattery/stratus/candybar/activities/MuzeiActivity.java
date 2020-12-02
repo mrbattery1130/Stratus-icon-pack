@@ -1,9 +1,9 @@
-package com.material.dashboard.candybar.sample.activities;
+package com.mrbattery.stratus.candybar.activities;
 
 import android.support.annotation.NonNull;
 
 import com.dm.material.dashboard.candybar.activities.CandyBarMuzeiActivity;
-import com.material.dashboard.candybar.sample.services.MuzeiService;
+import com.mrbattery.stratus.candybar.services.MuzeiService;
 
 public class MuzeiActivity extends CandyBarMuzeiActivity {
 

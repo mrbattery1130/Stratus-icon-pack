@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:installLocation="auto"
-    package="com.material.dashboard.candybar.sample">
+    package="com.mrbattery.stratus.candybar">
 
     <!-- If you are not using donation and premium request, you need to remove BILLING permission -->
     <uses-permission android:name="com.android.vending.BILLING" />
@@ -17,15 +17,16 @@
         android:xlargeScreens="true" />
 
     <application
-        android:name="com.material.dashboard.candybar.sample.applications.CandyBar"
+        android:name="com.mrbattery.stratus.candybar.applications.CandyBar"
         android:allowBackup="true"
-        android:icon="@mipmap/icon"
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher_round"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:replace="android:icon">
 
-        <activity android:name="com.material.dashboard.candybar.sample.activities.SplashActivity"
+        <activity android:name="com.mrbattery.stratus.candybar.activities.SplashActivity"
             android:launchMode="singleTop"
             android:noHistory="true"
             android:screenOrientation="portrait"
@@ -36,7 +37,7 @@
             </intent-filter>
         </activity>
 
-        <activity android:name="com.material.dashboard.candybar.sample.activities.MainActivity"
+        <activity android:name="com.mrbattery.stratus.candybar.activities.MainActivity"
             android:launchMode="singleTop"
             android:theme="@style/AppTheme"
             android:configChanges="orientation|keyboardHidden|screenSize">
@@ -150,13 +151,13 @@
             </intent-filter>
         </activity>
 
-        <activity android:name="com.material.dashboard.candybar.sample.activities.MuzeiActivity"
+        <activity android:name="com.mrbattery.stratus.candybar.activities.MuzeiActivity"
             android:label="@string/muzei_settings"
             android:theme="@style/AppTheme"
             android:exported="true"
             android:configChanges="orientation|keyboardHidden|screenSize"/>
 
-        <service android:name="com.material.dashboard.candybar.sample.services.MuzeiService"
+        <service android:name="com.mrbattery.stratus.candybar.services.MuzeiService"
             android:label="@string/muzei_art_source_name"
             android:description="@string/muzei_art_source_desc"
             android:icon="@drawable/ic_muzei_logo"
@@ -166,7 +167,7 @@
             </intent-filter>
             <meta-data android:name="color" android:value="@color/muzei_color" />
             <meta-data android:name="settingsActivity"
-                android:value="com.material.dashboard.candybar.sample.activities.MuzeiActivity"/>
+                android:value="com.mrbattery.stratus.candybar.activities.MuzeiActivity"/>
         </service>
 
         <!-- This is important -->
