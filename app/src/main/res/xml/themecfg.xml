@@ -2,9 +2,9 @@
 <theme>
     <version>1</version>
 
-    <pkgName>com.your.package.name.here</pkgName>
-	<themeName>Your Icon Pack Name</themeName>
-	<themeInfo>Info</themeInfo>
+    <pkgName>com.mrbattery.stratus.candybar</pkgName>
+	<themeName>重云</themeName>
+	<themeInfo>Stratus</themeInfo>
 	<preview img1="preview1" img2="preview2" />
 	
 </theme>

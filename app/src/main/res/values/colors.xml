@@ -5,14 +5,14 @@
     <color name="colorPrimaryDark">#038897</color>
     <color name="colorAccent">#16BEAD</color>
 
-    <color name="darkColorPrimary">#0082B4</color>
-    <color name="darkColorPrimaryDark">#006EA0</color>
-    <color name="darkColorAccent">#23BEA5</color>
+    <color name="darkColorPrimary">#0BA2AA</color>
+    <color name="darkColorPrimaryDark">#038897</color>
+    <color name="darkColorAccent">#16BEAD</color>
     
     <!-- Navigation Bar
     * Must be solid color, no alpha -->
-    <color name="navigationBar">#000000</color>
-    <color name="navigationBarDark">#000000</color>
+    <color name="navigationBar">#038897</color>
+    <color name="navigationBarDark">#038897</color>
 
     <!-- Splash Screen -->
     <color name="splashColor">#F0F0F0</color>
@@ -23,13 +23,13 @@
 
     <color name="navigationViewText">#505A64</color>
     <color name="navigationViewTextDark">#DDFFFFFF</color>
-    <color name="navigationViewTextSelected">#0082B4</color>
-    <color name="navigationViewTextSelectedDark">#0082B4</color>
+    <color name="navigationViewTextSelected">#0BA2AA</color>
+    <color name="navigationViewTextSelectedDark">#0BA2AA</color>
     <color name="navigationViewSelectedBackground">#00000000</color>
     <color name="navigationViewSelectedBackgroundDark">#00000000</color>
 
     <!-- Swipe Refresh -->
-    <color name="swipeRefresh">#23BEA5</color>
+    <color name="swipeRefresh">#0BA2AA</color>
 
     <!-- Toolbar -->
     <color name="toolbarIcon">#FFFFFFFF</color>

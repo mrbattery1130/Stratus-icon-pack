@@ -23,6 +23,9 @@
     <!-- Muzei base color -->
     <color name="muzei_color">#0082B4</color>
 
+    <!-- CONFIG: Splash Screen -->
+    <string name="splash_screen_title">Clouds rise therefrom and lave my breast; My eyes are strained to see birds fleet.</string>
+
     <!-- CONFIG: HOME -->
 
     <!-- Home title must be defined -->
@@ -35,7 +38,7 @@
     *
     * If you want to use solid color, you can put hex color code here
     * ex: <string name="navigation_view_header">#000000</string> -->
-    <string name="home_image">home_image</string>
+    <string name="home_image">https://gitee.com/mrbattery/mrbattery_iconpack_res_repo/raw/master/Stratus/pic/home_image.jpg</string>
 
     <!-- Home image style
     * Available choices:
@@ -69,7 +72,7 @@
     *
     * If you want to use solid color, you can put hex color code here
     * ex: <string name="navigation_view_header">#000000</string> -->
-    <string name="navigation_view_header">navigation_view_header</string>
+    <string name="navigation_view_header">https://gitee.com/mrbattery/mrbattery_iconpack_res_repo/raw/master/Stratus/pic/navigation_view_header.jpg</string>
 
     <!-- Navigation view header text
     * Leave empty if you don't want to show any text -->
@@ -145,7 +148,7 @@
     * example: com.dm.wallpaper.board.demo
     * <string name="wallpaper_json">com.dm.wallpaper.board.demo</string> -->
 <!--    <string name="wallpaper_json">https://drive.google.com/uc?id=0B0f4ypHfNKm5TmRMSnhpb2JSalE</string>-->
-    <string name="wallpaper_json">https://gitee.com/mrbattery/mrbattery_iconpack_res_repo/raw/master/Stratus/stratus_wallpaper_json</string>
+    <string name="wallpaper_json">https://gitee.com/mrbattery/mrbattery_iconpack_res_repo/raw/master/Stratus/stratus_wallpaper_json.json</string>
 
     <!-- Allow to download wallpaper
     * If disabled user only able to apply wallpaper from dashboard -->
@@ -179,13 +182,13 @@
     *
     * If you want to use solid color, you can put hex color code here
     * ex: <string name="navigation_view_header">#000000</string> -->
-    <string name="about_image">navigation_view_header</string>
+    <string name="about_image">https://gitee.com/mrbattery/mrbattery_iconpack_res_repo/raw/master/Stratus/pic/about_image.jpg</string>
 
     <!-- About profile image
     * If you want to use image from url, just put the url here
     * If you want to use image stored in project (drawable folder)
     * just put image name here without the extension (ex: about_profile_image.png -> about_profile_image) -->
-    <string name="about_profile_image">about_profile_image</string>
+    <string name="about_profile_image">https://gitee.com/mrbattery/mrbattery_iconpack_res_repo/raw/master/Stratus/pic/about_profile_image.jpg</string>
 
     <!-- About title above description -->
     <string name="about_title">MrBattery \nMaterial Dashboard</string>

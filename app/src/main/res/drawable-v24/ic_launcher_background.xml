@@ -4,23 +4,59 @@
     android:height="108dp"
     android:viewportWidth="108"
     android:viewportHeight="108">
-    <path
-        android:fillType="evenOdd"
-        android:pathData="m0,0h108v108h-108z">
-        <aapt:attr name="android:fillColor">
-            <gradient
-                android:endX="54"
-                android:endY="108"
-                android:startX="54"
-                android:startY="0"
-                android:type="linear">
-                <item
-                    android:color="#FF0BA2AA"
-                    android:offset="0" />
-                <item
-                    android:color="#FF81E5E8"
-                    android:offset="1" />
-            </gradient>
-        </aapt:attr>
-    </path>
+  <path
+      android:fillType="evenOdd"
+      android:pathData="M0 0h108v108H0z">
+    <aapt:attr name="android:fillColor">
+      <gradient
+          android:type="linear"
+          android:startX="54"
+          android:startY="0"
+          android:endX="54"
+          android:endY="108">
+        <item
+            android:color="#0BA2AA"
+            android:offset="0"/>
+        <item
+            android:color="#81E5E8"
+            android:offset="1"/>
+      </gradient>
+    </aapt:attr>
+  </path>
+  <group
+      android:scaleX="0.6111111"
+      android:scaleY="0.6111111"
+      android:translateX="21"
+      android:translateY="21">
+    <group>
+      <path
+          android:fillType="evenOdd"
+          android:fillColor="#DDB3B4"
+          android:pathData="M-45-11.25C25.83-11.25 83.25 46.17 83.25 117S25.83 245.25-45 245.25S-173.25 187.83-173.25 117S-115.83-11.25-45-11.25zm0 31.5c-53.43 0-96.75 43.32-96.75 96.75s43.32 96.75 96.75 96.75S51.75 170.43 51.75 117S8.43 20.25-45 20.25z"/>
+      <path
+          android:fillType="evenOdd"
+          android:fillColor="#D8C0B4"
+          android:pathData="M-45-6.75C23.35-6.75 78.75 48.65 78.75 117S23.35 240.75-45 240.75S-168.75 185.35-168.75 117S-113.35-6.75-45-6.75zm0 27c-53.43 0-96.75 43.32-96.75 96.75s43.32 96.75 96.75 96.75S51.75 170.43 51.75 117S8.43 20.25-45 20.25z"/>
+      <path
+          android:fillType="evenOdd"
+          android:fillColor="#D4E0B5"
+          android:pathData="M-45-2.25C20.86-2.25 74.25 51.14 74.25 117S20.86 236.25-45 236.25S-164.25 182.86-164.25 117S-110.86-2.25-45-2.25zm0 22.5c-53.43 0-96.75 43.32-96.75 96.75s43.32 96.75 96.75 96.75S51.75 170.43 51.75 117S8.43 20.25-45 20.25z"/>
+      <path
+          android:fillType="evenOdd"
+          android:fillColor="#C2E7B4"
+          android:pathData="M-45 2.25C18.37 2.25 69.75 53.63 69.75 117S18.37 231.75-45 231.75S-159.75 180.37-159.75 117S-108.37 2.25-45 2.25zm0 18c-53.43 0-96.75 43.32-96.75 96.75s43.32 96.75 96.75 96.75S51.75 170.43 51.75 117S8.43 20.25-45 20.25z"/>
+      <path
+          android:fillType="evenOdd"
+          android:fillColor="#9CE1DF"
+          android:pathData="M-45 6.75C15.89 6.75 65.25 56.11 65.25 117S15.89 227.25-45 227.25S-155.25 177.89-155.25 117S-105.89 6.75-45 6.75zm0 13.5c-53.43 0-96.75 43.32-96.75 96.75s43.32 96.75 96.75 96.75S51.75 170.43 51.75 117S8.43 20.25-45 20.25z"/>
+      <path
+          android:fillType="evenOdd"
+          android:fillColor="#9DBFDF"
+          android:pathData="M-45 11.25C13.4 11.25 60.75 58.6 60.75 117S13.4 222.75-45 222.75S-150.75 175.4-150.75 117S-103.4 11.25-45 11.25zm0 9c-53.43 0-96.75 43.32-96.75 96.75s43.32 96.75 96.75 96.75S51.75 170.43 51.75 117S8.43 20.25-45 20.25z"/>
+      <path
+          android:fillType="evenOdd"
+          android:fillColor="#B2B4E3"
+          android:pathData="M-45 15.75C10.92 15.75 56.25 61.08 56.25 117S10.92 218.25-45 218.25S-146.25 172.92-146.25 117S-100.92 15.75-45 15.75zm0 4.5c-53.43 0-96.75 43.32-96.75 96.75s43.32 96.75 96.75 96.75S51.75 170.43 51.75 117S8.43 20.25-45 20.25z"/>
+    </group>
+  </group>
 </vector>

@@ -3,10 +3,10 @@
 
     <!-- FOR ATOM LAUNCHER -->
 
-    <packageName>com.your.package.name.here</packageName>
+    <packageName>com.mrbattery.stratus.candybar</packageName>
     <versionName>1.0.0</versionName>
     <versionCode>100</versionCode>
-    <themeName>Theme Name</themeName>
+    <themeName>重云</themeName>
 
     <!-- Default Component Color -->
     <themePointColor>#ffffff</themePointColor>

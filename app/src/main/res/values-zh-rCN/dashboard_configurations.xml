@@ -23,6 +23,9 @@
     <!-- Muzei base color -->
 <!--    <color name="muzei_color">#0082B4</color>-->
 
+    <!-- CONFIG: Splash Screen -->
+    <string name="splash_screen_title">荡胸生曾云，决眦入归鸟。</string>
+
     <!-- CONFIG: HOME -->
 
     <!-- Home title must be defined -->
@@ -144,7 +147,7 @@
     * example: com.dm.wallpaper.board.demo
     * <string name="wallpaper_json">com.dm.wallpaper.board.demo</string> -->
 <!--    <string name="wallpaper_json">https://drive.google.com/uc?id=0B0f4ypHfNKm5TmRMSnhpb2JSalE</string>-->
-<!--    <string name="wallpaper_json"></string>-->
+    <string name="wallpaper_json">https://gitee.com/mrbattery/mrbattery_iconpack_res_repo/raw/master/Stratus/stratus_wallpaper_json_zh_cn.json</string>
 
     <!-- Allow to download wallpaper
     * If disabled user only able to apply wallpaper from dashboard -->
