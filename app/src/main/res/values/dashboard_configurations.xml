@@ -145,7 +145,7 @@
     * example: com.dm.wallpaper.board.demo
     * <string name="wallpaper_json">com.dm.wallpaper.board.demo</string> -->
 <!--    <string name="wallpaper_json">https://drive.google.com/uc?id=0B0f4ypHfNKm5TmRMSnhpb2JSalE</string>-->
-    <string name="wallpaper_json"></string>
+    <string name="wallpaper_json">https://gitee.com/mrbattery/mrbattery_iconpack_res_repo/raw/master/Stratus/stratus_wallpaper_json</string>
 
     <!-- Allow to download wallpaper
     * If disabled user only able to apply wallpaper from dashboard -->
