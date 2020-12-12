@@ -2,8 +2,8 @@
 <theme>
     <version>1</version>
 
-    <pkgName>com.your.package.name.here</pkgName>
-	<themeName>Your Icon Pack Name</themeName>
+    <pkgName>com.mrbattery.stratus.candybar</pkgName>
+	<themeName>Stratus</themeName>
 	<themeInfo>Info</themeInfo>
 	<preview img1="preview1" img2="preview2" />
 	
