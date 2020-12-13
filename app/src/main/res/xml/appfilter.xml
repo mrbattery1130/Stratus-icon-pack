@@ -9,30 +9,30 @@
 	<!-- THIS IS JUST AN EXAMPLE -->
 
     <!-- Nova Launcher Default App Drawer -->
-	<item component=":LAUNCHER_ACTION_APP_DRAWER" drawable="home_home2apps_button" />
+	<item component=":LAUNCHER_ACTION_APP_DRAWER" drawable="sym_def_app_icon" />
 
     <!-- Google Calendar -->
- 	<item component="ComponentInfo{com.google.android.calendar/com.android.calendar.LaunchActivity}" drawable="calendar_12" />
- 	<item component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar_12" />
+ 	<item component="ComponentInfo{com.google.android.calendar/com.android.calendar.LaunchActivity}" drawable="google_calendar_12" />
+ 	<item component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="google_calendar_12" />
 
  	<!-- Calendar -->
- 	<item component="ComponentInfo{com.android.calendar/com.android.calendar.LaunchActivity}" drawable="calendar2_12" />
- 	<item component="ComponentInfo{com.htc.calendar/com.htc.calendar.LaunchActivity}" drawable="calendar2_12" />
- 	<item component="ComponentInfo{com.htc.calendar/com.htc.calendar.CalendarActivityMain}" drawable="calendar2_12" />
- 	<item component="ComponentInfo{com.htc.calendar/com.htc.calendar.CalendarCarouselActivity}" drawable="calendar2_12" />
- 	<item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar2_12" />
-	<item component="ComponentInfo{com.android.calendar/com.android.calendar.CalendarTabActivity}" drawable="calendar2_12" />
-	<item component="ComponentInfo{com.asus.calendar.watchcalendar/com.asus.calendar.watchcalendar.WatchCalendarActivity}" drawable="calendar2_12" />
-	<item component="ComponentInfo{com.asus.calendar.watchcalendar/com.asus.calendar.watchcalendar.LaunchActivity}" drawable="calendar2_12" />
- 	<item component="ComponentInfo{com.sonyericsson.androidapp.lunarcalendar/com.sonyericsson.androidapp.lunarcalendar.CalendarActivity}" drawable="calendar2_12" />
- 	<item component="ComponentInfo{com.sonyericsson.calendar/com.sonyericsson.calendar.monthview.MonthViewActivity}" drawable="calendar2_12" />
- 	<item component="ComponentInfo{com.motorola.calendar/com.motorola.calendar.LaunchActivity}" drawable="calendar2_12" />
- 	<item component="ComponentInfo{com.oppo.calendar/com.oppo.calendar.activity.CalendarActivity}" drawable="calendar2_12" />
-	<item component="ComponentInfo{com.lge.calendar/com.lge.calendar.LaunchActivity}" drawable="calendar2_12" />
-	<item component="ComponentInfo{com.lenovo.app.Calendar/com.lenovo.app.Calendar.MonthUI}" drawable="calendar2_12" />
- 	<item component="ComponentInfo{com.sec.android.app.latin.launcher.calendar/com.sec.android.app.latin.launcher.calendar.Launcher}" drawable="calendar2_12" />
-	<item component="ComponentInfo{com.lenovo.app.Calendar/com.lenovo.app.Calendar.MonthActivityNew}" drawable="calendar2_12" />
- 	<item component="ComponentInfo{com.android.calendar/com.android.calendar.MonthActivity}" drawable="calendar2_12" />
+ 	<item component="ComponentInfo{com.android.calendar/com.android.calendar.LaunchActivity}" drawable="com_android_calendar" />
+ 	<item component="ComponentInfo{com.htc.calendar/com.htc.calendar.LaunchActivity}" drawable="com_android_calendar" />
+ 	<item component="ComponentInfo{com.htc.calendar/com.htc.calendar.CalendarActivityMain}" drawable="com_android_calendar" />
+ 	<item component="ComponentInfo{com.htc.calendar/com.htc.calendar.CalendarCarouselActivity}" drawable="com_android_calendar" />
+ 	<item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" drawable="com_android_calendar" />
+	<item component="ComponentInfo{com.android.calendar/com.android.calendar.CalendarTabActivity}" drawable="com_android_calendar" />
+	<item component="ComponentInfo{com.asus.calendar.watchcalendar/com.asus.calendar.watchcalendar.WatchCalendarActivity}" drawable="com_android_calendar" />
+	<item component="ComponentInfo{com.asus.calendar.watchcalendar/com.asus.calendar.watchcalendar.LaunchActivity}" drawable="com_android_calendar" />
+ 	<item component="ComponentInfo{com.sonyericsson.androidapp.lunarcalendar/com.sonyericsson.androidapp.lunarcalendar.CalendarActivity}" drawable="com_android_calendar" />
+ 	<item component="ComponentInfo{com.sonyericsson.calendar/com.sonyericsson.calendar.monthview.MonthViewActivity}" drawable="com_android_calendar" />
+ 	<item component="ComponentInfo{com.motorola.calendar/com.motorola.calendar.LaunchActivity}" drawable="com_android_calendar" />
+ 	<item component="ComponentInfo{com.oppo.calendar/com.oppo.calendar.activity.CalendarActivity}" drawable="com_android_calendar" />
+	<item component="ComponentInfo{com.lge.calendar/com.lge.calendar.LaunchActivity}" drawable="com_android_calendar" />
+	<item component="ComponentInfo{com.lenovo.app.Calendar/com.lenovo.app.Calendar.MonthUI}" drawable="com_android_calendar" />
+ 	<item component="ComponentInfo{com.sec.android.app.latin.launcher.calendar/com.sec.android.app.latin.launcher.calendar.Launcher}" drawable="com_android_calendar" />
+	<item component="ComponentInfo{com.lenovo.app.Calendar/com.lenovo.app.Calendar.MonthActivityNew}" drawable="com_android_calendar" />
+ 	<item component="ComponentInfo{com.android.calendar/com.android.calendar.MonthActivity}" drawable="com_android_calendar" />
 
  	<!-- Today Calendar -->
 	<item component="ComponentInfo{com.underwood.calendar_beta/com.android.calendar.AllInOneActivity}" drawable="today_calendar2_12"/>
@@ -43,27 +43,27 @@
 	<calendar component="ComponentInfo{com.underwood.calendar/com.android.calendar.AllInOneActivity}" prefix="today_calendar2_"/>
 
 	<!-- Dynamic Calendar - Google Calendar -->
-	<calendar component="ComponentInfo{com.google.android.calendar/com.android.calendar.LaunchActivity}" prefix="calendar_" />
- 	<calendar component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" prefix="calendar_" />
+	<calendar component="ComponentInfo{com.google.android.calendar/com.android.calendar.LaunchActivity}" prefix="google_calendar_" />
+ 	<calendar component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" prefix="google_calendar_" />
 
  	<!-- Dynamic Calendar - Calendar -->
-	<calendar component="ComponentInfo{com.android.calendar/com.android.calendar.LaunchActivity}" prefix="calendar2_" />
- 	<calendar component="ComponentInfo{com.htc.calendar/com.htc.calendar.LaunchActivity}" prefix="calendar2_" />
- 	<calendar component="ComponentInfo{com.htc.calendar/com.htc.calendar.CalendarActivityMain}" prefix="calendar2_" />
- 	<calendar component="ComponentInfo{com.htc.calendar/com.htc.calendar.CalendarCarouselActivity}" prefix="calendar2_" />
- 	<calendar component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" prefix="calendar2_" />
-	<calendar component="ComponentInfo{com.android.calendar/com.android.calendar.CalendarTabActivity}" prefix="calendar2_" />
-	<calendar component="ComponentInfo{com.asus.calendar.watchcalendar/com.asus.calendar.watchcalendar.WatchCalendarActivity}" prefix="calendar2_" />
-	<calendar component="ComponentInfo{com.asus.calendar.watchcalendar/com.asus.calendar.watchcalendar.LaunchActivity}" prefix="calendar2_" />
- 	<calendar component="ComponentInfo{com.sonyericsson.androidapp.lunarcalendar/com.sonyericsson.androidapp.lunarcalendar.CalendarActivity}" prefix="calendar2_" />
- 	<calendar component="ComponentInfo{com.sonyericsson.calendar/com.sonyericsson.calendar.monthview.MonthViewActivity}" prefix="calendar2_" />
- 	<calendar component="ComponentInfo{com.motorola.calendar/com.motorola.calendar.LaunchActivity}" prefix="calendar2_" />
- 	<calendar component="ComponentInfo{com.oppo.calendar/com.oppo.calendar.activity.CalendarActivity}" prefix="calendar2_" />
-	<calendar component="ComponentInfo{com.lge.calendar/com.lge.calendar.LaunchActivity}" prefix="calendar2_" />
-	<calendar component="ComponentInfo{com.lenovo.app.Calendar/com.lenovo.app.Calendar.MonthUI}" prefix="calendar2_" />
- 	<calendar component="ComponentInfo{com.sec.android.app.latin.launcher.calendar/com.sec.android.app.latin.launcher.calendar.Launcher}" prefix="calendar2_" />
-	<calendar component="ComponentInfo{com.lenovo.app.Calendar/com.lenovo.app.Calendar.MonthActivityNew}" prefix="calendar2_" />
- 	<calendar component="ComponentInfo{com.android.calendar/com.android.calendar.MonthActivity}" prefix="calendar2_" />
+	<calendar component="ComponentInfo{com.android.calendar/com.android.calendar.LaunchActivity}" prefix="calendar_" />
+ 	<calendar component="ComponentInfo{com.htc.calendar/com.htc.calendar.LaunchActivity}" prefix="calendar_" />
+ 	<calendar component="ComponentInfo{com.htc.calendar/com.htc.calendar.CalendarActivityMain}" prefix="calendar_" />
+ 	<calendar component="ComponentInfo{com.htc.calendar/com.htc.calendar.CalendarCarouselActivity}" prefix="calendar_" />
+ 	<calendar component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" prefix="calendar_" />
+	<calendar component="ComponentInfo{com.android.calendar/com.android.calendar.CalendarTabActivity}" prefix="calendar_" />
+	<calendar component="ComponentInfo{com.asus.calendar.watchcalendar/com.asus.calendar.watchcalendar.WatchCalendarActivity}" prefix="calendar_" />
+	<calendar component="ComponentInfo{com.asus.calendar.watchcalendar/com.asus.calendar.watchcalendar.LaunchActivity}" prefix="calendar_" />
+ 	<calendar component="ComponentInfo{com.sonyericsson.androidapp.lunarcalendar/com.sonyericsson.androidapp.lunarcalendar.CalendarActivity}" prefix="calendar_" />
+ 	<calendar component="ComponentInfo{com.sonyericsson.calendar/com.sonyericsson.calendar.monthview.MonthViewActivity}" prefix="calendar_" />
+ 	<calendar component="ComponentInfo{com.motorola.calendar/com.motorola.calendar.LaunchActivity}" prefix="calendar_" />
+ 	<calendar component="ComponentInfo{com.oppo.calendar/com.oppo.calendar.activity.CalendarActivity}" prefix="calendar_" />
+	<calendar component="ComponentInfo{com.lge.calendar/com.lge.calendar.LaunchActivity}" prefix="calendar_" />
+	<calendar component="ComponentInfo{com.lenovo.app.Calendar/com.lenovo.app.Calendar.MonthUI}" prefix="calendar_" />
+ 	<calendar component="ComponentInfo{com.sec.android.app.latin.launcher.calendar/com.sec.android.app.latin.launcher.calendar.Launcher}" prefix="calendar_" />
+	<calendar component="ComponentInfo{com.lenovo.app.Calendar/com.lenovo.app.Calendar.MonthActivityNew}" prefix="calendar_" />
+ 	<calendar component="ComponentInfo{com.android.calendar/com.android.calendar.MonthActivity}" prefix="calendar_" />
 
 	<item component="ComponentInfo{com.meizu.picker/com.meizu.picker.MainActivity}" drawable="com_meizu_picker" not_sure="yes"/>
 	<item component="ComponentInfo{com.crgt.ilife/com.crgt.ilife.plugin.sessionmanager.fg.main.SplashActivity}" drawable="com_crgt_ilife"/>
@@ -1311,8 +1311,8 @@
 	<item component="ComponentInfo{com.pingan.paces.ccms/com.pingan.pocketbank.splash.PALoadingActivity}" drawable="com_pingan_paces_ccms"/>
 	<item component="ComponentInfo{com.pingan.paces.ccms/com.pingan.paces.ccms.splash.SplashActivity}" drawable="com_pingan_paces_ccms"/>
 	<item component="ComponentInfo{com.google.android.apps.wallpaper/com.google.android.apps.wallpaper.picker.CategoryPickerActivity}" drawable="com_google_android_apps_wallpaper"/>
-	<item component="ComponentInfo{com.wuma.pn/com.muma.pn.AppStart}" drawable="com_miui_securitycenter"/>
-	<item component="ComponentInfo{com.wuma.pn/com.wuma.pn.AppStart}" drawable="com_miui_securitycenter"/>
+	<item component="ComponentInfo{com.wuma.vpn/com.muma.vpn.AppStart}" drawable="com_wuma_vpn"/>
+	<item component="ComponentInfo{com.wuma.vpn/com.wuma.vpn.AppStart}" drawable="com_wuma_vpn"/>
 	<item component="ComponentInfo{cn.guancha.app/cn.guancha.app.ui.activity.WelcomeActivity}" drawable="cn_guancha_app"/>
 	<item component="ComponentInfo{com.sina.mail.free/com.sina.mail.free.MainActivity}" drawable="com_sina_mail_free" not_sure="yes"/>
 	<item component="ComponentInfo{com.whatsapp/com.whatsapp.Main}" drawable="com_whatsapp"/>
