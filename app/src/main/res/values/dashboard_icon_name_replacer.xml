@@ -10,7 +10,7 @@
     <!-- Enable or disable icon name replacer
     * Enable -> true
     * Disable -> false -->
-    <bool name="enable_icon_name_replacer">true</bool>
+    <bool name="enable_icon_name_replacer">false</bool>
 
 
     <string-array name="icon_name_replacer">
@@ -1113,6 +1113,7 @@
         <item>com_chinatelecom_bestpayclient,翼支付</item>
         <item>com_chinamworld_bocmbci,中国银行</item>
         <item>com_xiaomi_xmsf_payment_milicenterentryactivity,米币</item>
+        <item>ic_stratus_iconpack,重云</item>
     </string-array>
 
 </resources>

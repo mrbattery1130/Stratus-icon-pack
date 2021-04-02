@@ -2213,6 +2213,7 @@
 	<item component="ComponentInfo{com.samsung.android.sm_cn/com.samsung.android.sm.app.dashboard.SmartManagerDashBoardActivity}" drawable="com_miui_securitycenter"/>
 	<item component="ComponentInfo{com.samsung.android.themestore/com.samsung.android.themestore.activity.Launcher}" drawable="com_android_thememanager"/>
 	<item component="ComponentInfo{com.samsung.android.themestore/com.samsung.android.themestore.activity.WTLauncher}" drawable="com_android_thememanager"/>
+	<item component="ComponentInfo{com.mrbattery.stratus.candybar/com.mrbattery.stratus.candybar.activities.SplashActivity}" drawable="ic_stratus_iconpack"/>
 
 
 </resources>

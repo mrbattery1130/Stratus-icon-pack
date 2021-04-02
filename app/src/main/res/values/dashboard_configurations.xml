@@ -54,13 +54,13 @@
     <string name="home_description"><![CDATA[
         <big>Clouds rise therefrom and lave my breast; My eyes are strained to see birds fleet.</big><br><br>
         Smooth rounded rectangle based icons, with soft colors and gradients, tightened counters.
-        Filling icons instead of linear icons, are all redrawn with vector .
+        Filling icons instead of linear icons, are all redrawn with vector.
         ]]></string>
 
     <!-- More apps at Google Play Store
     * Link to google play store developer
     * If you don't want to show this part, just leave this empty -->
-    <string name="google_play_dev"></string>
+    <string name="google_play_dev" />
 
     <!-- CONFIG: NAVIGATION VIEW HEADER -->
 
