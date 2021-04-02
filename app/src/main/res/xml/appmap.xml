@@ -10,5 +10,2156 @@
     <item class="com.antutu.ABenchMark.ABenchMarkStart" name="antutu_benchmark" />
 
 
+    <item class="com.meizu.picker.MainActivity" name="com_meizu_picker" not_sure="yes"/>
+    <item class="com.crgt.ilife.plugin.sessionmanager.fg.main.SplashActivity" name="com_crgt_ilife"/>
+    <item class="com.crgt.ilife.SplashActivity" name="com_crgt_ilife"/>
+    <item class="com.huluxia.gametools.ui.MainActivity.AppStart" name="com_huluxia_gametools"/>
+    <item class="com.huluxia.gametools.MainActivity" name="com_huluxia_gametools"/>
+    <item class="com.huluxia.gametools.ui.SplashActivity" name="com_huluxia_gametools"/>
+    <item class="com.haimai.baletu.MainActivity" name="com_haimai_baletu" not_sure="yes"/>
+    <item class="com.netease.onmyoji.Launcher" name="com_netease_onmyoji_mi"/>
+    <item class="com.xiaoming.vpn.activity.MainActivity" name="com_xiaoming_vpn"/>
+    <item class="com.xiaoming.vpn.MainActivity" name="com_xiaoming_vpn"/>
+    <item class="com.oray.sunlogin.application.Main" name="com_oray_sunlogin"/>
+    <item class="com.android.providers.downloads.ui.DownloadList" name="com_android_providers_downloads"/>
+    <item class="com.color.downloads.ui.DownloadMainActivity" name="com_android_providers_downloads"/>
+    <item class="com.android.providers.downloads.ui.DownloadListUI" name="com_android_providers_downloads"/>
+    <item class="xiaomi" name="com_android_providers_downloads"/>
+    <item class="com.android.providers.downloads.ui.DownloadActivity" name="com_android_providers_downloads"/>
+    <item class="com.qq.ac.android.view.activity.SplashActivity" name="com_qq_ac_android"/>
+    <item class="com.qq.ac.android.ui.SplashActivity" name="com_qq_ac_android"/>
+    <item class="com.xbiao.MainActivity" name="com_xbiao"/>
+    <item class="com.wanci.so.MainActivity" name="com_wanci_so" not_sure="yes"/>
+    <item class="me.yoopu.app.songbook.login.SplashActivity" name="me_yoopu_app_songbook"/>
+    <item class="com.suning.mobile.ebuy.host.InitialActivity" name="com_suning_mobile_ebuy"/>
+    <item class="com.suning.mobile.ebuy.base.host.InitialActivity" name="com_suning_mobile_ebuy"/>
+    <item class="com.suning.mobile.ebuy.host.initial.InitialActivty" name="com_suning_mobile_ebuy"/>
+    <item class="com.meizu.flyme.gamecenter.activity.DefaultActivity" name="com_meizu_flyme_gamecenter"/>
+    <item class="com.meizu.flyme.gamecenter.activity.GameMainActivity" name="com_meizu_flyme_gamecenter"/>
+    <item class="com.meizu.flyme.gamecenter.GameMainTabActivity" name="com_meizu_flyme_gamecenter"/>
+    <item class="com.site.jianyiys.player.MainActivity" name="com_site_jianyiys_player" not_sure="yes"/>
+    <item class="com.sing.client.activity.DummyActivity" name="com_sing_client"/>
+    <item class="com.sing.client.splash.EntryActivity" name="com_sing_client"/>
+    <item class="com.cainiao.wireless.homepage.view.activity.WelcomeActivity" name="com_cainiao_wireless"/>
+    <item class="com.cainiao.commonsharelibrary.navigation.navtest.NewMainActivity" name="com_cainiao_wireless"/>
+    <item class="com.cainiao.wireless.homepage.presentation.view.activity.HomepageActivity" name="com_cainiao_wireless"/>
+    <item class="com.cainiao.wireless.homepage.presentation.view.activity.NewHomepageActivity" name="com_cainiao_wireless"/>
+    <item class="com.cainiao.wireless.homepage.view.activity.HomePageActivity" name="com_cainiao_wireless"/>
+    <item class="com.xiaomi.scanner.app.ScanActivity" name="com_xiaomi_scanner"/>
+    <item class="com.microsoft.office.sfb.common.ui.splash.EntryPoint" name="com_microsoft_office_lync15"/>
+    <item class="com.meizu.datamigration.capture.DataMigrationActivity" name="com_meizu_datamigration"/>
+    <item class="com.mfashiongallery.emag.MainActivity" name="com_mfashiongallery_emag" not_sure="yes"/>
+    <item class="com.mt.mtxx.mtxx.TopViewActivity" name="com_mt_mtxx_mtxx"/>
+    <item class="com.qihoo.util.StartActivity" name="com_mt_mtxx_mtxx"/>
+    <item class="com.meitu.mtxx.MainActivity" name="com_mt_mtxx_mtxx"/>
+    <item class="com.discord.app.AppActivity$Main" name="com_discord"/>
+    <item class="com.discord.screens.ScreenLoading" name="com_discord"/>
+    <item class="com.discord.screens.ScreenMain" name="com_discord"/>
+    <item class="com.discord.screens.ScreenAux$Main" name="com_discord"/>
+    <item class="com.estrongs.locker.MainActivity" name="com_estrongs_locker" not_sure="yes"/>
+    <item class="com.qidian.QDReader.ui.activity.SplashActivity" name="com_qidian_qdreader"/>
+    <item class="com.qidian.QDReader.SplashActivity" name="com_qidian_qdreader"/>
+    <item class="com.kunfei.bookshelf.view.activity.WelcomeActivity" name="com_gedoor_monkeybook"/>
+    <item class="com.monke.monkeybook.view.activity.WelcomeActivity" name="com_gedoor_monkeybook"/>
+    <item class="com.kunfei.bookshelf.view.activity.WelcomeBookActivity" name="com_gedoor_monkeybook"/>
+    <item class="com.monke.monkeybook.view.activity.WelcomeBookActivity" name="com_gedoor_monkeybook"/>
+    <item class="com.chinamworld.bocapad.MainActivity" name="com_chinamworld_bocapad" not_sure="yes"/>
+    <item class="com.orekie.search.components.EntryActivity" name="com_orekie_search"/>
+    <item class="com.orekie.search.view.SearchActivity" name="com_orekie_search"/>
+    <item class="com.orekie.search.view.EntryActivity" name="com_orekie_search"/>
+    <item class="com.google.android.youtube.app.honeycomb.Shell$HomeActivity" name="com_vanced_android_youtube"/>
+    <item class="com.liulishuo.engzo.app.activity.LauncherActivity" name="com_liulishuo_engzo"/>
+    <item class="com.liulishuo.engzo.app.activity.PrepositionPrivacyActivity" name="com_liulishuo_engzo"/>
+    <item class="com.xiaomi.padshop.MainActivity" name="com_xiaomi_padshop" not_sure="yes"/>
+    <item class="com.clover.idaily.ui.activity.MainActivity" name="com_clover_idaily"/>
+    <item class="cn.xiaolongonly.andpodsop.activity.MainActivity" name="cn_xiaolongonly_andpodsop"/>
+    <item class="com.tencent.tmgp.coslegend.MainActivity" name="com_tencent_tmgp_coslegend" not_sure="yes"/>
+    <item class="com.by.butter.camera.activity.SplashScreenActivity" name="com_by_butter_camera"/>
+    <item class="com.by.butter.camera.splash.LauncherActivity" name="com_by_butter_camera"/>
+    <item class="com.by.butter.camera.splash.LauncherActivityButterman" name="com_by_butter_camera"/>
+    <item class="cn.goapk.market.MainActivity" name="cn_goapk_market" not_sure="yes"/>
+    <item class="com.baloota.dumpster.MainActivity" name="com_baloota_dumpster" not_sure="yes"/>
+    <item class="com.riotgames.league.wildrift.MainActivity" name="com_riotgames_league_wildrift" not_sure="yes"/>
+    <item class="com.sflep.iting.activity.WelcomeAdActivity" name="com_sflep_iting"/>
+    <item class="com.cqmc.client.splashModule.ui.activity.SplashActivity" name="com_cqmc_client"/>
+    <item class="com.cqmc.client.SplashActivity" name="com_cqmc_client"/>
+    <item class="com.tencent.wegame.splash.SplashActivity" name="com_tencent_tgp"/>
+    <item class="com.tencent.tgp.login.LaunchActivity" name="com_tencent_tgp"/>
+    <item class="video.vue.android.ui.activity.SplashActivity" name="video_vue_android"/>
+    <item class="video.vue.android.ui.launch.SplashActivity" name="video_vue_android"/>
+    <item class="com.qianniu.launcher.business.splash.InitActivity" name="com_taobao_qianniu"/>
+    <item class="com.taobao.qianniu.ui.business.ADActivity" name="com_taobao_qianniu"/>
+    <item class="com.taobao.qianniu.ui.InitActivity" name="com_taobao_qianniu"/>
+    <item class="com.taobao.qianniu.launcher.InitActivity" name="com_taobao_qianniu"/>
+    <item class="com.ruguoapp.jike.ui.activity.WelcomeActivity" name="com_ruguoapp_jike"/>
+    <item class="com.ruguoapp.jike.ui.activity.SplashActivity" name="com_ruguoapp_jike"/>
+    <item class="com.ruguoapp.jike.business.main.ui.SplashActivity" name="com_ruguoapp_jike"/>
+    <item class="com.ruguoapp.jike.business.launch.ui.SplashActivity" name="com_ruguoapp_jike"/>
+    <item class="com.ruguoapp.jike.Launcher1" name="com_ruguoapp_jike"/>
+    <item class="com.netease.nr.biz.ad.AdActivity" name="com_netease_newsreader_activity"/>
+    <item class="com.netease.nr.phone.main.MainActivity" name="com_netease_newsreader_activity"/>
+    <item class="com.netease.nr.biz.ad.newAd.AdActivity" name="com_netease_newsreader_activity"/>
+    <item class="com.cyjh.elfin.activity.SplashActivity" name="com_netease_newsreader_activity"/>
+    <item class="com.xiaomi.midrop.SplashScreen" name="com_xiaomi_midrop"/>
+    <item class="com.xiaomi.midrop.HomeActivity" name="com_xiaomi_midrop"/>
+    <item class="com.ihuayue.verticalsearch.common.ui.activity.SplashActivity" name="com_hhmss_verticalsearch"/>
+    <item class="com.alipay.mobile.quinox.LauncherActivity" name="com_mobileticket"/>
+    <item class="com.MobileTicket.MobileTicket" name="com_mobileticket"/>
+    <item class="com.kekeclient.activity.InitActivity" name="com_kekeclient_"/>
+    <item class="com.kekeclient_.InitActivity" name="com_kekeclient_"/>
+    <item class="xyz.hanks.note.ui.activity.MainActivity" name="xyz_hanks_note"/>
+    <item class="com.sspai.cuto.android.ui.main.MainActivity" name="com_sspai_cuto_android"/>
+    <item class="com.sspai.cuto.android.EntryActivity" name="com_sspai_cuto_android"/>
+    <item class="com.sspai.cuto.android.activity.EntryActivity" name="com_sspai_cuto_android"/>
+    <item class="com.okfunc.towelvideo.MainActivity" name="com_okfunc_towelvideo" not_sure="yes"/>
+    <item class="com.mitao.app1.MainActivity" name="com_mitao_app1" not_sure="yes"/>
+    <item class="com.netease.cc.appstart.CCLauncher" name="com_netease_cc"/>
+    <item class="com.WooGeeTech.poetassistant.MainActivity" name="com_woogeetech_poetassistant" not_sure="yes"/>
+    <item class="com.sina.oasis.main.SplashActivity" name="com_sina_oasis"/>
+    <item class="com.ss.android.auto.policy.AutoPrivacyActivity" name="com_ss_android_auto"/>
+    <item class="com.ss.android.auto.activity.SplashActivity" name="com_ss_android_auto"/>
+    <item class="com.taobao.homeai.MainActivity" name="com_taobao_homeai" not_sure="yes"/>
+    <item class="com.miui.fmservice.MainActivity" name="com_miui_fmservice" not_sure="yes"/>
+    <item class="top.linesoft.kiryuu.pandownload.StartActivity" name="com_android_pandownload_pro"/>
+    <item class="com.tencent.mobileqq.activity.SplashActivity" name="com_tencent_tim"/>
+    <item class="com.qihoo.util.StartActivity" name="com_tencent_tim"/>
+    <item class="com.juapp8.MainActivity" name="com_juapp8" not_sure="yes"/>
+    <item class="com.garena.game.kgtw.SGameActivity" name="com_tencent_ngame_chty"/>
+    <item class="com.xxys1.app.MainActivity" name="com_xxys1_app" not_sure="yes"/>
+    <item class="com.qihoo.browser.launcher.LauncherActivity" name="com_qihoo_browser"/>
+    <item class="com.qihoo.browser.activity.SplashActivity" name="com_qihoo_browser"/>
+    <item class="com.baidu.wenku.splash.view.activity.WelcomeActivity" name="com_baidu_wenku"/>
+    <item class="com.gameloft.android.ANMP.GloftA19HM.MainActivity" name="com_aligames_kuang_kybc_mi"/>
+    <item class="mixiaba.com.Browser.ui.activities.splashScreen" name="mixiaba_com_browser"/>
+    <item class="com.yidian.news.ui.guide.UserGuideActivity" name="com_hipu_yidian"/>
+    <item class="com.One.WoodenLetter.LetterActivity" name="com_one_woodenletter"/>
+    <item class="com.androlua.Welcome" name="com_one_woodenletter"/>
+    <item class="com.One.WoodenLetter.LauncherIconV1" name="com_one_woodenletter"/>
+    <item class="com.miui.virtualsim.ui.MainActivity" name="com_miui_virtualsim"/>
+    <item class="com.plan.kot32.tomatotime.activity.SplashActivity" name="com_plan_kot32_tomatotime"/>
+    <item class="com.android.camera.CameraLauncher" name="com_google_android_googlecamera"/>
+    <item class="com.zhongduomei.rrmj.society.function.launch.activity.LaunchActivity" name="com_zhongduomei_rrmj_society"/>
+    <item class="com.zhongduomei.rrmj.society.ui.AppSplashActivity" name="com_zhongduomei_rrmj_society"/>
+    <item class="com.zhongduomei.rrmj.society.function.old.ui.AppSplashActivity" name="com_zhongduomei_rrmj_society"/>
+    <item class="com.zhongduomei.rrmj.society.function.launch.AppLaunchActivity" name="com_zhongduomei_rrmj_society"/>
+    <item class="com.uzero.baimiao.Hello" name="com_uzero_baimiao"/>
+    <item class="com.westbkj.kjread.MainActivity" name="com_westbkj_kjread" not_sure="yes"/>
+    <item class="com.sina.news.module.launch.activity.PowerOnScreen" name="com_sina_news"/>
+    <item class="com.sina.news.ui.PowerOnScreen" name="com_sina_news"/>
+    <item class="com.jxedt.ui.activitys.GuideActivity" name="com_jxedt"/>
+    <item class="com.intsig.camscanner.launcher.WelcomeDefaultActivity" name="com_intsig_camscanner"/>
+    <item class="com.intsig.camscanner.WelcomeActivity" name="com_intsig_camscanner"/>
+    <item class="com.intsig.camscanner.PremiumWelcomeActivity" name="com_intsig_camscanner"/>
+    <item class="com.lakala.shoudan.MainActivity" name="com_lakala_shoudan" not_sure="yes"/>
+    <item class="com.tencent.gamehelper.ui.main.WelcomeActivity" name="com_tencent_wegame_mangod"/>
+    <item class="cn.kuwo.kwmusichd.MainActivity" name="cn_kuwo_kwmusichd" not_sure="yes"/>
+    <item class="com.apkpure.aegon.main.activity.SplashActivity" name="com_apkpure_aegon"/>
+    <item class="com.apkpure.aegon.activities.SplashActivity" name="com_apkpure_aegon"/>
+    <item class="com.apkpure.aegon.activities.MainFrameActivity" name="com_apkpure_aegon"/>
+    <item class="com.netease.onmyoji.Launcher" name="com_netease_onmyoji_mi"/>
+    <item class="com.google.android.apps.snapseed.WelcomeScreenActivity" name="com_niksoftware_snapseed"/>
+    <item class="com.google.android.apps.snapseed.MainActivity" name="com_niksoftware_snapseed"/>
+    <item class="com.lcw.easydownload.activity.MainActivity" name="com_lcw_easydownload"/>
+    <item class="com.shaiban.audioplayer.mplayer.MainActivity" name="com_shaiban_audioplayer_mplayer" not_sure="yes"/>
+    <item class="com.bilibili.qing.MainActivity" name="com_bilibili_qing" not_sure="yes"/>
+    <item class="com.unity3d.player.UnityPlayerActivity" name="nz_co_codepoint_minimetro"/>
+    <item class="com.ads.ad.SplashAdActivity" name="nz_co_codepoint_minimetro"/>
+    <item class="com.qihoo.util.StartActivity" name="nz_co_codepoint_minimetro"/>
+    <item class="com.aiwu.Splash" name="nz_co_codepoint_minimetro"/>
+    <item class="com.game.nc.PreActivity" name="nz_co_codepoint_minimetro"/>
+    <item class="com.dbgj.stasdk.activity.StaWelcomeActivity" name="nz_co_codepoint_minimetro"/>
+    <item class="com.magdalm.apkextractor.MainActivity" name="com_magdalm_apkextractor" not_sure="yes"/>
+    <item class="com.ss.android.autoprice.MainActivity" name="com_ss_android_autoprice" not_sure="yes"/>
+    <item class="com.shengcai.MainActivity" name="com_shengcai" not_sure="yes"/>
+    <item class="cn.caocaokeji.user.load.LoadActivity" name="cn_caocaokeji_user"/>
+    <item class="cn.caocaokeji.compat.load.LoadActivity" name="cn_caocaokeji_user"/>
+    <item class="com.cliff.geeboo.core.splash.view.SplashActivity" name="com_cliff"/>
+    <item class="com.cliff.model.global.view.SplashAct" name="com_cliff"/>
+    <item class="io.dcloud.PandoraEntry" name="com_hch_miuihd"/>
+    <item class="com.ifreedomer.timenote.MainActivity" name="com_ifreedomer_timenote" not_sure="yes"/>
+    <item class="com.app.pornhub.alias.normal" name="com_app_pornhub"/>
+    <item class="com.app.pornhub.alias.discreet" name="com_app_pornhub"/>
+    <item class="com.mqunar.splash.SplashActivity" name="com_qunar"/>
+    <item class="com.adobe.psmobile.SplashScreeny" name="com_adobe_psmobile"/>
+    <item class="com.adobe.psmobile.SplashScreen" name="com_adobe_psmobile"/>
+    <item class="com.adobe.lrmobile.StorageCheckActivity" name="com_adobe_lrmobile"/>
+    <item class="com.mi.health.home.HomeActivity" name="com_mi_health"/>
+    <item class="com.mi.health.splash.SplashActivity" name="com_mi_health"/>
+    <item class="com.mail139.about.LaunchActivity" name="cn_cj_pe"/>
+    <item class="jp.co.cygames.princessconnectredive.MainActivity" name="jp_co_cygames_princessconnectredive" not_sure="yes"/>
+    <item class="com.eusoft.dict.activity.SplashActivity" name="com_eusoft_eudic"/>
+    <item class="com.eusoft.dict.activity.SplashActivityy" name="com_eusoft_eudic"/>
+    <item class="gz.lifesense.weidong.ui.activity.main.LaunchActivity" name="gz_lifesense_weidong"/>
+    <item class="gz.lifesense.pedometer.ui.StartActivity" name="gz_lifesense_weidong"/>
+    <item class="com.netease.edu.ucmooc.activity.ActivityWelcome" name="com_netease_edu_ucmooc"/>
+    <item class="com.eusoft.recite.fr.MainActivity" name="com_eusoft_recite_fr" not_sure="yes"/>
+    <item class="com.pingan.carowner.activity.SplashActivity" name="com_pingan_carowner"/>
+    <item class="com.wuba.zhuanzhuan.presentation.view.activity.LaunchActivity" name="com_wuba_zhuanzhuan"/>
+    <item class="com.rocket.android.msg.activity.SplashActivity" name="com_feiliao_flipchat_android"/>
+    <item class="com.chaoxing.mobile.activity.SplashActivity" name="com_chaoxing_mobile"/>
+    <item class="com.chaoxing.mobile.main.ui.Logo" name="com_chaoxing_mobile"/>
+    <item class="cn.kuwo.player.activities.EntryActivity" name="cn_kuwo_player"/>
+    <item class="com.qihoo.util.StartActivity" name="cn_kuwo_player"/>
+    <item class="com.tencent.qq.MainActivity" name="com_tencent_qq" not_sure="yes"/>
+    <item class="com.hentre.android.hnkzy.activity.LoginActivity" name="com_hentre_android_hnkzy"/>
+    <item class="com.heavens_above.viewer.MainActivity" name="com_heavens_above_viewer" not_sure="yes"/>
+    <item class="com.yangcong345.android.phone.presentation.activity.SplashActivity" name="com_yangcong345_android_phone"/>
+    <item class="com.uzmap.pkg.EntranceActivity" name="com_manmanbuy_bijia"/>
+    <item class="com.manmanbuy.bijia.MainActivity" name="com_manmanbuy_bijia"/>
+    <item class="com.intsig.BCRLatam.MainActivity" name="com_intsig_bcrlatam" not_sure="yes"/>
+    <item class="org.thoughtcrime.securesms.RoutingActivity" name="org_thoughtcrime_securesms"/>
+    <item class="com.picas.photo.artfilter.android.MainActivity" name="com_picas_photo_artfilter_android" not_sure="yes"/>
+    <item class="com.antutu.benchmark.full.MainActivity" name="com_antutu_benchmark_full"/>
+    <item class="com.didi.sdk.app.launch.DidiLoadDexActivity" name="com_sdu_didi_psnger"/>
+    <item class="com.didi.sdk.app.DidiLoadDexActivity" name="com_sdu_didi_psnger"/>
+    <item class="com.didi.sdk.splash.SplashActivity" name="com_sdu_didi_psnger"/>
+    <item class="com.didi.sdk.app.launch.LauncherActivity" name="com_sdu_didi_psnger"/>
+    <item class="com.didi.sdk.app.launch.splash.SplashActivity" name="com_sdu_didi_psnger"/>
+    <item class="com.qb.qtranslate.qactivity.SplashActivity" name="com_qb_qtranslator"/>
+    <item class="com.qb.qtranslator.qactivity.SplashActivity" name="com_qb_qtranslator"/>
+    <item class="com.github.shadowsocks.Shadowsocks" name="in_zhaoj_shadowsocksrr"/>
+    <item class="com.movitech.eop.login.Splash2Activity" name="com_sammbo_im"/>
+    <item class="co.polarr.polarrphotoeditor.EditorActivity" name="photo_editor_polarr"/>
+    <item class="photo.editor.polarr.SplashScreen" name="photo_editor_polarr"/>
+    <item class="com.xiaomi.router.module.splash.SplashActivity" name="com_xiaomi_router"/>
+    <item class="com.shanbay.sentence.activity.SplashActivity" name="com_shanbay_sentence"/>
+    <item class="com.shanbay.words.startup.SplashActivity" name="com_shanbay_sentence"/>
+    <item class="com.desmos.calculator.MainActivity" name="com_desmos_calculator"/>
+    <item class="yyc.xk.core.MainActivity" name="yyc_xk_core" not_sure="yes"/>
+    <item class="com.farplace.qingzhuo.MainActivity" name="com_farplace_qingzhuo" not_sure="yes"/>
+    <item class="com.xiaomi.pass.MainActivity" name="com_xiaomi_pass" not_sure="yes"/>
+    <item class="com.miui.securityscan.MainActivity" name="com_miui_securitycenter"/>
+    <item class="com.miui.securitycenter.MainActivity" name="com_miui_securitycenter"/>
+    <item class="com.rhmsoft.play.MainActivity" name="com_rhmsoft_pulsar_pro"/>
+    <item class="com.moyan.dailytask.ui.SplashActivity" name="com_moyan_dailytask"/>
+    <item class="com.tencent.mtt.SplashActivity" name="com_tencent_filemanager"/>
+    <item class="com.fteam.openmaster.SplashActivity" name="com_tencent_filemanager"/>
+    <item class="com.fteam.openmaster.MainActivity" name="com_tencent_filemanager"/>
+    <item class="com.xiaomi.mimobile.activity.RouterActivity" name="com_xiaomi_mimobile"/>
+    <item class="com.xiaomi.mimobile.activity.StartActivity" name="com_xiaomi_mimobile"/>
+    <item class="com.xiaomi.mimobile.XiaomiMobileMainActivity" name="com_xiaomi_mimobile"/>
+    <item class="com.xiaomi.mimobile.activity.XiaomiMobileMainActivity" name="com_xiaomi_mimobile"/>
+    <item class="com.sankuai.meituan.activity.PreloadedWelcome" name="com_sankuai_meituan"/>
+    <item class="com.meituan.android.pt.homepage.activity.Welcome" name="com_sankuai_meituan"/>
+    <item class="com.sankuai.meituan.activity.Welcome" name="com_sankuai_meituan"/>
+    <item class="com.sankuai.meituan.activity.MainActivity" name="com_sankuai_meituan"/>
+    <item class="com.meituan.android.pt.homepage.activity.MainActivity" name="com_sankuai_meituan"/>
+    <item class="com.sankuai.meituan.activity.FlashWelcome" name="com_sankuai_meituan"/>
+    <item class="com.dandelion.routine.activity.SplashActivity" name="com_dandelion_routine"/>
+    <item class="com.fenbi.android.uni.activity.portal.WelcomeActivity" name="com_fenbi_android_servant"/>
+    <item class="com.mlab.cam.MainActivity" name="com_mlab_cam" not_sure="yes"/>
+    <item class="com.baidu.netdisk.ui.MainActivity" name="com_baidu_netdisk"/>
+    <item class="com.baidu.netdisk.ui.Navigate" name="com_baidu_netdisk"/>
+    <item class="com.startad.StartActivity" name="com_baidu_netdisk"/>
+    <item class="com.androlua.Welcome" name="com_baidu_netdisk"/>
+    <item class="com.baidu.netdisk.ui.DefaultMainActivity" name="com_baidu_netdisk"/>
+    <item class="android.didikee.gif.SplashActivity" name="com_didikee_gifparser"/>
+    <item class="com.didikee.gifparser.ui.PermissionActivity" name="com_didikee_gifparser"/>
+    <item class="com.homelink.android.SplashScreenActivity" name="com_homelink_android"/>
+    <item class="com.pcncn.jj.MainActivity" name="com_pcncn_jj" not_sure="yes"/>
+    <item class="com.mipay.wallet.ui.MipayEntryActivity" name="com_mipay_wallet"/>
+    <item class="com.lietou.mishu.activity.LPSplashActivity" name="com_lietou_mishu"/>
+    <item class="com.lietou.mishu.activity.LPSecretaryActivity" name="com_lietou_mishu"/>
+    <item class="com.camerasideas.instashot.DummyActivity" name="com_camerasideas_instashot"/>
+    <item class="com.taobao.tao.welcome.Welcome" name="com_taobao_htao_android"/>
+    <item class="com.taobao.htao.android.common.activity.MainDockerActivity" name="com_taobao_htao_android"/>
+    <item class="com.diyidan.ui.launcher.LauncherActivity" name="com_diyidan"/>
+    <item class="com.diyidan.activity.SplashActivity" name="com_diyidan"/>
+    <item class="com.baidu.tiebabz.MainActivity" name="com_baidu_tiebabz" not_sure="yes"/>
+    <item class="com.taobao.splash.SplashActivity" name="com_taobao_litetao"/>
+    <item class="cn.u313.music.MainActivity" name="cn_u313_music" not_sure="yes"/>
+    <item class="com.pplive.androidphone.ui.FirstActivity" name="com_pplive_androidphone"/>
+    <item class="com.pplive.androidphone.StartActivity" name="com_pplive_androidphone"/>
+    <item class="com.qihoo.util.StartActivity" name="com_pplive_androidphone"/>
+    <item class="com.baidu.youavideo.app.ui.SplashActivity" name="com_baidu_youavideo"/>
+    <item class="com.keramidas.TitaniumBackup.MainActivity" name="com_keramidas_titaniumbackup"/>
+    <item class="com.blink.academy.nomo.ui.activity.splash.NomoSplashActivity" name="com_blink_academy_nomo"/>
+    <item class="com.tencent.qtcf.authorize.LoginBarrierActivity" name="com_tencent_qt_sns"/>
+    <item class="com.tencent.qt.sns.login.LaunchActivity" name="com_tencent_qt_sns"/>
+    <item class="com.bw.zsch.NavigationActivity" name="com_bw30_zsch"/>
+    <item class="com.soft.blued.ui.welcome.FirstActivity" name="com_soft_blued"/>
+    <item class="com.soft.blued.icon0" name="com_soft_blued"/>
+    <item class=".icon0" name="com_soft_blued"/>
+    <item class="com.soft.blued.icon2" name="com_soft_blued"/>
+    <item class="com.hundsun.winner.pazq.ui.home.activity.NewSplashActivity" name="com_hundsun_winner_pazq"/>
+    <item class="com.hundsun.winner.pazq.ui.init.activity.SplashActivity" name="com_hundsun_winner_pazq"/>
+    <item class="com.kuaikan.comic.ui.LaunchActivity" name="com_kuaikan_comic"/>
+    <item class="com.mgoogle.android.gms.MainActivity" name="com_mgoogle_android_gms" not_sure="yes"/>
+    <item class="com.tencent.edu.module.SplashActivity" name="com_tencent_edu"/>
+    <item class="cc.septnet.scholar.MainActivity" name="cc_septnet_scholar" not_sure="yes"/>
+    <item class="com.bilibili.priconne.MainActivity" name="jp_co_cygames_princessconnectredive" not_sure="yes"/>
+    <item class="com.qiyi.video.WelcomeActivity" name="com_qiyi_video"/>
+    <item class="com.qiyi.video.StartActivity" name="com_qiyi_video"/>
+    <item class="com.qiyi.video.OEMActivity" name="com_qiyi_video"/>
+    <item class="org.qiyi.video.welcome.WelcomeActivity" name="com_qiyi_video"/>
+    <item class="com.start.StartActivity" name="com_qiyi_video"/>
+    <item class="com.jd.jrapp.bm.mainbox.main.MainActivity" name="com_jd_jrapp"/>
+    <item class="com.jd.jrapp.bm.mainbox.WelcomeActivity" name="com_jd_jrapp"/>
+    <item class="com.jd.jrapp.WelcomeActivity" name="com_jd_jrapp"/>
+    <item class="com.jd.jrapp.ver2.main.WelcomeActivity" name="com_jd_jrapp"/>
+    <item class="com.jd.jrapp.ver2.main.welcome.WelcomeActivity" name="com_jd_jrapp"/>
+    <item class="com.xxx.tv.MainActivity" name="com_xxx_tv" not_sure="yes"/>
+    <item class="com.qyer.android.plan.MainActivity" name="com_qyer_android_plan" not_sure="yes"/>
+    <item class="com.smartisanos.smartfolder.aoa.MainActivity" name="com_smartisanos_smartfolder_aoa"/>
+    <item class="com.ilulutv.fulao2.MainActivity" name="com_ilulutv_fulao2" not_sure="yes"/>
+    <item class="com.xingse.app.pages.startup.SplashScreenActivity" name="cn_danatech_xingseapp"/>
+    <item class="com.qihoo.util.StartActivity" name="cn_danatech_xingseapp"/>
+    <item class="com.mxtech.videoplayer.ad.ActivityWelcomeMX" name="com_mxtech_videoplayer_pro"/>
+    <item class="com.mxtech.videoplayer.pro.ActivityWelcomeMX" name="com_mxtech_videoplayer_pro"/>
+    <item class="com.mxtech.videoplayer.pro.ActivityMediaList" name="com_mxtech_videoplayer_pro"/>
+    <item class="com.mxtech.videoplayer.ad.ActivityMediaList" name="com_mxtech_videoplayer_pro"/>
+    <item class="com.mxtech.videoplayer.ActivityMediaList" name="com_mxtech_videoplayer_pro"/>
+    <item class="com.linkedin.android.authenticator.LaunchActivity" name="com_linkedin_android"/>
+    <item class="com.linkedin.android.authenticator.PreInstallLaunchActivity" name="com_linkedin_android"/>
+    <item class="com.ss.android.ugc.aweme.splash.SplashActivity" name="com_ss_android_ugc_trill"/>
+    <item class="com.ss.android.ugc.trill.splash.SplashActivity" name="com_ss_android_ugc_trill"/>
+    <item class="top.gtf35.tiktok.MainActivity" name="com_ss_android_ugc_trill"/>
+    <item class="com.tencent.qt.qtl.activity.main.LauncherActivity" name="com_tencent_qt_qtl"/>
+    <item class="com.pandadastudio.ninjamustdie3.mi.MainActivity" name="com_pandadastudio_ninjamustdie3_mi"/>
+    <item class="com.meizu.flyme.calculator.Calculator" name="com_meizu_flyme_calculator"/>
+    <item class="com.youdao.note.activity2.SplashActivity" name="com_youdao_note"/>
+    <item class="com.youdao.note.activity2.MainActivity" name="com_youdao_note"/>
+    <item class="com.youdao.note.v4.MainActivity" name="com_youdao_note"/>
+    <item class="com.xiaomi.gamecenter.pad.MainActivity" name="com_meizu_flyme_gamecenter" not_sure="yes"/>
+    <item class="com.github.shadowsocks.Shadowsocks" name="in_zhaoj_shadowsocksrr"/>
+    <item class="xiaomi" name="com_android_system_usb_notifications_button"/>
+    <item class="com.tgc.sky.TGCBootActivity" name="com_netease_sky"/>
+    <item class="com.sgai.jjsay.MainActivity" name="com_sgai_jjsay" not_sure="yes"/>
+    <item class="org.illegaller.ratabb.hishoot2i.MainActivity" name="org_illegaller_ratabb_hishoot2i" not_sure="yes"/>
+    <item class="com.edol.priceclub.MainActivity" name="com_edol_priceclub" not_sure="yes"/>
+    <item class="com.example.administrator.searchpicturetool.launch.LaunchActivity" name="com_example_administrator_searchpicturetool"/>
+    <item class="com.example.administrator.searchpicturetool.launch.SplashEmptyActivity" name="com_example_administrator_searchpicturetool"/>
+    <item class="com.wpengapp.support.activity.LauncherActivity" name="com_wpengapp_lightstart"/>
+    <item class="com.youku.phone.ActivityWelcome" name="com_youku_phone"/>
+    <item class="com.youku.phone.ActivityWelcomeCopy" name="com_youku_phone"/>
+    <item class="com.start.StartActivity" name="com_youku_phone"/>
+    <item class="com.netease.sky.mi.MainActivity" name="com_netease_sky" not_sure="yes"/>
+    <item class="cn.gavinliu.snapmod.ui.SplashActivity" name="cn_gavinliu_snapmod"/>
+    <item class="com.fileunzip.zxwknight.MainActivity" name="com_fileunzip_zxwknight" not_sure="yes"/>
+    <item class="com.cebbank.mobile.cemb.ui.activity.SplashActivity" name="com_cebbank_mobile_cemb"/>
+    <item class="com.adinnet.xlebike.splash.SplashActivity" name="com_adinnet_xlebike"/>
+    <item class="com.xiaomi.xmsf.account.ui.MiCloudSettingsActivity.MainActivity" name="com_xiaomi_xmsf_account_ui_micloudsettingsactivity" not_sure="yes"/>
+    <item class="com.forms.start.ActStart" name="com_forms"/>
+    <item class="com.forms.start.ConfigurationActivity" name="com_forms"/>
+    <item class="main.smart.dzgj.MainActivity" name="main_smart_dzgj" not_sure="yes"/>
+    <item class="com.ztgame.yyzy.adapternotchwithchannel.AdapterNotch" name="com_ztgame_yyzy"/>
+    <item class="com.giant.sdk.unity.GiantSDKActivity" name="com_ztgame_yyzy"/>
+    <item class="com.quchaogu.dxw.main.MainActivity" name="com_quchaogu_dxw"/>
+    <item class="com.tencent.gamehelper.ui.main.SplashActivity" name="com_tencent_gamehelper_smoba"/>
+    <item class="com.tencent.gamehelper.ui.main.WelcomeActivity" name="com_tencent_gamehelper_smoba"/>
+    <item class="com.smartisan.flashim.main.activity.MainActivity" name="com_bullet_messenger"/>
+    <item class="com.smartisan.flashim.main.activity.BulletMainActivity" name="com_bullet_messenger"/>
+    <item class="com.smartisan.flashim.main.activity.WelcomeActivity" name="com_bullet_messenger"/>
+    <item class="com.smartisan.flashim.main.activity.LaunchActivity" name="com_bullet_messenger"/>
+    <item class="com.tencent.tmgp.txpvzwjbmidas.MainActivity" name="com_tencent_tmgp_txpvzwjbmidas" not_sure="yes"/>
+    <item class="com.iflytek.recinbox.activity.SplashActivity" name="com_iflytek_recinbox"/>
+    <item class="com.alibaba.wireless.launch.LauncherActivity" name="com_alibaba_wireless"/>
+    <item class="com.alibaba.wireless.v5.LauncherActivity" name="com_alibaba_wireless"/>
+    <item class="com.zt.train.activity.MainActivity" name="com_yipiao"/>
+    <item class="com.yipiao.activity.LaunchActivity" name="com_yipiao"/>
+    <item class="com.zt.main.entrance.ZTLaunchActivity" name="com_yipiao"/>
+    <item class="com.zt.train.activity.LaunchActivity" name="com_yipiao"/>
+    <item class="cn.caocaokeji.driver.MainActivity" name="cn_caocaokeji_driver" not_sure="yes"/>
+    <item class="com.tencent.qgame.presentation.activity.SplashActivity" name="com_tencent_qgame"/>
+    <item class="com.microsoft.todos.ui.LaunchActivity" name="com_microsoft_todos"/>
+    <item class="com.lltskb.lltskb.MainLLTSkb" name="com_lltskb_lltskb"/>
+    <item class="com.zipow.videobox.LauncherActivity" name="us_zoom_videomeetings"/>
+    <item class="cz.hipercalc.pro.MainActivity" name="cz_hipercalc_pro" not_sure="yes"/>
+    <item class="vmovier.com.activity.ui.login.SplashActivity" name="vmovier_com_activity"/>
+    <item class="vmovier.com.activity.ui.startup.SplashActivity" name="vmovier_com_activity"/>
+    <item class="ceui.lisa.pixiv.MainActivity" name="ceui_lisa_pixiv" not_sure="yes"/>
+    <item class="com.geely.ticket.activities.MainActivity" name="com_geely_ticket_activities" not_sure="yes"/>
+    <item class="com.tencent.gallerymanager.ui.main.splash.SplashActivity" name="com_tencent_gallerymanager"/>
+    <item class="com.taobao.sns.activity.LaunchActivity" name="com_taobao_etao"/>
+    <item class="com.etao.mobile.start.Welcome" name="com_taobao_etao"/>
+    <item class="com.xchat.stevenzack.langenius.MainActivity" name="com_xchat_stevenzack_langenius"/>
+    <item class="com.guokr.mobile.MainActivity" name="com_guokr_mobile" not_sure="yes"/>
+    <item class="com.uchappy.riddles.MainActivity" name="com_uchappy_riddles" not_sure="yes"/>
+    <item class="web1n.stopapp.activity.MainActivity" name="web1n_stopapp"/>
+    <item class="com.yidian.xiaomi.ui.guide.UserGuideActivity" name="com_yidian_xiaomi"/>
+    <item class="fm.qingting.qtradio.QTRadioActivity" name="fm_qingting_qtradio"/>
+    <item class="fm.qingting.qtradio.WelcomeActivity" name="fm_qingting_qtradio"/>
+    <item class="com.games.hc.acing.mi.MainActivity" name="com_games_hc_acing_mi" not_sure="yes"/>
+    <item class="com.oneplus.bbs.ui.activity.PreStartActivity" name="com_oneplus_bbs"/>
+    <item class="com.oneplus.bbs.ui.activity.TutorialActivity" name="com_oneplus_bbs"/>
+    <item class="com.oneplus.bbs.ui.activity.MainActivity" name="com_oneplus_bbs"/>
+    <item class="com.drpalm.duodianbase.Activity.Startup.StartupActivity" name="com_drcom_duodian"/>
+    <item class="com.wrste.jiduscanning.MainActivity" name="com_wrste_jiduscanning" not_sure="yes"/>
+    <item class="com.android.weici.junior.student.MainActivity" name="com_android_weici_junior_student" not_sure="yes"/>
+    <item class="com.signallab.thunder.activity.MainActivity" name="com_fast_free_unblock_thunder_vpn"/>
+    <item class="cc.dingnet.yunfangp.view.activity.SplashActivity" name="cc_dingnet_yunfangp"/>
+    <item class="com.nike.omega.MainActivity" name="com_nike_omega" not_sure="yes"/>
+    <item class="com.android.music.MusicBrowserActivity" name="com_android_music"/>
+    <item class="com.android.music.MusicScanResultActivity" name="com_android_music"/>
+    <item class="com.android.music.ui.MusicBrowserActivity" name="com_android_music"/>
+    <item class="com.android.music.activitymanagement.TopLevelActivity" name="com_android_music"/>
+    <item class="com.android.music.VideoBrowserActivity" name="com_android_music"/>
+    <item class="com.android.music.MovieListActivity" name="com_android_music"/>
+    <item class="com.htinns.UI.LoadingActivity" name="com_htinns"/>
+    <item class="com.huazhu.loading.LoadingActivity" name="com_htinns"/>
+    <item class="com.lixiangdong.audioextrator.MainActivity" name="com_lixiangdong_audioextrator" not_sure="yes"/>
+    <item class="cn.ledongli.runner.ui.activity.SplashScreenActivity" name="cn_ledongli_runner"/>
+    <item class="com.tencent.mobileqq.activity.SplashActivity" name="com_tencent_qqlite"/>
+    <item class="com.tencent.qqlite.activity.SplashActivity" name="com_tencent_qqlite"/>
+    <item class="com.omarea.vtools.activities.ActivityStartSplash" name="com_omarea_vtools"/>
+    <item class="com.omarea.vtools.ActivityMain" name="com_omarea_vtools"/>
+    <item class="com.omarea.vtools.activitys.ActivityMain" name="com_omarea_vtools"/>
+    <item class="com.meizu.flyme.flymebbs.activity.WelcomeActivity" name="com_meizu_flyme_flymebbs"/>
+    <item class="com.meizu.flyme.flymebbs.ui.LoadingActivity" name="com_meizu_flyme_flymebbs"/>
+    <item class="com.miui.bugreport.ui.MainTabActivity" name="com_miui_bugreport"/>
+    <item class="com.miui.bugreport.ui.MainActivity" name="com_miui_bugreport"/>
+    <item class="me.gfuil.bmap.StartActivity3" name="me_gfuil_bmap"/>
+    <item class="me.gfuil.bmap.StartActivity2" name="me_gfuil_bmap"/>
+    <item class="me.gfuil.bmap.StartActivity" name="me_gfuil_bmap"/>
+    <item class="me.gfuil.bmap.activity.StartActivity" name="me_gfuil_bmap"/>
+    <item class="me.gfuil.bmap.activity.MainActivity" name="me_gfuil_bmap"/>
+    <item class="com.duitang.main.activity.SplashActivity" name="com_duitang_main"/>
+    <item class="tv.pps.mobile.MainActivity" name="tv_pps_mobile" not_sure="yes"/>
+    <item class="jp.naver.line.android.activity.SplashActivity" name="jp_naver_line_android"/>
+    <item class="com.tencent.token.ui.LogoActivity" name="com_tencent_token"/>
+    <item class="com.canva.app.editor.splash.SplashActivity" name="cn_canva_editor"/>
+    <item class="com.maimemo.android.momo.ui.MainActivity" name="com_maimemo_android_momo"/>
+    <item class="tencent.frame.f" name="com_maimemo_android_momo"/>
+    <item class="com.cjtec.uncompress.MainActivity" name="com_cjtec_uncompress" not_sure="yes"/>
+    <item class="com.douban.frodo.activity.SplashActivity" name="com_douban_frodo"/>
+    <item class="com.nice.main.activities.MainActivity_" name="com_nice_main"/>
+    <item class="com.rytong.hnair.MainActivity" name="com_rytong_hnair" not_sure="yes"/>
+    <item class="com.Xvideo.Alpha.MainActivity" name="com_xvideo_alpha" not_sure="yes"/>
+    <item class="com.github.exact7.xtra.MainActivity" name="com_github_exact7_xtra" not_sure="yes"/>
+    <item class="com.lantern.launcher.ui.MainActivity" name="com_snda_lantern_wifilocating"/>
+    <item class="com.miHoYo.overridenativeactivity.OverrideNativeActivity" name="com_mihoyo_bh3_mi"/>
+    <item class="newdoone.lls.ui.aty.GuidePageAty" name="com_traffic_handtrafficbible"/>
+    <item class="com.google.android.apps.chrome.Main" name="com_android_chrome"/>
+    <item class="com.android.chrome.Main" name="com_android_chrome"/>
+    <item class="com.ximalaya.ting.android.main.activity.account.WelComeActivity" name="com_ximalaya_ting_android"/>
+    <item class="com.ximalaya.ting.android.host.activity.WelComeActivity" name="com_ximalaya_ting_android"/>
+    <item class="com.ximalaya.ting.android.activity.account.WelComeActivity" name="com_ximalaya_ting_android"/>
+    <item class="com.ximalaya.ting.android.activity.login.WelcomeActivity" name="com_ximalaya_ting_android"/>
+    <item class="com.vmos.app.NewSurActivity" name="com_vmos_app"/>
+    <item class="com.android.camera.CameraLauncher" name="com_google_android_googlecamera"/>
+    <item class="com.hanweb.android.zhejiang.activity.MainActivity" name="com_hanweb_android_zhejiang_activity" not_sure="yes"/>
+    <item class="cn.wsds.gamemaster.ui.ActivityStart" name="cn_wsds_gamemaster"/>
+    <item class="org.gushiwen.gushiwen.WelcomeActivity" name="org_gushiwen_gushiwen"/>
+    <item class="com.xiaomi.shop.activity.MainTabActivity.MainActivity" name="com_xiaomi_padshop" not_sure="yes"/>
+    <item class="com.changba.splash.Welcome" name="com_changba"/>
+    <item class="com.changba.activity.Welcome" name="com_changba"/>
+    <item class="com.miui.cloudbackup.MainActivity" name="com_miui_cloudbackup" not_sure="yes"/>
+    <item class="cc.septnet.student.MainActivity" name="cc_septnet_student" not_sure="yes"/>
+    <item class="com.xmtj.mkz.MainActivity" name="com_xmtj_mkz" not_sure="yes"/>
+    <item class="zwzt.fangqiu.edu.com.zwzt.module.splash.SplashActivity" name="zwzt_fangqiu_edu_com_zwzt"/>
+    <item class="zwzt.fangqiu.edu.com.ztzt.feature_splash.SplashActivity" name="zwzt_fangqiu_edu_com_zwzt"/>
+    <item class="zwzt.fangqiu.edu.com.zwzt.feature_splash.NewSplashActivity" name="zwzt_fangqiu_edu_com_zwzt"/>
+    <item class="com.qyer.android.jinnang.activity.launcher.SplashActivity" name="com_qyer_android_jinnang"/>
+    <item class="com.alensw.PicFolder.GalleryActivity" name="com_alensw_picfolder"/>
+    <item class="com.alensw.PicFolder.MainActivity" name="com_alensw_picfolder"/>
+    <item class="com.twitter.android.StartActivity" name="com_twitter_android"/>
+    <item class="com.twitter.android.LoginActivity" name="com_twitter_android"/>
+    <item class="video.downloader.videodownloader.activity.MainActivity" name="video_downloader_videodownloader"/>
+    <item class="com.chanjet.workcircle.MainActivity" name="com_chanjet_workcircle" not_sure="yes"/>
+    <item class="com.google.android.youtube.HomeActivity" name="com_google_android_youtube"/>
+    <item class="com.google.android.youtube.HomePage" name="com_google_android_youtube"/>
+    <item class="com.google.android.youtube.app.honeycomb.Shell$HomeActivity" name="com_google_android_youtube"/>
+    <item class="com.google.android.youtube.app.froyo.phone.HomeActivity" name="com_google_android_youtube"/>
+    <item class="com.google.android.youtube.app.tablet.HomeActivity" name="com_google_android_youtube"/>
+    <item class="net.ogmods.youtube.OGDownloadManager1" name="com_google_android_youtube"/>
+    <item class="com.meizu.mcare.ui.SplashActivity" name="com_meizu_mcare"/>
+    <item class="com.meizu.mrepair.user.ui.MainActivity" name="com_meizu_mcare"/>
+    <item class="com.meizu.mrepair.user.ui.SplashActivity" name="com_meizu_mcare"/>
+    <item class="com.meizu.ui.StartActivity" name="com_meizu_mcare"/>
+    <item class="cn.wps.moffice.documentmanager.PreStartActivity" name="com_kingsoft_moffice_pro"/>
+    <item class="me.weishu.exp.ui.MainActivity" name="me_weishu_exp"/>
+    <item class="com.izaodao.gc.activity.WelcomActivity" name="com_izaodao_gc"/>
+    <item class="com.tgc.sky.android.test.gold.MainActivity" name="com_tgc_sky_android_test_gold" not_sure="yes"/>
+    <item class="com.netease.cloudmusic.activity.LoadingActivity" name="com_netease_cloudmusic"/>
+    <item class="com.startad.StartActivity" name="com_netease_cloudmusic"/>
+    <item class="com.tencent.news.activity.SplashActivity" name="com_tencent_news"/>
+    <item class="com.tencent.news.ui.MainActivity2" name="com_tencent_news"/>
+    <item class="com.androlua.Welcome" name="com_tencent_news"/>
+    <item class="com.alpha.lagouapk.HelloActivity" name="com_alpha_lagouapk"/>
+    <item class="com.vsco.cam.navigation.LithiumActivity" name="com_vsco_cam"/>
+    <item class="com.vsco.cam.navigation.NavigationBaseActivity" name="com_vsco_cam"/>
+    <item class="com.vsco.cam.gallery.ImageGridActivity" name="com_vsco_cam"/>
+    <item class="com.vsco.cam.SplashActivity" name="com_vsco_cam"/>
+    <item class="com.yemoo.ymplayer.MainActivity" name="com_yemoo_ymplayer" not_sure="yes"/>
+    <item class="app.bbnews.jy.MainActivity" name="app_bbnews_jy" not_sure="yes"/>
+    <item class="com.xiaomi.xmsf.FindDevice.MainActivity" name="com_xiaomi_xmsf_finddevice" not_sure="yes"/>
+    <item class="com.box.unzip.MainActivity" name="com_box_unzip" not_sure="yes"/>
+    <item class="com.qmd.junzi.Activity.MainActivity" name="com_qmd_junzi_qmd"/>
+    <item class="com.haixue.app.android.HaixueAcademy.h4.MainActivity" name="com_haixue_app_android_haixueacademy_h4" not_sure="yes"/>
+    <item class="com.quizlet.quizletandroid.ui.RootActivity" name="com_quizlet_quizletandroid"/>
+    <item class="com.quizlet.quizletandroid.activities.RootActivity" name="com_quizlet_quizletandroid"/>
+    <item class="com.sina.weibog3.MainActivity" name="com_sina_weibog3" not_sure="yes"/>
+    <item class="me.angeldevil.autoskip.ui.MainActivity" name="me_angeldevil_autoskip"/>
+    <item class="me.angeldevil.autoskip.Launcher" name="me_angeldevil_autoskip"/>
+    <item class="com.immomo.momo.android.activity.WelcomeActivity" name="com_immomo_momo"/>
+    <item class="net.xmind.doughnut.MainActivity" name="net_xmind_doughnut"/>
+    <item class="cn.everphoto.lite.MainActivity" name="cn_everphoto_lite" not_sure="yes"/>
+    <item class="com.huke.hk.MainActivity" name="com_huke_hk" not_sure="yes"/>
+    <item class="com.meizu.media.ebook.EBookActivity" name="com_meizu_media_ebook"/>
+    <item class="com.meizu.media.ebook.bookstore.EBookActivity" name="com_meizu_media_ebook"/>
+    <item class="com.miui.gallery.activity.HomePageActivity" name="com_miui_gallery"/>
+    <item class="com.miui.gallery.app.Gallery" name="com_miui_gallery"/>
+    <item class="com.bluewhale.vpn.shadowsocks.MainActivity" name="com_bluewhale_vpn_shadowsocks" not_sure="yes"/>
+    <item class="com.weixikeji.privatecamera.MainActivity" name="com_weixikeji_privatecamera" not_sure="yes"/>
+    <item class="com.glodon.constructioncalculators.main.SplashActivity" name="com_glodon_constructioncalculators"/>
+    <item class="com.huaer.mooc.MainActivity" name="com_huaer_mooc" not_sure="yes"/>
+    <item class="com.microfield.startUp.MainActivity" name="com_microfield_startup" not_sure="yes"/>
+    <item class="com.chinatelecom.bestpayclient.ui.activity.SplashActivity" name="com_chinatelecom_bestpayclient"/>
+    <item class="com.chinatelecom.bestpayclient.ui.activity.BufferActivity" name="com_chinatelecom_bestpayclient"/>
+    <item class="com.chinatelecom.bestpayclient.mvp.launch.MVPSplashActivity" name="com_chinatelecom_bestpayclient"/>
+    <item class="com.yitong.mbank.psbc.android.activity.SplashActivity" name="com_yitong_mbank_psbc"/>
+    <item class="com.sepnet.teacher.MainActivity" name="com_sepnet_teacher" not_sure="yes"/>
+    <item class="com.bilibili.blhx.uc.MainActivity" name="com_bilibili_blhx_uc" not_sure="yes"/>
+    <item class="com.miui.whitenoise.HomeActivity2_x" name="com_miui_whitenoise"/>
+    <item class="com.miui.whitenoise.MainActivity" name="com_miui_whitenoise"/>
+    <item class="com.miui.whitenoise.HomeActivity" name="com_miui_whitenoise"/>
+    <item class="com.epicgames.ue4.SplashActivity" name="com_tencent_ig"/>
+    <item class="com.hpbr.bosszhipin.module.launcher.WelcomeActivity" name="com_hpbr_bosszhipin"/>
+    <item class="com.hpbr.bosszhipin.module.launcher. WelcomeActivity" name="com_hpbr_bosszhipin"/>
+    <item class="com.xiaomi.hm.health.activity.StartUpActivity" name="com_xiaomi_hm_health"/>
+    <item class="cn.com.smartdevices.bracelet.activity.StartUpActivity" name="com_xiaomi_hm_health"/>
+    <item class="tech.pingx.watchface.MainActivity" name="tech_pingx_watchface" not_sure="yes"/>
+    <item class="com.miHoYo.overridenativeactivity.OverrideNativeActivity" name="com_mihoyo_bh3_mi"/>
+    <item class="com.miui.miwallpaper.mars.MainActivity" name="com_miui_miwallpaper_mars" not_sure="yes"/>
+    <item class="info.red.virtual.MainActivity" name="info_red_virtual" not_sure="yes"/>
+    <item class="com.xingluo.mpa.MainActivity" name="com_xingluo_mpa" not_sure="yes"/>
+    <item class="com.github.shadowsocks.activitie.MainActivity" name="com_cqyapp_tinyproxy"/>
+    <item class="com.sunrise.scmbhc.ui.activity.loading.LoadingActivity" name="com_cqmc_client"/>
+    <item class="com.bilibili.comic.splash.view.activity.SplashActivity" name="com_bilibili_comic"/>
+    <item class="com.chrissen.module_card.module_card.functions.splash.SplashActivity" name="com_chrissen_card"/>
+    <item class="com.chrissen.module_card.module_card.functions.main.mvp.view.activity.MainActivity" name="com_chrissen_card"/>
+    <item class="com.chrissen.card.MainActivity" name="com_chrissen_card"/>
+    <item class="cn.cntv.ui.activity.SplashActivity" name="cn_cntv"/>
+    <item class="cn.cntv.activity.LogoActivity" name="cn_cntv"/>
+    <item class="com.ifeng.news2.activity.SplashActivity" name="com_ifeng_news2"/>
+    <item class="com.android.updater.MainActivity" name="com_android_updater"/>
+    <item class="xiaomi" name="com_android_updater"/>
+    <item class="cn.android.sia.exitentrypermit.MainActivity" name="cn_android_sia_exitentrypermit" not_sure="yes"/>
+    <item class="com.tencent.wework.launch.LaunchSplashActivity" name="com_tencent_wework"/>
+    <item class="com.tencent.wework.launch.WwMainActivity" name="com_tencent_wework"/>
+    <item class="com.android.camera.GalleryPicker" name="com_mlab_cam"/>
+    <item class="com.android.camera.Camera" name="com_mlab_cam"/>
+    <item class="com.android.camera.CameraActivity" name="com_mlab_cam"/>
+    <item class="com.android.camera.CameraLauncher" name="com_mlab_cam"/>
+    <item class="com.android.camera.CameraActivityWraper" name="com_mlab_cam"/>
+    <item class="com.android.camera.CameraEntry" name="com_mlab_cam"/>
+    <item class="com.sprd.gallery3d.app.VideoActivity" name="com_miui_gallery"/>
+    <item class="com.android.newgallery.NewGallery" name="com_miui_gallery"/>
+    <item class="com.android.gallery3d.app.MainActivity" name="com_miui_gallery"/>
+    <item class="com.android.gallery3d.app.GalleryTabActivity" name="com_miui_gallery"/>
+    <item class="com.android.gallery3d.app.GalleryActivity" name="com_miui_gallery"/>
+    <item class="com.android.gallery3d.app.Gallery" name="com_miui_gallery"/>
+    <item class="com.huawei.gallery.app.GalleryMain" name="com_miui_gallery"/>
+    <item class="com.huawei.gallery.app.GalleryActivity" name="com_miui_gallery"/>
+    <item class="com.android.gallery3d.app.PermissionActivity" name="com_miui_gallery"/>
+    <item class="com.android.camera.CameraLauncher" name="com_miui_gallery"/>
+    <item class="com.android.hwcamera" name="com_miui_gallery"/>
+    <item class="com.android.gallery3d.vivo.GalleryTabActivity" name="com_miui_gallery"/>
+    <item class="com.android.gallery3d.camera_activity1" name="com_miui_gallery"/>
+    <item class=".app.GalleryActivity" name="com_miui_gallery"/>
+    <item class="com.android.gallery3d.app.TNGalleryActivity" name="com_miui_gallery"/>
+    <item class="com.android.medialist.PlayListActivity" name="com_miui_gallery"/>
+    <item class="com.freeme.gallery.app.GalleryNewActivity" name="com_miui_gallery"/>
+    <item class="com.tombayley.volumepanel.MainActivity" name="com_tombayley_volumepanel" not_sure="yes"/>
+    <item class="com.tencent.qqmusic.MainActivity" name="com_tencent_qqmusic"/>
+    <item class="com.tencent.qqmusic.activity.AppStarterActivity" name="com_tencent_qqmusic"/>
+    <item class="com.qihoo.util.StartActivity" name="com_tencent_qqmusic"/>
+    <item class="com.tencent.assistant.activity.SplashActivity" name="com_tencent_android_qqdownloader"/>
+    <item class="com.tencent.pangu.link.SplashActivity" name="com_tencent_android_qqdownloader"/>
+    <item class="com.tencent.pangu.link.SplashActivityAlias0" name="com_tencent_android_qqdownloader"/>
+    <item class="com.tencent.pangu.link.SplashActivityAlias1" name="com_tencent_android_qqdownloader"/>
+    <item class="com.tencent.pangu.link.SplashActivityAlias4" name="com_tencent_android_qqdownloader"/>
+    <item class="com.mbalib.android.wiki.activity.SplashActivity" name="com_mbalib_android_wiki"/>
+    <item class="com.android.soundrecorder.SoundRecorderLauncher" name="com_android_soundrecorder"/>
+    <item class="com.android.soundrecorder.SoundRecorderTab" name="com_android_soundrecorder"/>
+    <item class="com.android.soundrecorder.RecorderActivity" name="com_android_soundrecorder"/>
+    <item class="com.android.soundrecorder.SoundRecorder" name="com_android_soundrecorder"/>
+    <item class="com.android.soundrecorder.Sound" name="com_android_soundrecorder"/>
+    <item class="com.android.soundrecorder.AsusRecorder" name="com_android_soundrecorder"/>
+    <item class="com.android.soundrecorder.MzRecorderActivity" name="com_android_soundrecorder"/>
+    <item class="com.android.soundrecorder.RecordListActivity" name="com_android_soundrecorder"/>
+    <item class="com.ss.android.article.lite.activity.SplashActivity" name="com_ss_android_article_lite"/>
+    <item class="com.ss.android.article.news.activity.SplashActivity" name="com_ss_android_article_lite"/>
+    <item class="com.netease.mobimail.activity.LaunchActivity" name="com_netease_mobimail"/>
+    <item class="com.jingtv.app.MainActivity" name="com_jingtv_app" not_sure="yes"/>
+    <item class="com.sec.android.app.sbrowser.SBrowserMainActivity" name="com_sec_android_app_sbrowser_beta"/>
+    <item class="com.tencent.qqmail.LauncherActivity" name="com_tencent_androidqqmail"/>
+    <item class="com.tencent.qqmail.LaucherActivity" name="com_tencent_androidqqmail"/>
+    <item class="com.tencent.qqmail.launcher.desktop.LaucherActivity" name="com_tencent_androidqqmail"/>
+    <item class="com.tencent.qqmail.launcher.desktop.LauncherActivity" name="com_tencent_androidqqmail"/>
+    <item class="com.evernote.ui.HomeActivity" name="com_yinxiang"/>
+    <item class="com.baidu.homework.activity.init.InitActivity" name="com_baidu_homework"/>
+    <item class="cn.bossbill.userapp.app.MainActivity" name="cn_bossbill_userapp_app" not_sure="yes"/>
+    <item class="com.cameras.sphoto.MainActivity" name="com_cameras_sphoto" not_sure="yes"/>
+    <item class="com.tencent.tmgp.yyzy2.MainActivity" name="com_ztgame_yyzy" not_sure="yes"/>
+    <item class="com.tencent.tmgp.supercell.brawlstars.MainActivity" name="com_tencent_tmgp_supercell_brawlstars" not_sure="yes"/>
+    <item class="com.blizzard.messenger.ui.SplashActivity" name="com_blizzard_messenger"/>
+    <item class="com.zhihu.daily.android.activity.SplashActivity_" name="com_zhihu_daily_android"/>
+    <item class="com.zhihu.daily.android.activity.MainActivity_" name="com_zhihu_daily_android"/>
+    <item class="com.zhihu.daily.android.epic.MainActivity" name="com_zhihu_daily_android"/>
+    <item class="com.trustyourself.activity.MainActivity" name="com_trustyourself"/>
+    <item class="com.srcbox.file.MainActivity" name="com_srcbox_file" not_sure="yes"/>
+    <item class="cn.gov.tax.its.MainActivity" name="cn_gov_tax_its"/>
+    <item class="me.ele.Launcher" name="me_ele"/>
+    <item class="com.kuss.rewind.MainActivity" name="com_kuss_rewind"/>
+    <item class="com.miui.miwallpaper.earth.MainActivity" name="com_miui_miwallpaper_earth" not_sure="yes"/>
+    <item class="com.meizu.net.pedometer.ui.PedometerMainActivitys" name="com_meizu_net_pedometer"/>
+    <item class="com.evideo.MobileKTV.activity.SplashActivity" name="com_evideo_mobilektv"/>
+    <item class="com.miui.video.HomeActivity" name="com_miui_video"/>
+    <item class="com.miui.video.feature.main.MainTabActivity" name="com_miui_video"/>
+    <item class="com.drakeet.purewriter.WriterActivity" name="com_drakeet_purewriter"/>
+    <item class="com.tencent.map.WelcomeActivity" name="com_tencent_map"/>
+    <item class="com.max.xiaoheihe.SplashActivity" name="com_max_xiaoheihe"/>
+    <item class="com.duoduo.child.story.MainActivity" name="com_duoduo_child_story" not_sure="yes"/>
+    <item class="com.hoperun.intelligenceportal_extends.LeaderLoginPreActivity" name="com_hoperun_intelligenceportal"/>
+    <item class="com.h5gamecenter.h2mgc.MainActivity" name="com_h5gamecenter_h2mgc" not_sure="yes"/>
+    <item class="com.ailk.ech.woxin.LoadingActivity" name="com_cqmc_client"/>
+    <item class="com.yandex.browser.YandexBrowserActivity" name="com_yandex_browser_alpha"/>
+    <item class="com.blackhole.app.MainActivity" name="com_blackhole_app" not_sure="yes"/>
+    <item class="com.glgjing.money.manager.bookkeeping.MainActivity" name="com_glgjing_money_manager_bookkeeping" not_sure="yes"/>
+    <item class="com.fkzhang.qqxposed.MainActivity" name="com_fkzhang_qqxposed" not_sure="yes"/>
+    <item class="com.youdao.translator.activity.LaunchActivity" name="com_youdao_translator"/>
+    <item class="com.youdao.translator.LaunchActivity" name="com_youdao_translator"/>
+    <item class="com.youdao.translator.activity.MainActivity" name="com_youdao_translator"/>
+    <item class="com.glgjing.money.manager.bookkeeping.pro.MainActivity" name="com_glgjing_money_manager_bookkeeping_pro" not_sure="yes"/>
+    <item class="com.android.bluetooth.MainActivity" name="com_android_bluetooth" not_sure="yes"/>
+    <item class="com.clover.daysmatter.ui.activity.MainActivity" name="com_clover_daysmatter"/>
+    <item class="com.sina.weibo.SplashActivity" name="com_sina_weibog3"/>
+    <item class="com.weico.international.activity.LogoActivity" name="com_sina_weibog3"/>
+    <item class="eu.thedarken.sdm.SDMMain" name="eu_thedarken_sdm"/>
+    <item class="eu.thedarken.sdm.SDMMainActivity" name="eu_thedarken_sdm"/>
+    <item class="eu.thedarken.sdm.main.ui.SDMMainActivity" name="eu_thedarken_sdm"/>
+    <item class="com.ucturbo.MainActivity" name="com_ucturbo" not_sure="yes"/>
+    <item class="com.android.cnblogs.MainActivity" name="com_android_cnblogs" not_sure="yes"/>
+    <item class="com.android.browser.BrowserActivity" name="com_android_browser"/>
+    <item class="com.android.browser.BrowserLauncher" name="com_android_browser"/>
+    <item class="com.google.android.apps.chrome.Main" name="com_android_browser"/>
+    <item class="com.android.browser.ui.BrowserActivity" name="com_android_browser"/>
+    <item class="com.android.browser.WoActivity" name="com_android_browser"/>
+    <item class="com.android.browser.WoHallActivity" name="com_android_browser"/>
+    <item class="com.android.browser.Browser9130MainView" name="com_android_browser"/>
+    <item class="com.android.browser.GNBrowserActivity" name="com_android_browser"/>
+    <item class="com.android.browser.MonternetLauncherActivity" name="com_android_browser"/>
+    <item class="com.android.browser.SplashActivity" name="com_android_browser"/>
+    <item class="com.android.browser.BrowserDownloadPage" name="com_android_browser"/>
+    <item class="com.motorola.android.browser.ChinaMobileActivity" name="com_android_browser"/>
+    <item class="com.android.browser.CombinedBookmarkHistoryActivity" name="com_android_browser"/>
+    <item class="com.android.browser.BaiduShortcutActivity" name="com_android_browser"/>
+    <item class="com.yulong.android.browser.BrowserStartPage" name="com_android_browser"/>
+    <item class="com.android.browser.LoginBrowserActivity" name="com_android_browser"/>
+    <item class="com.android.browser.launch.SplashActivity" name="com_android_browser"/>
+    <item class="com.android.browser.MainActivity" name="com_android_browser"/>
+    <item class="com.opera.Opera" name="com_android_browser"/>
+    <item class="com.tencent.mtt.SplashActivity" name="com_android_browser"/>
+    <item class="com.android.browser.PermissionCheckActivity" name="com_android_browser"/>
+    <item class="com.android.browser.permission.PermissionCheckActivity" name="com_android_browser"/>
+    <item class="org.chromium.chrome.browser.ChromeTabbedActivity" name="com_android_browser"/>
+    <item class="com.UCMobile.main.UCMobile" name="com_android_browser"/>
+    <item class=".BrowserActivity" name="com_android_browser"/>
+    <item class="com.hundsun.mobile.hsbrowser.JxBrowser" name="com_jxnxs_mobile_bank"/>
+    <item class="com.hundsun.mobile.hsbrowser.HSBrowser" name="com_jxnxs_mobile_bank"/>
+    <item class="com.fivehundredpx.viewer.main.RootActivity" name="com_fivehundredpx_viewer_main"/>
+    <item class="com.miui.miservice.main.MainActivity" name="com_miui_bugreport"/>
+    <item class="com.ifeng.lite.MainActivity" name="com_ifext_news"/>
+    <item class="com.baicizhan.main.activity.LoadingPageActivity" name="com_jiongji_andriod_card"/>
+    <item class="com.zw.lebo.SplashView" name="com_f0208_lebo"/>
+    <item class="com.sinovatech.unicom.basic.ui.activity.WelcomeClient" name="com_sinovatech_unicom_ui"/>
+    <item class="com.sinovatech.unicom.ui.WelcomeClient" name="com_sinovatech_unicom_ui"/>
+    <item class="com.sinovatech.unicom.basic.ui.MainActivity" name="com_sinovatech_unicom_ui"/>
+    <item class=".WelcomeClient" name="com_sinovatech_unicom_ui"/>
+    <item class="com.android.stk.StkLauncherActivity1" name="com_android_stk"/>
+    <item class="com.android.stk.StkLauncherActivity" name="com_android_stk"/>
+    <item class="com.android.stk.StkMain" name="com_android_stk"/>
+    <item class="com.android.stk.StkLauncherActivityI" name="com_android_stk"/>
+    <item class="com.android.stk.OppoStkSelection" name="com_android_stk"/>
+    <item class="com.android.stk.StkLauncherListActivity" name="com_android_stk"/>
+    <item class="com.android.stk.StkLauncherActivitySingle" name="com_android_stk"/>
+    <item class="com.android.stk.StkLauncherActivity2" name="com_android_stk"/>
+    <item class="com.android.stk.StkRootLauncherActivity" name="com_android_stk"/>
+    <item class="com.android.stk.StkLauncherDSActivity" name="com_android_stk"/>
+    <item class="com.android.stk.PrimaryStkMain" name="com_android_stk"/>
+    <item class="com.android.stk.SecondaryStkMain" name="com_android_stk"/>
+    <item class="com.android.stk.SubStkLauncherActivity" name="com_android_stk"/>
+    <item class="com.android.stk.StkLauncherActivityII" name="com_android_stk"/>
+    <item class="com.android.stk.OppoStkLauncherActivity1" name="com_android_stk"/>
+    <item class="com.android.stk.StkMain2" name="com_android_stk"/>
+    <item class="com.android.stk.StkMain1" name="com_android_stk"/>
+    <item class="com.android.stk.SimListActivity" name="com_android_stk"/>
+    <item class="com.ecommerce.xmnair.MainActivity" name="com_ecommerce_xmnair" not_sure="yes"/>
+    <item class="com.ss.android.lark.main.app.MainActivity" name="com_ss_android_lark"/>
+    <item class="com.nike.snkrs.feed.activities.TheWallActivity" name="com_nike_snkrs"/>
+    <item class="com.nike.snkrs.activities.TheWallActivity" name="com_nike_snkrs"/>
+    <item class="com.qunar.train.MainActivity" name="com_qunar_train" not_sure="yes"/>
+    <item class="com.android.vending.AssetBrowserActivity" name="com_android_vending"/>
+    <item class="com.squareup.leakcanary.internal.DisplayLeakActivity" name="com_android_vending"/>
+    <item class="com.xyznh.makeimageqin.MainActivity" name="com_xyznh_makeimageqin"/>
+    <item class="com.mendon.riza.MainActivity" name="com_mendon_riza" not_sure="yes"/>
+    <item class="com.meizu.media.music.MusicActivity" name="com_android_music"/>
+    <item class="com.apple.android.music.onboarding.activities.SplashActivity" name="com_apple_android_music"/>
+    <item class="com.android.system.notification_phone.MainActivity" name="com_android_system_notification_phone" not_sure="yes"/>
+    <item class="com.gotokeep.keep.splash.SplashActivity" name="com_gotokeep_keep"/>
+    <item class="com.gotokeep.keep.activity.SplashActivity" name="com_gotokeep_keep"/>
+    <item class="windinfo.android.WindStartAppSplash" name="windinfo_android"/>
+    <item class="com.mojang.minecraftpe.MainActivity" name="com_netease_mc_mi"/>
+    <item class="com.huaban.android.modules.splash.SplashActivity" name="com_huaban_android"/>
+    <item class="com.huaban.android.modules.main.MainActivity" name="com_huaban_android"/>
+    <item class="com.tencent.zb.SplashActivity" name="com_tencent_zb"/>
+    <item class="com.google.android.gm.ConversationListActivityGmail" name="com_google_android_gm"/>
+    <item class="com.microtears.wallpaper.MainActivity" name="com_microtears_wallpaper" not_sure="yes"/>
+    <item class="com.richeninfo.cm.shydhn.SplashActivity" name="com_cqmc_client"/>
+    <item class="com.wizeyes.colorcapture.ui.page.splash.SplashActivity" name="com_wizeyes_colorcapture"/>
+    <item class="io.moreless.tide.play.PlayActivity" name="io_moreless_tide"/>
+    <item class="com.iflytek.elpmobile.smartlearning.ui.SplashActivity" name="com_iflytek_elpmobile_smartlearning"/>
+    <item class="cn.cntvnews.activity.LauncherActivity" name="cn_cntvnews"/>
+    <item class="com.fimo.camera.StartActivity" name="com_fimo_camera"/>
+    <item class="com.yibasan.lizhifm.activities.EntryPointActivity" name="com_yibasan_lizhifm"/>
+    <item class="com.tencent.server.fore.QuickLoadActivity" name="com_tencent_qqpimsecure"/>
+    <item class="com.tencent.qqpimsecure.ui.activity.SplashActivity" name="com_tencent_qqpimsecure"/>
+    <item class="com.android.calculator2.Calculator" name="com_meizu_flyme_calculator"/>
+    <item class="com.android.calculator2.view.BaseActivity" name="com_meizu_flyme_calculator"/>
+    <item class="com.android.calculator2.CalculatorActivity" name="com_meizu_flyme_calculator"/>
+    <item class="com.android.calculator2.Calculator-Dark" name="com_meizu_flyme_calculator"/>
+    <item class="com.dot.calculator.material.Calculator" name="com_meizu_flyme_calculator"/>
+    <item class="io.dcloud.H55D59073.MainActivity" name="io_dcloud_h55d59073" not_sure="yes"/>
+    <item class="com.nxy.sc.activity.SplashActivity" name="com_jxnxs_mobile_bank"/>
+    <item class="com.dji.store.MainActivity" name="com_dji_store" not_sure="yes"/>
+    <item class="com.android.settings.GnSettingsTabActivity" name="com_android_settings"/>
+    <item class="com.android.settings.MainSettings" name="com_android_settings"/>
+    <item class="com.android.settings.SettingsTab" name="com_android_settings"/>
+    <item class="com.android.settings.HWSettings" name="com_android_settings"/>
+    <item class="com.android.settings.Settings" name="com_android_settings"/>
+    <item class="com.android.settings.TetherSettings" name="com_android_settings"/>
+    <item class="com.android.settings.TetherSettingsActivity" name="com_android_settings"/>
+    <item class="com.android.settings.TetherSettingsWifi" name="com_android_settings"/>
+    <item class="com.android.settings.MainEntry" name="com_android_settings"/>
+    <item class="com.android.settings.MiuiSettings" name="com_android_settings"/>
+    <item class="com.android.settings.MiuiPasswordGuardActivity" name="com_android_settings"/>
+    <item class="com.android.settings.framework.activity.HtcSettings" name="com_android_settings"/>
+    <item class="com.android.settings.SettingsTabActivity" name="com_android_settings"/>
+    <item class="com.android.settings.GridSettings" name="com_android_settings"/>
+    <item class="com.oppo.settings.SettingsActivity" name="com_android_settings"/>
+    <item class="com.android.settings.Settings$WifiApSettingsActivity" name="com_android_settings"/>
+    <item class="com.android.settings.Settings$SprdManageApplicationsActivity" name="com_android_settings"/>
+    <item class="com.android.settings.Settings$SprdManageTasksActivity" name="com_android_settings"/>
+    <item class="com.android.settings.wfd.WifiDisplayEnableActivity" name="com_android_settings"/>
+    <item class="com.android.settings.jrdTethering.JrdTetherSettings" name="com_android_settings"/>
+    <item class="com.android.settings.Settings$WifiSettingsActivity" name="com_android_settings"/>
+    <item class="com.android.settings.fpmanager.FpSettings" name="com_android_settings"/>
+    <item class="com.android.settings.dual.DualManagerAppActivity" name="com_android_settings"/>
+    <item class="com.android.settings.Settings$EdgeSettingsActivity" name="com_android_settings"/>
+    <item class="com.android.settings.HotspotSettings" name="com_android_settings"/>
+    <item class="com.android.settings.mokee.helper.activities.TipsHelp" name="com_android_settings"/>
+    <item class="com.android.settings.TabbedSettings" name="com_android_settings"/>
+    <item class="com.android.settings.Settings$GLFingerPrintManagerActivity" name="com_android_settings"/>
+    <item class="com.android.settings.OriginSettings" name="com_android_settings"/>
+    <item class="com.android.settings.Settings$SuperSnapSettingsActivity" name="com_android_settings"/>
+    <item class="com.android.settings.sudamod.LocationLookup" name="com_android_settings"/>
+    <item class="com.android.settings.Settings$WifiDisplaySettingsActivity" name="com_android_settings"/>
+    <item class="com.android.settings.Settings$WifiP2pSettingsActivity" name="com_android_settings"/>
+    <item class="com.android.settings.Settings$HotspotActivity" name="com_android_settings"/>
+    <item class="com.android.settings.Settings$TetherSettingsActivity2" name="com_android_settings"/>
+    <item class="com.android.settings.mokee.helper.activities.MoKeeForum" name="com_android_settings"/>
+    <item class="com.android.settings.Settings$PrivacyGuardManagerActivity" name="com_android_settings"/>
+    <item class="com.android.settings.LewaSettings" name="com_android_settings"/>
+    <item class="com.android.settings.Settings$TetherSettingsActivity" name="com_android_settings"/>
+    <item class="com.android.settings.OntimSettingsActivity" name="com_android_settings"/>
+    <item class="com.android.settings.SugarKeyStart" name="com_android_settings"/>
+    <item class="com.android.settings.Settings$BlacklistSettingsActivity" name="com_android_settings"/>
+    <item class="com.meizu.settings.ContainerActivity" name="com_android_settings"/>
+    <item class="com.android.settings.MainSettingsActivity" name="com_android_settings"/>
+    <item class="com.android.settings.Settings$DataUsageSummaryActivity" name="com_android_settings"/>
+    <item class="com.android.settings.wfd.WifiDisplaySettingsActivity" name="com_android_settings"/>
+    <item class="com.miui.securitycenter.Main" name="com_android_settings"/>
+    <item class="cn.com.smartdoor.adphone_smartdoor.MainActivity" name="cn_com_smartdoor_adphone_smartdoor" not_sure="yes"/>
+    <item class="com.miui.video.global.app.LauncherActivity" name="com_miui_video"/>
+    <item class="com.didichuxing.driver.sdk.LauncherActivity" name="com_sdu_didi_gsui"/>
+    <item class="com.sdu.didi.gsui.main.StartActivity" name="com_sdu_didi_gsui"/>
+    <item class="com.eusoft.ting.ui.TabActivity" name="com_eusoft_ting_en"/>
+    <item class="com.eusoft.ting.ui.view.WelcomeActivity" name="com_eusoft_ting_en"/>
+    <item class="com.sankuai.meituan.meituanwaimaibusiness.modules.main.SplashActivity" name="com_sankuai_meituan_meituanwaimaibusiness"/>
+    <item class="com.happyelements.hellolua.MainActivity" name="com_happyelements_androidanimal"/>
+    <item class="com.happyelements.android.platform.oppo.ads.SplashActivity" name="com_happyelements_androidanimal"/>
+    <item class="com.qihoo.util.StartActivity" name="com_happyelements_androidanimal"/>
+    <item class="com.unicom.dcLoader.welcomeview" name="com_happyelements_androidanimal"/>
+    <item class="com.sf.activity.MainActivity" name="com_sf_activity"/>
+    <item class="com.syt.ui.activity.InitActivity" name="com_sf_activity"/>
+    <item class="com.saltedfish.freessaccount.MainActivity" name="com_saltedfish_freessaccount" not_sure="yes"/>
+    <item class="jp.pxv.android.RootActivity" name="jp_pxv_android"/>
+    <item class="jp.pxv.android.activity.RoutingActivity" name="jp_pxv_android"/>
+    <item class="com.video.family.LauncherActivity" name="com_video_family"/>
+    <item class="com.xingin.xhs.activity.SplashActivity" name="com_xingin_xhs"/>
+    <item class="cn.xiaochuankeji.tieba.ui.base.SplashActivity" name="cn_xiaochuankeji_tieba"/>
+    <item class="com.qihoo.util.StartActivity" name="cn_xiaochuankeji_tieba"/>
+    <item class="com.yingyonghui.market.ui.SplashActivity" name="com_yingyonghui_market"/>
+    <item class="com.yingyonghui.market.activity.SplashActivity" name="com_yingyonghui_market"/>
+    <item class="com.yingyonghui.market.activity.ActivitySplash" name="com_yingyonghui_market"/>
+    <item class="com.bankcomm.main.activity.ConfigActivity" name="com_bankcomm_bankcomm"/>
+    <item class="com.bankcomm.config.ConfigActivity" name="com_bankcomm_bankcomm"/>
+    <item class="com.cn21.ecloud.activity.login.StartActivity" name="com_cn21_ecloud"/>
+    <item class="com.cn21.ecloud.activity.StartActivity" name="com_cn21_ecloud"/>
+    <item class="com.snailgame.cjg.MainActivity" name="com_snailgame_cjg" not_sure="yes"/>
+    <item class="com.ccb.start.MainActivity" name="com_chinamworld_main"/>
+    <item class="com.ccb.start.CcbSplashActivity" name="com_chinamworld_main"/>
+    <item class="com.ccb.start.StartActivity" name="com_chinamworld_main"/>
+    <item class="com.ccb.mbs.main.StartActivity" name="com_chinamworld_main"/>
+    <item class="com.chinamworld.main.BTCCMWStartActivity" name="com_chinamworld_main"/>
+    <item class="com.adobe.adobephotoshopfix.FCSplashScreenActivity" name="com_adobe_adobephotoshopfix"/>
+    <item class="tv.danmaku.bili.MainActivityV2" name="tv_danmaku_bili"/>
+    <item class="tv.danmaku.bili.ui.splash.SplashActivity" name="tv_danmaku_bili"/>
+    <item class="tv.danmaku.bili.MainActivity" name="tv_danmaku_bili"/>
+    <item class="tv.danmaku.bili.LauncherActivity" name="tv_danmaku_bili"/>
+    <item class="com.tencent.gamehelper.ui.main.WelcomeActivity" name="com_tencent_gamehelper_speed"/>
+    <item class="com.flightradar24free.MainActivity" name="com_flightradar24free" not_sure="yes"/>
+    <item class="com.xiaomi.mico.splash.SplashActivity" name="com_xiaomi_mico"/>
+    <item class="com.android.providers.telephony.MainActivity" name="com_android_providers_telephony" not_sure="yes"/>
+    <item class="com.xiachufang.activity.StartPageActivity" name="com_xiachufang"/>
+    <item class="com.xiachufang.startpage.ui.StartPageActivity" name="com_xiachufang"/>
+    <item class="com.xiachufang.activity.StartPage" name="com_xiachufang"/>
+    <item class="com.example.txtreader.MainActivity" name="com_example_txtreader" not_sure="yes"/>
+    <item class="com.linroid.zlive.screen.host.HostActivityThird" name="com_linroid_zlive"/>
+    <item class="com.linroid.zlive.screen.host.HostActivityZero" name="com_linroid_zlive"/>
+    <item class="com.linroid.zlive.screen.host.HostActivity" name="com_linroid_zlive"/>
+    <item class="com.hiwifi.ui.MainTopoActivity" name="com_hiwifi"/>
+    <item class="com.hiwifi.ui.app.LauncherActivity" name="com_hiwifi"/>
+    <item class="com.hiwifi.ui.app.SplashActivity" name="com_hiwifi"/>
+    <item class="com.hiwifi.ui.SplashActivity" name="com_hiwifi"/>
+    <item class="com.hiwifi.gee.mvp.view.activity.splash.SplashActivity" name="com_hiwifi"/>
+    <item class="tv.acfun.core.module.splash.SplashActivity" name="tv_acfundanmaku_video"/>
+    <item class="tv.acfun.core.view.activity.SplashActivity" name="tv_acfundanmaku_video"/>
+    <item class="com.xmvideo.app.WelcomeActivity" name="com_xmvideo_app"/>
+    <item class="com.v2ray.ang.ui.MainActivity" name="com_v2ray_ang"/>
+    <item class="com.jy.sptcc.ui.StartActivity" name="com_jiuyu_sptcc_cordova"/>
+    <item class="com.android.weici.senior.teacher.assistant.MainActivity" name="com_android_weici_senior_teacher_assistant" not_sure="yes"/>
+    <item class="com.rendernet.humanmale.MainActivity" name="com_rendernet_humanmale" not_sure="yes"/>
+    <item class="com.jingdong.app.mall.MainActivity" name="com_jingdong_app_mall"/>
+    <item class="com.jingdong.app.mall.main.MainActivity" name="com_jingdong_app_mall"/>
+    <item class="com.androlua.Welcome" name="com_jingdong_app_mall"/>
+    <item class="com.jingdong.app.mall.main.ConnectNetPromptActivity" name="com_jingdong_app_mall"/>
+    <item class="com.jingdong.app.mall.preinstall.ConnectNetPromptActivity" name="com_jingdong_app_mall"/>
+    <item class="com.wbxm.icartoon.ui.CoverActivity" name="com_wbxm_icartoon"/>
+    <item class="com.qq.qcloud.activity.WeiyunRootActivity" name="com_qq_qcloud"/>
+    <item class="com.sicent.app.baba.base.SplashActivity" name="com_sicent_app_baba"/>
+    <item class="com.meizu.familyguard.ui.FamilyGuardActivity" name="com_meizu_sceneinfo"/>
+    <item class="com.vitotechnology.StarWalk2Free.MainActivity" name="com_vitotechnology_starwalk2free" not_sure="yes"/>
+    <item class="com.magicbelt.ninepatch.MainActivity" name="com_magicbelt_ninepatch"/>
+    <item class="com.cmcc.sjyyt.activitys.WelcomeActivity" name="com_cqmc_client"/>
+    <item class="com.cmcc.sjyyt.Activitys.WelcomeActivity" name="com_cqmc_client"/>
+    <item class="com.sflep.course.MainActivity" name="com_sflep_course" not_sure="yes"/>
+    <item class="com.microsoft.bing.reactnative.lib.MainActivity" name="com_microsoft_math"/>
+    <item class="com.chinarainbow.tft.mvp.ui.activity.SplashActivity" name="com_chinarainbow_tft"/>
+    <item class="com.android.systemui.flashlight.FlashlightActivity" name="com_android_systemui"/>
+    <item class="com.xiaomi.mitv.phone.tvassistant.MainActivityV2" name="com_xiaomi_mitv_phone_tvassistant"/>
+    <item class="com.xiaomi.mitv.phone.assistant.app.SplashActivity" name="com_xiaomi_mitv_phone_tvassistant"/>
+    <item class="com.microsoft.translator.activity.SplashActivity" name="com_microsoft_translator"/>
+    <item class="com.catchingnow.icebox.activity.mainActivity.MainActivity" name="com_catchingnow_icebox"/>
+    <item class="com.catchingnow.icebox.activity.mainActivity.MainAppActivity" name="com_catchingnow_icebox"/>
+    <item class="com.catchingnow.icebox.activity.mainActivity.MainActivityWithRoundIcon" name="com_catchingnow_icebox"/>
+    <item class="com.catchingnow.icebox.activity.mainActivity.MainActivityFakeDrawer" name="com_catchingnow_icebox"/>
+    <item class="com.catchingnow.icebox.activity.mainActivity.MainActivityWithAnotherIcon" name="com_catchingnow_icebox"/>
+    <item class="com.catchingnow.icebox.activity.mainActivity.MainAppHiddenActivity" name="com_catchingnow_icebox"/>
+    <item class="com.catchingnow.icebox.activity.MainActivity" name="com_catchingnow_icebox"/>
+    <item class="com.catchingnow.icebox.activity.MainActivityWithAnotherIcon" name="com_catchingnow_icebox"/>
+    <item class="com.cloudbae.lovenanning.login.view.WelComeActivity" name="com_cloudbae_lovenanning"/>
+    <item class="one.hh.oneclient.activitys.OneClient" name="one_hh_oneclient"/>
+    <item class="com.qihoo.util.StartActivity" name="one_hh_oneclient"/>
+    <item class="com.stub.stub01.Stub01" name="one_hh_oneclient"/>
+    <item class="com.stub.plugin.Stub01" name="one_hh_oneclient"/>
+    <item class="com.meituan.banma.main.activity.MainSplashActivity" name="com_sankuai_meituan_dispatch_crowdsource"/>
+    <item class="cn.etouch.ecalendar.ECalendar" name="cn_etouch_ecalendar"/>
+    <item class="com.stub.stub01.Stub01" name="cn_etouch_ecalendar"/>
+    <item class="android.MainActivity" name="android" not_sure="yes"/>
+    <item class="tv.douyu.view.activity.launcher.DYSplashLauncherActivity" name="air_tv_douyu_android"/>
+    <item class="tv.douyu.view.activity.launcher.DYLauncherActivity" name="air_tv_douyu_android"/>
+    <item class="tv.douyu.view.activity.SplashActivity" name="air_tv_douyu_android"/>
+    <item class="tv.douyu.view.activity.MainActivity" name="air_tv_douyu_android"/>
+    <item class="com.kmxs.reader.MainActivity" name="com_kmxs_reader" not_sure="yes"/>
+    <item class="com.blink.academy.protake.MainActivity" name="com_blink_academy_protake" not_sure="yes"/>
+    <item class="com.ibike.publicbicycle.activity.GuidePageAct" name="com_ibike_publicbicycle_activity"/>
+    <item class="com.sony.playmemories.mobile.splash.SplashActivity" name="com_sony_playmemories_mobile"/>
+    <item class="com.pumpkin.ng.MainActivity" name="com_pumpkin_ng" not_sure="yes"/>
+    <item class="com.google.android.maps.MapsActivity" name="com_google_android_apps_maps"/>
+    <item class="com.google.android.maps.driveabout.app.DestinationActivity" name="com_google_android_apps_maps"/>
+    <item class="com.google.android.maps.PlacesActivity" name="com_google_android_apps_maps"/>
+    <item class="com.tgc.sky.TGCBootActivity" name="com_netease_sky"/>
+    <item class="com.jsmcc.ui.WelcomeActivity" name="com_cqmc_client"/>
+    <item class="com.android.weici.senior.student.MainActivity" name="com_android_weici_senior_student" not_sure="yes"/>
+    <item class="com.miHoYo.Yuanshen.MainActivity" name="com_mihoyo_yuanshen" not_sure="yes"/>
+    <item class="com.meituan.banma.splash.ui.MainSplashActivity" name="com_sankuai_meituan_dispatch_homebrew"/>
+    <item class="org.qiyi.android.video.MainActivity" name="com_qiyi_video_pad"/>
+    <item class="com.wukongtv.wkremote.client.widget.guidepage.SplashActivity" name="com_wukongtv_wkremote_client"/>
+    <item class="com.tmri.app.ui.activity.main.TmriNewActivity" name="com_tmri_app_main"/>
+    <item class="com.tmri.app.ui.activity.TmriActivity" name="com_tmri_app_main"/>
+    <item class="org.meowcat.edxposed.manager.WelcomeActivityMlgmXyysd" name="org_meowcat_edxposed_manager"/>
+    <item class="com.fifedu.kyxl.MainActivity" name="com_fifedu_kyxl" not_sure="yes"/>
+    <item class="org.xinkb.blackboard.android.MainActivity" name="org_xinkb_blackboard_android" not_sure="yes"/>
+    <item class="com.xunmeng.pinduoduo.ui.activity.MainFrameActivity" name="com_xunmeng_pinduoduo"/>
+    <item class="com.xunmeng.pinduoduo.ui.activity.SplashActivity" name="com_xunmeng_pinduoduo"/>
+    <item class="tv.xiaoka.live.activity.AppSplashActivity" name="tv_xiaoka_live"/>
+    <item class="com.yixia.live.activity.SplashActivity" name="tv_xiaoka_live"/>
+    <item class="com.kwai.thanos.MainActivity" name="com_kwai_thanos" not_sure="yes"/>
+    <item class="xiaomi" name="com_miui_supermarket"/>
+    <item class="com.instagram.android.activity.MainTabActivity" name="com_instagram_android"/>
+    <item class="com.biyao.fu.MainActivity" name="com_biyao_fu" not_sure="yes"/>
+    <item class="cn.com.thit.wxmetro.MainActivity" name="cn_com_thit_wxmetro" not_sure="yes"/>
+    <item class="com.xinmang.guitar.tuner.MainActivity" name="com_xinmang_guitar_tuner" not_sure="yes"/>
+    <item class="com.mihoyo.hyperion.MainActivity" name="com_mihoyo_hyperion" not_sure="yes"/>
+    <item class="com.antutu.ABenchMark.ABenchMarkStart" name="com_antutu_abenchmark"/>
+    <item class="com.digibites.abatterysaver.BatterySaverActivity" name="com_digibites_accubattery"/>
+    <item class="im.juejin.android.hull.activity.LogoActivity" name="com_daimajia_gold"/>
+    <item class="com.daimajia.gold.LogoActivity" name="com_daimajia_gold"/>
+    <item class="com.wei.account.activity.PasswordVerifyActivity" name="com_wei_account"/>
+    <item class="com.wei.account.activity.StartActivity" name="com_wei_account"/>
+    <item class="com.homelink.android.SplashScreenActivity" name="com_lianjia_beike"/>
+    <item class="com.huacheng.baiyunuser.MainActivity" name="com_huacheng_baiyunuser" not_sure="yes"/>
+    <item class="com.meiju592.app.view.activity.LogoSplashActivity" name="com_meiju592_app"/>
+    <item class="com.meiju592.app.view.activity.SplashActivity" name="com_meiju592_app"/>
+    <item class="com.meiju592.app.view.activity.HomeActivity" name="com_meiju592_app"/>
+    <item class="com.yxcorp.gifshow.HomeActivity" name="com_kuaishou_nebula"/>
+    <item class="com.google.android.gms.games.ui.destination.main.MainActivity" name="com_google_android_play_games"/>
+    <item class="com.tencent.videolite.android.ui.HomeActivity" name="com_tencent_videolite_android"/>
+    <item class="xiaomi" name="com_android_contacts_activities_twelvekeydialer"/>
+    <item class="top.easelink.lcg.ui.splash.view.SplashActivity" name="top_easelink_lcg"/>
+    <item class="ctrip.business.splash.CtripSplashActivity" name="ctrip_android_view"/>
+    <item class="ctrip.base.ui.splash.CtripSplashActivity" name="ctrip_android_view"/>
+    <item class="ctrip.android.view.splash.CtripSplashActivity" name="ctrip_android_view"/>
+    <item class="ctrip.android.view.view.CtripDeclarationActivity" name="ctrip_android_view"/>
+    <item class="ctrip.android.view.home.CtripSplashActivity" name="ctrip_android_view"/>
+    <item class="ctrip.android.view.home.CtripDeclarationActivity" name="ctrip_android_view"/>
+    <item class="com.handsgo.jiakao.android.splash.Login" name="com_handsgo_jiakao_android"/>
+    <item class="com.handsgo.jiakao.android.Login" name="com_handsgo_jiakao_android"/>
+    <item class="com.lakala.android.MainActivity" name="com_lakala_android" not_sure="yes"/>
+    <item class="com.xunlei.downloadprovider.loading.LaunchActivity" name="com_xunlei_downloadprovider"/>
+    <item class="com.xunlei.downloadprovider.launch.LaunchActivity" name="com_xunlei_downloadprovider"/>
+    <item class="com.xunlei.downloadprovider.loading.LoadingActivity" name="com_xunlei_downloadprovider"/>
+    <item class="com.xunlei.downloadprovider.app.LoadingActivity" name="com_xunlei_downloadprovider"/>
+    <item class="com.meizu.flyme.appcenter.activitys.AppMainActivity" name="com_meizu_mstore"/>
+    <item class="com.meizu.flyme.appcenter.activitys.AppMainTabActivity" name="com_meizu_mstore"/>
+    <item class="com.octinn.birthdayplus.SplashActivity" name="com_octinn_birthdayplus"/>
+    <item class="com.qihoo.util.StartActivity" name="com_octinn_birthdayplus"/>
+    <item class="pdj.start.StartActivity" name="com_jingdong_pdj"/>
+    <item class="pdj.start.NewStartActivity" name="com_jingdong_pdj"/>
+    <item class="com.flyersoft.moonreaderp.ActivityMain" name="com_flyersoft_moonreaderp"/>
+    <item class="com.androlua.Welcome" name="com_zhihu_hydrogen"/>
+    <item class="com.baidu.tieba.LogoActivity" name="com_baidu_tieba_mini"/>
+    <item class="com.miui.cleanmaster.MainActivity" name="com_miui_cleanmaster" not_sure="yes"/>
+    <item class="com.sitech.oncon.activity.LoadingActivity" name="com_cqmc_client"/>
+    <item class="com.getsurfboard.activity.MainActivity" name="com_getsurfboard"/>
+    <item class="com.snhccm.humor.email.MainActivity" name="com_snhccm_humor_email" not_sure="yes"/>
+    <item class="com.meicai.mall.activity.WelcomeActivity_" name="com_meicai_mall"/>
+    <item class="com.corrodinggames.rts.MainActivity" name="com_corrodinggames_rts" not_sure="yes"/>
+    <item class="com.fstop.photo.MainActivity" name="com_fstop_photo" not_sure="yes"/>
+    <item class="com.tencent.tmgp.sgame.SGameActivity" name="com_tencent_tmgp_sgame"/>
+    <item class="com.putaolab.ptsdk.activity.PTMainActivity" name="com_tencent_tmgp_sgame"/>
+    <item class="com.msdown.lbspms.MainActivity" name="com_msdown_lbspms" not_sure="yes"/>
+    <item class="xeus.timbre.ui.main.MainActivity" name="xeus_timbre"/>
+    <item class="cn.wps.note.StartActivity" name="cn_wps_note"/>
+    <item class="org.cocos2dx.cpp.AppActivity" name="com_meetstudio_app_zither"/>
+    <item class="com.zol.android.ui.FirstActivity" name="com_zol_android"/>
+    <item class="com.tencent.mobileqq.activity.SplashActivity" name="com_tencent_qq"/>
+    <item class="com.qihoo.util.StartActivity" name="com_tencent_qq"/>
+    <item class="com.android.dialer.DialtactsActivity" name="com_android_contacts_activities_twelvekeydialer"/>
+    <item class="com.android.dialer.ContactsLauncherActivity" name="com_android_contacts_activities_twelvekeydialer"/>
+    <item class="com.oneplus.contacts.activities.OPDialtactsActivity" name="com_android_contacts_activities_twelvekeydialer"/>
+    <item class="com.android.dialer.calllog.CallLogActivity" name="com_android_contacts_activities_twelvekeydialer"/>
+    <item class="com.android.dialer.HQDialtactsActivity" name="com_android_contacts_activities_twelvekeydialer"/>
+    <item class="com.android.dialer.app.DialtactsActivity" name="com_android_contacts_activities_twelvekeydialer"/>
+    <item class="com.android.dialer.main.impl.MainActivity" name="com_android_contacts_activities_twelvekeydialer"/>
+    <item class="com.android.dialer.activities.DialtactsActivity" name="com_android_contacts_activities_twelvekeydialer"/>
+    <item class="com.android.dialer.allContactsActivity" name="com_android_contacts_activities_twelvekeydialer"/>
+    <item class="com.mediatek.dialer.calllogex.CallLogActivityEx" name="com_android_contacts_activities_twelvekeydialer"/>
+    <item class="com.android.dialer.TwelveKeyDialer" name="com_android_contacts_activities_twelvekeydialer"/>
+    <item class="com.android.dialer.dialpad" name="com_android_contacts_activities_twelvekeydialer"/>
+    <item class="com.android.dialer.alias.ContactsActivity" name="com_android_contacts_activities_twelvekeydialer"/>
+    <item class="com.google.android.dialer.extensions.GoogleDialtactsActivity" name="com_android_contacts_activities_twelvekeydialer"/>
+    <item class="com.oneplus.contacts.activities.OPPeopleActivity" name="com_android_contacts_activities_twelvekeydialer"/>
+    <item class="com.android.dialer.ContactsAcitivy" name="com_android_contacts_activities_twelvekeydialer"/>
+    <item class="com.journeyui.contacts.dial.DialActivity" name="com_android_contacts_activities_twelvekeydialer"/>
+    <item class="com.journeyui.contacts.ui.main.ContactMainActivity" name="com_android_contacts_activities_twelvekeydialer"/>
+    <item class="com.meizu.media.reader.ReaderMainActivity" name="com_meizu_media_reader"/>
+    <item class="com.douguo.recipe.MainActivity" name="com_douguo_recipe"/>
+    <item class="dev.xesam.chelaile.app.module.func.SplashActivity" name="com_ygkj_chelaile_standard"/>
+    <item class="com.umetrip.android.msky.app.module.startup.SplashActivity" name="com_umetrip_android_msky_app"/>
+    <item class="com.umetrip.android.msky.activity.SplashActivity" name="com_umetrip_android_msky_app"/>
+    <item class="com.umetrip.android.msky.app.module.SplashActivity" name="com_umetrip_android_msky_app"/>
+    <item class="com.mogujie.home.MGInitAct" name="com_mogujie"/>
+    <item class="com.midea.ai.appliances.MainActivity" name="com_midea_ai_appliances" not_sure="yes"/>
+    <item class="com.z.hhwk.MainActivity" name="com_z_hhwk" not_sure="yes"/>
+    <item class="com.taobao.tao.welcome.Welcome" name="com_taobao_taobao"/>
+    <item class="com.taobao.tao.Welcome" name="com_taobao_taobao"/>
+    <item class="com.androlua.Welcome" name="com_taobao_taobao"/>
+    <item class="com.miui.fmradio.FMRadioMain" name="com_miui_fmservice"/>
+    <item class="com.miui.fmradio.FmRadioActivity" name="com_miui_fmservice"/>
+    <item class="com.tencent.mm.ui.LauncherUI" name="com_tencent_mm"/>
+    <item class="com.ss.android.article.news.activity.SplashBadgeActivity" name="com_ss_android_article_news"/>
+    <item class="com.ss.android.article.news.activity.SplashActivity" name="com_ss_android_article_news"/>
+    <item class="com.ss.android.article.news.activity.MainActivity" name="com_ss_android_article_news"/>
+    <item class="com.ss.android.article.news.MainActivityBadge0" name="com_ss_android_article_news"/>
+    <item class="com.supercell.boombeach.mi.GameApp" name="com_supercell_boombeach_mi"/>
+    <item class="com.android36kr.app.ui.LogoActivity" name="com_android36kr_app"/>
+    <item class="com.android36kr.login.ui.LogoActivity" name="com_android36kr_app"/>
+    <item class="com.android36kr.app.ui.activity.LogoActivity" name="com_android36kr_app"/>
+    <item class="cn.okpassword.days.activity.SplashActivity" name="cn_okpassword_days"/>
+    <item class="com.shazam.android.activities.SplashActivity" name="com_shazam_encore_android"/>
+    <item class="com.wali.live.main.LiveMainActivity" name="com_wali_live"/>
+    <item class="com.dream.zncd.intelligentcharge.MainActivity" name="com_dream_zncd_intelligentcharge" not_sure="yes"/>
+    <item class="cn.com.shouji.market.MainActivity" name="cn_com_shouji_market"/>
+    <item class="cn.com.shouji.market.LogoActivity" name="cn_com_shouji_market"/>
+    <item class="cn.com.shouji.market.MainTabActivity" name="cn_com_shouji_market"/>
+    <item class="com.qihoo.util.StartActivity" name="cn_com_shouji_market"/>
+    <item class="com.stub.stub01.Stub01" name="cn_com_shouji_market"/>
+    <item class="com.stub.plugin.Stub01" name="cn_com_shouji_market"/>
+    <item class="com.dianping.main.guide.LaunchActivity" name="com_dianping_v1"/>
+    <item class="com.dianping.main.guide.SplashScreenActivity" name="com_dianping_v1"/>
+    <item class="com.dianping.main.permission.PermissionActivity" name="com_dianping_v1"/>
+    <item class="com.dianping.base.permission.PermissionActivity" name="com_dianping_v1"/>
+    <item class="com.dianping.v1.PermissionActivity" name="com_dianping_v1"/>
+    <item class="com.dianping.v1.SplashScreenActivity" name="com_dianping_v1"/>
+    <item class="com.qihoo.util.StartActivity" name="com_dianping_v1"/>
+    <item class="com.ruanmei.ithome.MainActivity1" name="com_ruanmei_ithome"/>
+    <item class="com.ruanmei.ithome.ui.MainActivity" name="com_ruanmei_ithome"/>
+    <item class="com.ruanmei.ithome.MainActivity2" name="com_ruanmei_ithome"/>
+    <item class="com.ruanmei.ithome.MainActivity3" name="com_ruanmei_ithome"/>
+    <item class="com.ruanmei.ithome.MainFrameActivity" name="com_ruanmei_ithome"/>
+    <item class="com.ruanmei.ithome.WelcomeActivity" name="com_ruanmei_ithome"/>
+    <item class="com.google.android.apps.chrome.Main" name="com_kiwibrowser_browser"/>
+    <item class="com.popcap.pvz2cthdxm.MainActivity" name="com_popcap_pvz2cthdxm" not_sure="yes"/>
+    <item class="com.pandadastudio.ninjamustdie3.MainActivity" name="com_pandadastudio_ninjamustdie3_mi"/>
+    <item class="com.bravedefault.pixivlite_android.lite.MainActivity" name="com_bravedefault_pixivlite_android_lite" not_sure="yes"/>
+    <item class="com.aibaoxian.car.optimus.MainActivity" name="com_aibaoxian_car_optimus" not_sure="yes"/>
+    <item class="twittervideosaver.twittervideodownloader.twimate.savetwittergif.MainActivity" name="twittervideosaver_twittervideodownloader_twimate_savetwittergif" not_sure="yes"/>
+    <item class="com.eris.activity.AppFakeActivity" name="com_traffic_handtrafficbible"/>
+    <item class="com.wuba.activity.launch.LaunchActivity" name="com_wuba"/>
+    <item class="cn.missevan.activity.SplashActivity" name="cn_missevan"/>
+    <item class="cn.missevan.activity.MainActivity" name="cn_missevan"/>
+    <item class="com.smartisan.reader.activities.MainActivity_" name="com_smartisan_reader"/>
+    <item class="com.baidu.tieba.LogoActivity" name="com_baidu_tieba"/>
+    <item class="com.baidu.tieba.tblauncher.MainTabActivity" name="com_baidu_tieba"/>
+    <item class="com.estrongs.android.pop.cupcake.MainActivity" name="com_estrongs_android_pop_cupcake" not_sure="yes"/>
+    <item class="com.camerasideas.trimmer.MainActivity" name="com_camerasideas_trimmer" not_sure="yes"/>
+    <item class="com.cn.mdv.xjsp2.MainActivity" name="com_cn_mdv_xjsp2" not_sure="yes"/>
+    <item class="com.android.deskclock.AlarmClock" name="com_android_deskclock"/>
+    <item class="com.android.deskclock.AlarmsMainActivity" name="com_android_deskclock"/>
+    <item class="com.jrdcom.timetool.TimeToolActivity" name="com_android_deskclock"/>
+    <item class="com.android.deskclock.DeskClock" name="com_android_deskclock"/>
+    <item class="com.android.deskclock.DeskClockTabActivity" name="com_android_deskclock"/>
+    <item class="com.android.deskclock.DeskClockMainActivity" name="com_android_deskclock"/>
+    <item class=".DeskClockTabActivity" name="com_android_deskclock"/>
+    <item class="com.android.email.activity.Welcome" name="com_android_email"/>
+    <item class="com.android.email.activity.EmailActivity" name="com_android_email"/>
+    <item class="com.kingsoft.email.activity.Welcome" name="com_android_email"/>
+    <item class="com.vivo.email.activity.Welcome" name="com_android_email"/>
+    <item class="com.android.email.activity.ContainerActivity" name="com_android_email"/>
+    <item class="com.air.sz.MainActivity" name="com_air_sz" not_sure="yes"/>
+    <item class="com.sina.anime.ui.activity.MainActivity" name="com_weibo_comic"/>
+    <item class="com.android.alarmclock.AlarmClock" name="com_android_deskclock"/>
+    <item class="com.meizu.flyme.alarmclock.AlarmClock" name="com_android_deskclock"/>
+    <item class="com.meizu.flyme.alarmclock.DeskClock" name="com_android_deskclock"/>
+    <item class="com.android.deskclock.DeskClock" name="com_android_deskclock"/>
+    <item class="com.babycloud.hanju.ui.activity.WelcomeActivity" name="com_babycloud_hanju"/>
+    <item class="com.tencent.tmgp.pandadastudio.ninja3.MainActivity" name="com_pandadastudio_ninjamustdie3_mi"/>
+    <item class="com.ktls.fileinfo.MainSDClear" name="com_ktls_fileinfo"/>
+    <item class="com.elinkway.infinitemovies.ui.activity.SplashActivity" name="com_le123_ysdq"/>
+    <item class="com.elinkway.infinitemovies.ui.activity.MainActivity" name="com_le123_ysdq"/>
+    <item class="com.elinkway.infinitemovies.account.activity.SplashActivity" name="com_le123_ysdq"/>
+    <item class="com.tencent.tgclub.ui.WelcomeActivity" name="com_tencent_tgclub"/>
+    <item class="com.tencent.tgclub.business.appframe.WelcomeActivity" name="com_tencent_tgclub"/>
+    <item class="cn.com.njcb.android.mobilebank.android.activity.DefaultLoadPage" name="cn_com_njcb_android_mobilebank"/>
+    <item class="com.gameloft.android.ANMP.GloftA14HM.MainActivity" name="com_aligames_kuang_kybc_mi"/>
+    <item class="so.tita.MainActivity" name="so_tita" not_sure="yes"/>
+    <item class="dji.mimo.main.DJISplashActivity" name="dji_mimo"/>
+    <item class="com.tencent.mtt.SplashActivity" name="com_tencent_mtt"/>
+    <item class="com.tencent.mtt.MainActivity" name="com_tencent_mtt"/>
+    <item class="com.mampod.ergedd.MainActivity" name="com_mampod_ergedd" not_sure="yes"/>
+    <item class="com.mobisystems.mobiscanner.MainActivity" name="com_mobisystems_mobiscanner" not_sure="yes"/>
+    <item class="com.tuicool.activity.StartActivity" name="com_tuicool_activity"/>
+    <item class="com.tuicool.activity.Start0Activity" name="com_tuicool_activity"/>
+    <item class="com.estrongs.android.pop.app.openscreenad.NewSplashActivity" name="com_estrongs_android_pop"/>
+    <item class="com.estrongs.android.pop.view.FileExplorerActivity" name="com_estrongs_android_pop"/>
+    <item class="com.estrongs.android.pop.app.openscreenad.SplashActivity" name="com_estrongs_android_pop"/>
+    <item class="com.estrongs.android.pop.app.adgad.GdtSplashActivity" name="com_estrongs_android_pop"/>
+    <item class="com.estrongs.android.pop.resmanager.view.FileExplorerActivity" name="com_estrongs_android_pop"/>
+    <item class="com.facebook.mlite.coreui.view.MainActivity" name="com_facebook_mlite"/>
+    <item class="com.kugou.android.ringtone.MainActivity" name="com_kugou_android_ringtone" not_sure="yes"/>
+    <item class="com.xiaomi.market.ui.MarketTabActivity" name="com_miui_supermarket"/>
+    <item class="com.xiaomi.market.ui.MainTabActivity" name="com_miui_supermarket"/>
+    <item class="com.xiaomi.market.ui.JoinActivity" name="com_miui_supermarket"/>
+    <item class="com.meizu.voiceassistant.MainActivity" name="com_meizu_voiceassistant"/>
+    <item class="com.light.beauty.login.LoadingPageActivity" name="com_gorgeous_lite"/>
+    <item class="com.tencent.ttpic.module.MainActivity" name="com_tencent_ttpic"/>
+    <item class="com.ht.video.ui.MainActivity" name="com_ht_video_ui"/>
+    <item class="com.antutu.aibenchmark.MainActivity" name="com_antutu_aibenchmark" not_sure="yes"/>
+    <item class="com.njh.ping.core.business.LauncherActivity" name="com_njh_biubiu"/>
+    <item class="com.njh.ping.launcher.LauncherActivity" name="com_njh_biubiu"/>
+    <item class="com.dangdang.buy2.StartupActivity" name="com_dangdang_buy2"/>
+    <item class="com.t3go.passenger.MainActivity" name="com_t3go_passenger" not_sure="yes"/>
+    <item class="com.fooview.android.fooview.MainActivity" name="com_fooview_android_fooview"/>
+    <item class="com.walixiwa.flash.player.activity.SplashActivity" name="com_walixiwa_flash_player"/>
+    <item class="net.imeihua.anzhuo.MainActivity" name="net_imeihua_anzhuo" not_sure="yes"/>
+    <item class="com.facebook.katana.LoginActivity" name="com_facebook_katana"/>
+    <item class="com.cnki.android.cnkimobile.MainActivity" name="com_cnki_android_cnkimobile" not_sure="yes"/>
+    <item class="me.ele.napos.presentation.ui.splash.SplashActivity" name="me_ele_napos"/>
+    <item class="me.ele.napos.module.splash.SplashActivity" name="me_ele_napos"/>
+    <item class="com.mfw.roadbook.main.StartActivity" name="com_mfw_roadbook"/>
+    <item class="com.mfw.roadbook.business.launch.StartActivity" name="com_mfw_roadbook"/>
+    <item class="com.sohu.newsclient.MainActivity" name="com_sohu_newsclient" not_sure="yes"/>
+    <item class="com.up366.mobileTeacher.MainActivity" name="com_up366_mobileteacher" not_sure="yes"/>
+    <item class="com.yyets.zimuzu.SplashActivity" name="com_yyets_pro"/>
+    <item class="com.stub.stub01.Stub01" name="com_yyets_pro"/>
+    <item class="com.qihoo.util.StartActivity" name="com_yyets_pro"/>
+    <item class="com.stub.plugin.Stub01" name="com_yyets_pro"/>
+    <item class="nutstore.android.SplashScreen" name="nutstore_android"/>
+    <item class="com.qihoo.util.StartActivity" name="nutstore_android"/>
+    <item class="com.stub.plugin.Stub01" name="nutstore_android"/>
+    <item class="com.sixbugs.bujuan.MainActivity" name="com_sixbugs_bujuan" not_sure="yes"/>
+    <item class="com.picacomic.fregata.activities.LoginActivity" name="com_picacomic_fregata"/>
+    <item class="com.picacomic.fregata.activities.SplashActivity" name="com_picacomic_fregata"/>
+    <item class="com.baidu.mbaby.MainActivity" name="com_baidu_mbaby" not_sure="yes"/>
+    <item class="com.tencent.mobileqq.activity.SplashActivity" name="com_tencent_docs"/>
+    <item class="com.xiaomi.mitv.phone.remotecontroller.HoriWidgetMainActivityV2" name="com_duokan_phone_remotecontroller"/>
+    <item class="com.sticktoit.MainActivity" name="com_sticktoit" not_sure="yes"/>
+    <item class="com.gamestar.pianoperfect.MainActivity" name="com_gamestar_pianoperfect" not_sure="yes"/>
+    <item class="com.myzaker.ZAKER_Phone.view.LogoActivity" name="com_myzaker_zaker_phone"/>
+    <item class="com.meizu.feedback.activity.MainActivity" name="com_meizu_feedback"/>
+    <item class="com.meizu.feedback.feedback.activity.MainActivity" name="com_meizu_feedback"/>
+    <item class="com.psyone.brainmusic.SplashActivity" name="com_psyone_brainmusic"/>
+    <item class="com.rytong.ceair.SplashScreenActivity" name="com_rytong_ceair"/>
+    <item class="com.duokan.reader.DkMainActivity" name="com_duokan_reader"/>
+    <item class="com.duokan.freereader.DkMainActivity" name="com_duokan_reader"/>
+    <item class="com.duokan.reader.DkReaderActivity" name="com_duokan_reader"/>
+    <item class="p36d9a2d1.pdfc99c2a.p9b0a3007.p88426b29" name="com_duokan_reader"/>
+    <item class="com.fluidtouch.noteshelf2.MainActivity" name="com_fluidtouch_noteshelf2" not_sure="yes"/>
+    <item class="com.blizzard.wtcg.hearthstone.HearthstoneNativeActivity" name="com_blizzard_wtcg_hearthstone"/>
+    <item class="com.blizzard.wtcg.hearthstone.HearthstoneActivity" name="com_blizzard_wtcg_hearthstone"/>
+    <item class="com.mc.miband1.ui.MainActivity" name="com_mc_miband1"/>
+    <item class="com.spdbccc.app.activity.SplashActivity" name="com_spdbccc_app"/>
+    <item class="com.github.kr328.clash.MainActivity" name="com_github_kr328_clash"/>
+    <item class="us.pinguo.april.MainActivity" name="us_pinguo_april_collage"/>
+    <item class="moe.guo.lyricsjaeger.LrcJaeger" name="moe_guo_lyricsjaeger"/>
+    <item class="com.xiaomi.shop.activity.MainTabActivity" name="com_xiaomi_padshop"/>
+    <item class="com.ss.android.article.video.activity.SplashActivity" name="com_ss_android_article_video"/>
+    <item class="com.tencent.appsecure.MainActivity" name="com_tencent_appsecure" not_sure="yes"/>
+    <item class="mark.via.ui.activity.BrowserActivity" name="mark_via"/>
+    <item class="com.z28j.feel.HomeActivity" name="com_z28j_feel"/>
+    <item class="com.videogo.login.LoadingActivity" name="com_videogo"/>
+    <item class="com.cctv.yangshipin.app.android.MainActivity" name="com_cctv_yangshipin_app_android" not_sure="yes"/>
+    <item class="com.mojang.minecraftpe.MainActivity" name="com_netease_mc_mi"/>
+    <item class="com.qihoo.util.StartActivity" name="com_netease_mc_mi"/>
+    <item class="com.game.god.FaActivity" name="com_netease_mc_mi"/>
+    <item class="com.aiwu.Splash" name="com_netease_mc_mi"/>
+    <item class="com.kuaiyouxi.gamepad.sdk.shell.KyxShellActivity" name="com_netease_mc_mi"/>
+    <item class="com.dbgj.stasdk.activity.StaWelcomeActivity" name="com_netease_mc_mi"/>
+    <item class="com.hf.qhbao.activity.SplashActivity" name="com_netease_mc_mi"/>
+    <item class="com.qiqiersan.sdk.QqesShellActivity" name="com_netease_mc_mi"/>
+    <item class="com.showmcad.BoxPushActivity" name="com_netease_mc_mi"/>
+    <item class="com.ebank.creditcard.loadingpage.activity.NewLoadingActivity" name="com_ebank_creditcard"/>
+    <item class="com.xiaomi.xmsf.payment.MiliCenterEntryActivity.MainActivity" name="com_xiaomi_xmsf_payment_milicenterentryactivity" not_sure="yes"/>
+    <item class="com.zjy.ykt.publics.app.WelcomeActivity" name="com_zjy_ykt"/>
+    <item class="cn.com.cmbc.newmbank.activity.WelComeActivity" name="cn_com_cmbc_newmbank"/>
+    <item class="cn.com.cmbc.newmbank.activity.SplashActivity" name="cn_com_cmbc_newmbank"/>
+    <item class="com.csair.mbp.launcher.WelcomeActivity" name="com_csair_mbp"/>
+    <item class="com.UCMobile.main.UCMobile" name="com_ucmobile"/>
+    <item class="alook.browser.MainActivity" name="alook_browser" not_sure="yes"/>
+    <item class="com.android.providers.contacts.MainActivity" name="com_android_providers_contacts" not_sure="yes"/>
+    <item class="com.jdcloud.mt.smartrouter.MainActivity" name="com_jdcloud_mt_smartrouter" not_sure="yes"/>
+    <item class="com.android.thememanager.ThemeResourceTabActivity" name="com_android_thememanager"/>
+    <item class="com.android.thememanager.business.startup.view.StartupActivity" name="com_android_thememanager"/>
+    <item class="com.xinhang.mobileclient.ui.activity.LoadingActivity" name="com_cqmc_client"/>
+    <item class="com.xinhang.mobileclient.LoadingActivity" name="com_cqmc_client"/>
+    <item class="com.pop.music.MainActivity" name="com_pop_music" not_sure="yes"/>
+    <item class="com.microsoft.office.apphost.LaunchActivity" name="com_microsoft_office_officelens"/>
+    <item class="com.microsoft.office.officelens.MainActivity" name="com_microsoft_office_officelens"/>
+    <item class="com.wanpan.MainActivity" name="com_wanpan" not_sure="yes"/>
+    <item class="cn.missfresh.module.base.main.view.SplashActivity" name="cn_missfresh_application"/>
+    <item class="com.deppon.dpapp.MainActivity" name="com_deppon_dpapp" not_sure="yes"/>
+    <item class="com.ztgame.yyzy.yyh.MainActivity" name="com_ztgame_yyzy" not_sure="yes"/>
+    <item class="com.eyefilter.nightmode.bluelightfilter.MainActivity" name="com_eyefilter_nightmode_bluelightfilter" not_sure="yes"/>
+    <item class="com.kanshusq.ebook.app.ui.activity.WelComeActivity" name="com_kanshushenqi_ebook_app"/>
+    <item class="com.edcsc.wbus.ui.WelcomeActivity" name="com_edcsc_wbus"/>
+    <item class="com.sloth.removelogo.MainActivity" name="com_sloth_removelogo" not_sure="yes"/>
+    <item class="com.baidu.ocr.demo.activity.SplashActivity" name="com_lixiangdong_textscanner"/>
+    <item class="com.netease.onmyoji.appchina.MainActivity" name="com_netease_onmyoji_mi" not_sure="yes"/>
+    <item class="com.zhaopin.social.SplashActivity" name="com_zhaopin_social"/>
+    <item class="com.qihoo.util.StartActivity" name="com_zhaopin_social"/>
+    <item class="com.iflytek.readassistant.ui.JumpActivity" name="com_iflytek_readassistant"/>
+    <item class="com.iflytek.readassistant.biz.home.JumpActivity" name="com_iflytek_readassistant"/>
+    <item class="com.alipay.mobile.quinox.LauncherActivity" name="com_android_bankabc"/>
+    <item class="com.android.bankabc.SplashActivity" name="com_android_bankabc"/>
+    <item class="com.android.bankabc.MainActivity" name="com_android_bankabc"/>
+    <item class="com.autonavi.map.activity.NewMapActivity" name="com_autonavi_minimap"/>
+    <item class="com.autonavi.map.activity.SplashActivity" name="com_autonavi_minimap"/>
+    <item class="com.autonavi.minimap.Splashy" name="com_autonavi_minimap"/>
+    <item class="cn.com.spdb.mobilebank.per.activity.SplashActivity" name="cn_com_spdb_mobilebank_per"/>
+    <item class="com.nowcasting.activity.SplashActivity" name="com_nowcasting_activity"/>
+    <item class="com.qihoo.util.StartActivity" name="com_nowcasting_activity"/>
+    <item class="com.shine.ui.home.SplashActivity" name="com_shizhuang_duapp"/>
+    <item class="com.shizhuang.duapp.modules.home.ui.SplashActivity" name="com_shizhuang_duapp"/>
+    <item class="com.shine.ui.SplashActivity" name="com_shizhuang_duapp"/>
+    <item class="com.shine.core.module.client.ui.activity.SplashActivity" name="com_shizhuang_duapp"/>
+    <item class="com.leadeon.cmcc.base.StartPageActivity" name="com_cqmc_client"/>
+    <item class="com.autoadmin.autoassistant.MainActivity" name="com_autoadmin_autoassistant" not_sure="yes"/>
+    <item class="com.rhmsoft.edit.activity.MainActivity" name="com_rhmsoft_edit"/>
+    <item class="com.pharos.pro.MainActivity" name="com_pharos_pro" not_sure="yes"/>
+    <item class="com.microsoft.office.officehub.OHubAppLaunchActivity" name="com_microsoft_office_officehub"/>
+    <item class="com.microsoft.office.officesuite.OfficeSuiteLaunchActivity" name="com_microsoft_office_officehub"/>
+    <item class="com.microsoft.office.officesuite.OfficeSuiteActivity" name="com_microsoft_office_officehub"/>
+    <item class="com.movitech.eop.login.Splash2Activity" name="com_geely_oaapp"/>
+    <item class="com.play.taptap.ui.MainAct" name="com_taptap"/>
+    <item class="com.play.taptap.ui.SplashAct" name="com_taptap"/>
+    <item class="com.play.taptap.ui.SplashActivity" name="com_taptap"/>
+    <item class="com.lucky.luckyclient.splash.splash.SplashActivity" name="com_lucky_luckyclient"/>
+    <item class="com.nowcoder.app.florida.activity.home.SplashActivity" name="com_nowcoder_app_florida"/>
+    <item class="com.hitherejoe.notifi.MainActivity" name="com_hitherejoe_notifi" not_sure="yes"/>
+    <item class="com.kingpoint.gmcchh.newui.main.skeleton.view.SkeletonActivity" name="com_cqmc_client"/>
+    <item class="com.kingpoint.gmcchh.ui.home.StartUpActivity" name="com_cqmc_client"/>
+    <item class="com.meizu.store.screen.main.Main2Activity" name="com_flyme_meizu_store"/>
+    <item class="com.meizu.store.newhome.NewHomeActivity" name="com_flyme_meizu_store"/>
+    <item class="com.meizu.store.home.HomeActivity" name="com_flyme_meizu_store"/>
+    <item class="com.stub.plugin.Stub01" name="com_flyme_meizu_store"/>
+    <item class="com.google.android.gms.app.settings.GoogleSettingsActivity" name="com_mgoogle_android_gms"/>
+    <item class="com.google.android.gms.common.settings.GoogleSettingsActivity" name="com_mgoogle_android_gms"/>
+    <item class="com.waterdaaan.cpufloat.MainActivity" name="com_mgoogle_android_gms"/>
+    <item class="org.microg.gms.ui.SettingsActivity" name="com_mgoogle_android_gms"/>
+    <item class="com.google.android.gms.MainActivity" name="com_mgoogle_android_gms"/>
+    <item class="com.anjuke.android.app.WelcomeActivity" name="com_anjuke_android_app"/>
+    <item class="cn.deepink.reader.view.main.MainActivity" name="cn_deepink_reader"/>
+    <item class="cn.deepink.reader.app.main.HomeActivity" name="cn_deepink_reader"/>
+    <item class="cn.deepink.reader.ui.main.MainActivity" name="cn_deepink_reader"/>
+    <item class="com.miui.screenrecorder.activity.ScreenRecorderHomeActivity" name="com_miui_screenrecorder"/>
+    <item class="com.skype.raider.Main" name="com_skype_raider"/>
+    <item class="com.skype.raider.ui.SplashScreenActivity" name="com_skype_raider"/>
+    <item class="com.skype4life.MainActivity" name="com_skype_raider"/>
+    <item class="com.jobernowl.MainActivity" name="com_zecurisoft_mhc1411"/>
+    <item class="com.lptiyu.tanke.activities.splash.SplashActivity" name="com_lptiyu_tanke"/>
+    <item class="cn.com.ruijie.wifibox.activity.WelcomeActivity" name="com_ruijie_wifim"/>
+    <item class="com.okmarco.teehub.MainActivity" name="com_okmarco_teehub" not_sure="yes"/>
+    <item class="com.tencent.oscar.module.splash.SplashActivity" name="com_tencent_weishi"/>
+    <item class="com.csdroid.pkg.ui.MainActivity" name="com_csdroid_pkg"/>
+    <item class="com.cloudcore.zjrcb.ui.HomeCdvActivity" name="com_csii_zijin"/>
+    <item class="cn.businesstravel.user.MainActivity" name="cn_businesstravel_user" not_sure="yes"/>
+    <item class="com.icbc.activity.init.LoadingActivity" name="com_icbc"/>
+    <item class="com.ziipin.homeinn.activity.SplashActivity" name="com_ziipin_homeinn"/>
+    <item class="tv.twitch.android.app.core.LandingActivity" name="tv_twitch_android_app"/>
+    <item class="tv.twitch.android.apps.TVLandingActivity" name="tv_twitch_android_app"/>
+    <item class="com.wisentsoft.chinapost.android.MainActivity" name="com_wisentsoft_chinapost_android" not_sure="yes"/>
+    <item class="com.jtjsb.wsjietu.MainActivity" name="com_jtjsb_wsjietu" not_sure="yes"/>
+    <item class="com.didapinche.booking.home.activity.StartActivity" name="com_didapinche_booking"/>
+    <item class="app.activity.MainActivity" name="com_iudesk_android_photo_editor"/>
+    <item class="com.mintmuse.miramusic.SplashActivity" name="com_mintmuse_miramusic"/>
+    <item class="com.rammigsoftware.bluecoins.ui.activities.main.MainActivity" name="com_rammigsoftware_bluecoins"/>
+    <item class="com.rammigsoftware.bluecoins.SplashActivity" name="com_rammigsoftware_bluecoins"/>
+    <item class="com.baidu.baidumaps.WelcomeScreen" name="com_baidu_baidumap"/>
+    <item class="com.baidu.BaiduMap.BaiduMap" name="com_baidu_baidumap"/>
+    <item class="com.tplink.cloudrouter.activity.basesection.InitAppActivity" name="com_tplink_cloudrouter"/>
+    <item class="com.tplink.cloudrouter.activity.WelcomeTPLINKActivity" name="com_tplink_cloudrouter"/>
+    <item class="com.tplink.cloudrouter.activity.InitAppActivity" name="com_tplink_cloudrouter"/>
+    <item class="com.miui.barcodescanner.activity.CaptureActivity" name="com_xiaomi_scanner"/>
+    <item class="com.pingan.pocketbank.splash.PALoadingActivity" name="com_pingan_paces_ccms"/>
+    <item class="com.pingan.paces.ccms.splash.SplashActivity" name="com_pingan_paces_ccms"/>
+    <item class="com.google.android.apps.wallpaper.picker.CategoryPickerActivity" name="com_google_android_apps_wallpaper"/>
+    <item class="com.muma.vpn.AppStart" name="com_wuma_vpn"/>
+    <item class="com.wuma.vpn.AppStart" name="com_wuma_vpn"/>
+    <item class="cn.guancha.app.ui.activity.WelcomeActivity" name="cn_guancha_app"/>
+    <item class="com.sina.mail.free.MainActivity" name="com_sina_mail_free" not_sure="yes"/>
+    <item class="com.whatsapp.Main" name="com_whatsapp"/>
+    <item class="com.whatsapp.Main3" name="com_whatsapp"/>
+    <item class="com.tencent.tmgp.WePop.WePopActivity" name="com_tencent_tmgp_wepop"/>
+    <item class="com.e1223271177.xxt.MainActivity" name="com_e1223271177_xxt" not_sure="yes"/>
+    <item class="com.miui.notes.ui.NotesListActivity" name="com_miui_notes"/>
+    <item class=".ui.NotesListActivity" name="com_miui_notes"/>
+    <item class="com.up366.mobile.SplashActivity" name="com_up366_mobile"/>
+    <item class="com.gabrielittner.timetable.MainActivity" name="com_gabrielittner_timetable" not_sure="yes"/>
+    <item class="com.smzdm.client.android.app.WelComeActivity" name="com_smzdm_client_android"/>
+    <item class="com.smzdm.client.android.welcome.WelComeActivity" name="com_smzdm_client_android"/>
+    <item class="com.smzdm.client.android.activity.WelComeActivity" name="com_smzdm_client_android"/>
+    <item class="com.intlime.mark.activitys.SplashActivity" name="com_intlime_mark"/>
+    <item class="com.intlime.mark.MainActivity" name="com_intlime_mark"/>
+    <item class="com.arthurivanets.owly.ui.splash.SplashActivity" name="com_arthurivanets_owly"/>
+    <item class="com.meizu.safe.SecurityCenterActivity" name="com_miui_securitycenter"/>
+    <item class="com.meizu.safe.SecurityMainActivity" name="com_miui_securitycenter"/>
+    <item class="com.androlua.Welcome" name="com_tencent_tmgp_pubgmhd"/>
+    <item class="com.epicgames.ue4.SplashActivity" name="com_tencent_tmgp_pubgmhd"/>
+    <item class="com.duowan.kiwi.simpleactivity.SplashActivity" name="com_duowan_kiwi"/>
+    <item class="cc.forestapp.applications.SplashActivity" name="cc_forestapp"/>
+    <item class="cc.forestapp.activities.PlantView.PlantViewController" name="cc_forestapp"/>
+    <item class="cc.forestapp.activities.plant.PlantViewController" name="cc_forestapp"/>
+    <item class="cc.forestapp.activities.launch.LaunchActivity" name="cc_forestapp"/>
+    <item class="com.jeremy.SplashSpotActivity" name="cc_forestapp"/>
+    <item class="cc.forestapp.SplashActivity" name="cc_forestapp"/>
+    <item class="com.txmpay.csewallet.ui.splash.SplashActivity" name="com_txmpay_csewallet"/>
+    <item class="com.meizu.component.HomeActivity" name="com_meizu_compaign"/>
+    <item class="com.meizu.flyme.venice.modules.home.HomePageActivity" name="com_meizu_compaign"/>
+    <item class="com.meizu.welfarecentre.modules.home.HomePagerActivity" name="com_meizu_compaign"/>
+    <item class="com.bilibili.priconne.aligames.MainActivity" name="jp_co_cygames_princessconnectredive" not_sure="yes"/>
+    <item class="com.zhixinhuixue.zsyte.MainActivity" name="com_zhixinhuixue_zsyte" not_sure="yes"/>
+    <item class="com.mygolbs.mybus.LoginActivity" name="com_mygolbs_mybus"/>
+    <item class="com.mygolbs.mybus.NewHomePageActivity" name="com_mygolbs_mybus"/>
+    <item class="com.yueme.itv.MainActivity" name="com_yueme_itv" not_sure="yes"/>
+    <item class="me.tvspark.view.activity.SplashActivity" name="mei_zhi_whale"/>
+    <item class="me.tvspark.ui.HomeActivity" name="mei_zhi_whale"/>
+    <item class="me.tvspark.ui.SplashActivity" name="mei_zhi_whale"/>
+    <item class="cn.mdict.SplashScreen" name="cn_mdict"/>
+    <item class="cn.mdict.MainForm" name="cn_mdict"/>
+    <item class="com.projectkr.shell.SplashActivity" name="han_gjzs"/>
+    <item class="com.sesum.Chords2.MainActivity" name="com_sesum_chords2" not_sure="yes"/>
+    <item class="com.wenshushu.app.android.MainActivity" name="com_wenshushu_app_android"/>
+    <item class="com.xxf098.ssrray.MainActivity" name="com_xxf098_ssrray" not_sure="yes"/>
+    <item class="com.tan8.ui.SplashActivity" name="com_tan8"/>
+    <item class="com.quickbird.speedtestmaster.MainActivity" name="com_quickbird_speedtestmaster" not_sure="yes"/>
+    <item class="com.tencent.qqpim.ui.QQPimAndroid" name="com_tencent_qqpim"/>
+    <item class="com.tencent.qqpim.UI.QQPimAndroid" name="com_tencent_qqpim"/>
+    <item class="com.xiaomi.mimoji.MainActivity" name="com_xiaomi_mimoji" not_sure="yes"/>
+    <item class="cn.nemo.video.MainActivity" name="cn_nemo_video" not_sure="yes"/>
+    <item class="com.mjxq.app.MainActivity" name="com_mjxq_app"/>
+    <item class="com.koudai.weidian.buyer.activity.SplashActivity" name="com_koudai_weidian_buyer"/>
+    <item class="com.iflytek.elpmobile.apppocket.MainActivity" name="com_iflytek_elpmobile_apppocket" not_sure="yes"/>
+    <item class="cn.edu.cqut.cqutprint.MainActivity" name="cn_edu_cqut_cqutprint" not_sure="yes"/>
+    <item class="com.as2in1.MainActivity" name="com_as2in1" not_sure="yes"/>
+    <item class="com.zzw.october.LaunchActivity" name="com_zzw_october"/>
+    <item class="com.android.stk.StkLauncherActivity2.MainActivity" name="com_android_stk_stklauncheractivity2" not_sure="yes"/>
+    <item class="com.unionpay.activity.UPActivityWelcome" name="com_unionpay"/>
+    <item class="com.kwai.videoeditor.MainActivity" name="com_kwai_videoeditor" not_sure="yes"/>
+    <item class="com.thirtydegreesray.openhub.ui.activity.SplashActivity" name="com_thirtydegreesray_openhub"/>
+    <item class="com.example.dwd.myapplication.SplashActivity" name="com_flash_download"/>
+    <item class="com.example.dwd.myapplication.activity.SplashActivity" name="com_flash_download"/>
+    <item class="com.skyplatanus.crucio.ui.home.SplashActivity" name="com_skyplatanus_crucio"/>
+    <item class="com.wisorg.wisedu.login.WelcomeActivity" name="com_wisedu_cpdaily"/>
+    <item class="com.wisorg.wisedu.campus.activity.WelcomeActivity" name="com_wisedu_cpdaily"/>
+    <item class="com.miui.newmidrive.ui.MiDriveFamilyActivity" name="com_xiaomi_xmsf_account_ui_micloudsettingsactivity"/>
+    <item class="com.qqgame.hlddz.NewHLDDZ" name="com_qqgame_hlddz"/>
+    <item class="com.facebook.orca.auth.StartScreenActivity" name="com_facebook_orca"/>
+    <item class="com.cubic.autohome.LogoActivity" name="com_cubic_autohome"/>
+    <item class="com.cubic.autohome.business.Logo" name="com_cubic_autohome"/>
+    <item class="com.yidian.foxconn.MainActivity" name="com_yidian_foxconn" not_sure="yes"/>
+    <item class="com.boc.bocsoft.mobile.bocmobile.buss.system.splash.SplashActivity" name="com_chinamworld_bocmbci"/>
+    <item class="com.chinamworld.bocmbci.biz.DexActivity" name="com_chinamworld_bocmbci"/>
+    <item class="com.alimama.moon.ui.WizardActivity" name="com_alimama_moon"/>
+    <item class="com.alimama.moon.ui.MainTabActivity" name="com_alimama_moon"/>
+    <item class="com.alimama.moon.ui.BottomNavActivity" name="com_alimama_moon"/>
+    <item class="com.lantern.launcher.ui.MainActivity" name="com_halo_wifikey_wifilocating"/>
+    <item class="com.halo.wifikey.wifilocating.ui.activity.WelcomeActivity" name="com_halo_wifikey_wifilocating"/>
+    <item class="com.qihoo.util.StartActivity" name="com_halo_wifikey_wifilocating"/>
+    <item class="com.oray.sunlogin.service.MainActivity" name="com_oray_sunlogin_service" not_sure="yes"/>
+    <item class="com.alibaba.android.rimet.biz.LaunchHomeActivity" name="com_alibaba_android_rimet"/>
+    <item class="com.alibaba.android.rimet.biz.SplashActivity" name="com_alibaba_android_rimet"/>
+    <item class="com.brakefield.painter.activities.ActivityStartup" name="com_brakefield_painter"/>
+    <item class="air.com.adobe.pstouch.AppEntry" name="com_adobe_psmobile"/>
+    <item class="com.x7890.shortcutcreator.AppListActivity" name="com碐shortcutcreator"/>
+    <item class="com.xiangha.MainActivity" name="com_xiangha" not_sure="yes"/>
+    <item class="com.meizu.media.video.VideoMainActivity" name="com_meizu_media_video"/>
+    <item class="com.zcool.community.ui.splash.SplashActivity" name="com_zcool_community"/>
+    <item class="com.zcool.community.module.splash.SplashActivity" name="com_zcool_community"/>
+    <item class="com.tencent.pao.BreezeGame" name="com_tencent_pao"/>
+    <item class="com.jianpian.xiaoxigua.MainActivity" name="com_jianpian_xiaoxigua" not_sure="yes"/>
+    <item class="com.qihoo.qeditor.MainActivity" name="com_qihoo_qeditor" not_sure="yes"/>
+    <item class="cn.video.star.MainActivity" name="cn_video_star" not_sure="yes"/>
+    <item class="com.ticktick.task.activity.MeTaskActivity" name="com_ticktick_task"/>
+    <item class="com.magicalstory.cleaner.UI.Splash.SplashActivity" name="com_magicalstory_cleaner"/>
+    <item class="com.galaxylab.android.MainActivityV3" name="com_galaxylab_ss"/>
+    <item class="com.hbmcc.heshenghuo.ui.welcome.WelcomeActivity" name="com_cqmc_client"/>
+    <item class="com.hbmcc.heshenghuo.ui.activity.WelcomeActivity" name="com_cqmc_client"/>
+    <item class="top.linesoft.open2share.unhide_icon" name="top_linesoft_open2share"/>
+    <item class="com.meizu.flyme.mall.modules.home.HomeActivity" name="com_meizu_flyme_mall"/>
+    <item class="com.xt.retouch.MainActivity" name="com_xt_retouch" not_sure="yes"/>
+    <item class="com.xiaomi.bbs.activity.SplashActivity" name="com_xiaomi_bbs"/>
+    <item class="com.nexdev.blurone.MainActivity" name="com_nexdev_blurone" not_sure="yes"/>
+    <item class="com.sichuan.iwant.activity.LaunchActivity" name="com_cqmc_client"/>
+    <item class="com.ecitic.bank.mobile.ui.SplashActivity" name="com_ecitic_bank_mobile"/>
+    <item class="com.citicbank.newmobilebank.ui.SplashActivity" name="com_ecitic_bank_mobile"/>
+    <item class="com.nfyg.hsbb.HSLauncherActivity" name="com_nfyg_hsbb"/>
+    <item class="com.nfyg.hsbb.views.activities.CoverActivity" name="com_nfyg_hsbb"/>
+    <item class="com.alipay.mobile.quinox.LauncherActivity" name="com_nfyg_hsbb"/>
+    <item class="com.nfyg.hsbb.views.main.CoverActivity" name="com_nfyg_hsbb"/>
+    <item class="com.nfyg.hsbb.views.main.FirstTimeActivity" name="com_nfyg_hsbb"/>
+    <item class="com.ilulutv.lulu.welcome.WelcomeActivity" name="com_ilulutv_lulu"/>
+    <item class="com.meizu.flyme.find.ui.LoginActivity" name="com_meizu_flyme_find"/>
+    <item class="cn.wps.moffice.main.local.HomeRootActivity" name="cn_wps_moffice_eng"/>
+    <item class="cn.wps.moffice.documentmanager.PreStartActivity" name="cn_wps_moffice_eng"/>
+    <item class="cn.wps.moffice_eng.documentmanager.PreStartActivity" name="cn_wps_moffice_eng"/>
+    <item class="cn.wps.moffice.Smart" name="cn_wps_moffice_eng"/>
+    <item class="cn.wps.moffice_eng.documentmanager.DocumentManager" name="cn_wps_moffice_eng"/>
+    <item class="com.qihoo.util.StartActivity" name="cn_wps_moffice_eng"/>
+    <item class="com.smartisan.notes.NewNotesActivity" name="com_smartisan_notes"/>
+    <item class="com.smartisan.notes.NotesActivity" name="com_smartisan_notes"/>
+    <item class="com.tonglian.tyf.MainActivity" name="com_tonglian_tyf" not_sure="yes"/>
+    <item class="top.linesoft.kiryuu.pandownload.zhou45.MainActivity" name="top_linesoft_kiryuu_pandownload_zhou45" not_sure="yes"/>
+    <item class="com.jf.my.MainActivity" name="com_jf_my" not_sure="yes"/>
+    <item class="com.meizu.customizecenter.CustomizeCenterActivity" name="com_meizu_customizecenter"/>
+    <item class="com.meizu.customizecenter.frame.activity.CustomizeCenterActivity" name="com_meizu_customizecenter"/>
+    <item class="com.ss.android.ugc.aweme.splash.SplashActivity" name="com_ss_android_ugc_trill"/>
+    <item class="com.zhiliaoapp.musically.activity.SplashActivity" name="com_ss_android_ugc_trill"/>
+    <item class="com.bly.dkplat.widget.splash.Splash" name="com_bly_dkplat"/>
+    <item class="com.yiche.autoeasy.ADActivity" name="com_yiche_autoeasy"/>
+    <item class="com.yiche.autoeasy.StartActivity" name="com_yiche_autoeasy"/>
+    <item class="com.fenbi.android.solar.activity.SplashActivity" name="com_fenbi_android_solar"/>
+    <item class="com.fenbi.android.solar.activity.RouterActivity" name="com_fenbi_android_solar"/>
+    <item class="com.miui.huanji.MainActivity" name="com_miui_huanji"/>
+    <item class="com.vega.launcher.precondition.PreInstallConfirmActivity" name="com_lemon_lv"/>
+    <item class="com.seebaby.login.ui.activity.LauncherActivity" name="com_seebaby"/>
+    <item class="com.xiaomi.wearable.start.privacy.PrivacyActivity" name="com_xiaomi_wearable"/>
+    <item class="com.tencent.tmgp.sgamece.SGameActivity" name="com_tencent_tmgp_sgamece"/>
+    <item class="com.socialin.android.photo.picsinphoto.MainPagerActivity" name="com_picsart_studio"/>
+    <item class="com.shazam.android.lite.ui.SplashActivity" name="com_shazam_android_lite"/>
+    <item class="cn.ygxmb.jtw.MainActivity" name="cn_ygxmb_jtw" not_sure="yes"/>
+    <item class="com.zzjdev.didi.MainActivity" name="com_zzjdev_didi" not_sure="yes"/>
+    <item class="com.meizu.media.life.home.HomeActivity" name="com_meizu_media_life"/>
+    <item class="com.meizu.media.life.ui.activity.HomeActivity" name="com_meizu_media_life"/>
+    <item class="com.meizu.media.life.home.view.activity.HomeActivity" name="com_meizu_media_life"/>
+    <item class="com.meizu.media.life.base.home.HomeActivity" name="com_meizu_media_life"/>
+    <item class="cn.lingkou.app.MainActivity" name="cn_lingkou_app"/>
+    <item class="com.baidu.input.ImeAppMainActivity" name="com_baidu_input"/>
+    <item class="com.baidu.input.ConfigActivity" name="com_baidu_input"/>
+    <item class="com.baidu.input.ImeMainConfigActivity" name="com_baidu_input"/>
+    <item class="com.baidu.netdisk.ui.Navigate" name="com_baidu_netdisk"/>
+    <item class="com.wodidashi.paint.MainActivity" name="com_wodidashi_paint" not_sure="yes"/>
+    <item class="com.android.contacts.DialtactsCallLogActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.activities.CallLogActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.CallLogActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.CallDialtactsActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.RecentCallsLauncherActivity" name="com_android_providers_contacts"/>
+    <item class="com.oppo.contacts.OppoDialtactsActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.activities.DialtactsActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.DialtactsActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.activities.TwelveKeyDialer" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.activities.PCUDialtactsActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.CallLogShortcut" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.PhoneContactsActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.PhoneDialtactsActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.SmartDialerActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.DialtactsDialerEntryActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.CallLog" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.dialer.DialerPhoneActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.DialerActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.TwelveKeyDialer" name="com_android_providers_contacts"/>
+    <item class="com.sec.android.app.contacts.DialerEntryActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.dialer.DialtactsActivity" name="com_android_providers_contacts"/>
+    <item class="com.oneplus.contacts.activities.OPDialtactsActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.DialtactsActivityAlias" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.DialtactsContactsEntryActivity" name="com_android_providers_contacts"/>
+    <item class="com.sec.android.app.contacts.ContactsEntryActivity" name="com_android_providers_contacts"/>
+    <item class="com.sec.android.app.contacts.PhoneBookTopMenuActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.activities.PeopleActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.DialtactsCallLogEntryActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.activities.ContactsFrontDoor" name="com_android_providers_contacts"/>
+    <item class="com.sec.android.app.contacts.PhoneBookSplitTopMenuActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.activities.ContactTabBrowserActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.DialtactsRecentCallsEntryActivity" name="com_android_providers_contacts"/>
+    <item class="com.sec.android.app.contacts.RecntcallEntryActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.RecentCallsEntryActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.activities.PhoneFrontDoor" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.DialtactsPhoneEntryActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.DialtactsEntryActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.tmo.LaunchCommunityActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.BbDialtactsMainFrameActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.ContactsActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.ContactsListActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.ContactHostActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.DialtactsRecentEntryActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.DialtactsCallListEntryActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.DialtactsRecentCallEntryActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.DialtactsCallsEntryActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.ContactsMainFromHomeActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.RecentCallLogLaunchActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.TransparentActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.SmartDialerListActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.BaiJiaXingActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.SmartDailerActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.ContactsListActivityLauncher" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.ContactsListActivityEx" name="com_android_providers_contacts"/>
+    <item class="com.oneplus.contacts.activities.OPPeopleActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.PeopleActivityAlias" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.mainlist.PeopleActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.MmsConversationActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.activities.WtDialerActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.mms.ui.ConversationList" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.DialtactsRecentCallsListActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.mms.ui.SearchActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.LaunchCallLogActivity" name="com_android_providers_contacts"/>
+    <item class="com.yoenten.bighiung.app.SplashActivity" name="com_yoenten_bighiung_app"/>
+    <item class="com.yum.brandkfc.SplashAct" name="com_yek_android_kfc_activitys"/>
+    <item class="com.nn.cowtransfer.MainActivity" name="com_nn_cowtransfer"/>
+    <item class="yyc.xk.workshop.MainActivity" name="yyc_xk_workshop" not_sure="yes"/>
+    <item class="com.mimei17.MainActivity" name="com_mimei17" not_sure="yes"/>
+    <item class="com.tencent.tmgp.speedmobile.speedmobile" name="com_tencent_tmgp_speedmobile"/>
+    <item class="com.tencent.social.SocialActivity" name="com_tencent_tmgp_speedmobile"/>
+    <item class="com.flyme.roamingpay.userintent.EntranceActivity" name="com_flyme_roamingpay"/>
+    <item class="org.telegram.SplashActivity" name="org_telegram_mtt_messenger"/>
+    <item class="com.weico.international.activity.LogoActivity" name="com_weico_international"/>
+    <item class="com.qihoo.util.StartActivity" name="com_weico_international"/>
+    <item class="com.xiaomi.o2o.activity.GuideActivity" name="com_xiaomi_o2o"/>
+    <item class="com.xiaomi.o2o.activity.O2OTabActivity" name="com_xiaomi_o2o"/>
+    <item class="com.google.earth.EarthActivity" name="com_google_earth"/>
+    <item class="com.google.android.apps.earth.EarthActivity" name="com_google_earth"/>
+    <item class="com.caij.see.ui.activity.SplashActivity" name="com_caij_see"/>
+    <item class="com.caij.see.ui.activity.home.MainContainActivity" name="com_caij_see"/>
+    <item class="com.samsung.android.app.watchmanager.setupwizard.SetupWizardWelcomeActivity" name="com_samsung_android_app_watchmanager"/>
+    <item class="causallink.assets.DeepLinkBridge" name="com_escapistgames_starchart"/>
+    <item class="com.escapistgames.starchartgoogleplay.StarChart" name="com_escapistgames_starchart"/>
+    <item class="com.escapistgames.starchart.StarChart" name="com_escapistgames_starchart"/>
+    <item class="me.angeldevil.autologin.ui.MainActivity" name="me_angeldevil_autologin"/>
+    <item class="com.alipay.mobile.quinox.LauncherActivity" name="com_app_shanghai_metro"/>
+    <item class="com.miui.securitycenter.Main.MainActivity" name="com_miui_securitycenter" not_sure="yes"/>
+    <item class="com.applisto.appremium.classes.PasswordActivity" name="com_xxx_svideo"/>
+    <item class="com.xxx.svideo.activity.SplashActivity" name="com_xxx_svideo"/>
+    <item class="com.android.yzd.habit.ui.activity.SplashActivity" name="com_android_yzd_habit"/>
+    <item class="com.alipay.mobile.quinox.LauncherActivity" name="com_taobao_trip"/>
+    <item class="com.android.midrive.MainActivity" name="com_xiaomi_xmsf_account_ui_micloudsettingsactivity" not_sure="yes"/>
+    <item class="com.aidrive.V3.cdd.MainActivity" name="com_aidrive_v3_cdd" not_sure="yes"/>
+    <item class="com.xmcy.hykb.app.ui.splash.SplashActivity" name="com_xmcy_hykb"/>
+    <item class="com.xmcy.hykb.splash.SplashActivity" name="com_xmcy_hykb"/>
+    <item class="com.android.tiancity.mobilesecurity.MainActivity" name="com_android_tiancity_mobilesecurity" not_sure="yes"/>
+    <item class="com.xiaomi.vipaccount.ui.splash.SplashActivity" name="com_xiaomi_bbs"/>
+    <item class="com.xiaomi.vipaccount.ui.home.dynamic.HomeFrameActivity" name="com_xiaomi_bbs"/>
+    <item class="com.xiaomi.vipaccount.ui.home.AccountHomeActivity" name="com_xiaomi_bbs"/>
+    <item class="com.xiaomi.vipaccount.ui.VipAccountActivity" name="com_xiaomi_bbs"/>
+    <item class="com.xiaomi.vipaccount.ui.home.SplashActivity" name="com_xiaomi_bbs"/>
+    <item class="everphoto.ui.feature.splash.SplashActivity" name="tc_everphoto"/>
+    <item class="com.sohu.sohuvideo.FirstNavigationActivityGroup" name="com_sohu_sohuvideo"/>
+    <item class="com.sohu.sohuvideo.ui.MainActivity" name="com_sohu_sohuvideo"/>
+    <item class="com.neusoft.iln.MainActivity" name="com_cqmc_client" not_sure="yes"/>
+    <item class="com.mobile.jingtingyinyue.MainActivity" name="com_mobile_jingtingyinyue" not_sure="yes"/>
+    <item class="com.netease.cloudmusic.lite.MainActivity" name="com_netease_cloudmusic_lite" not_sure="yes"/>
+    <item class="com.mmbox.xbrowser.BrowserActivity" name="com_mmbox_xbrowser"/>
+    <item class="com.androlua.Welcome" name="com_chujian_vipzhongjiezhe"/>
+    <item class="com.chenupt.day.launch.SplashActivity11" name="com_chenupt_day"/>
+    <item class="com.chenupt.day.launch.SplashActivity1" name="com_chenupt_day"/>
+    <item class="com.chenupt.day.launch.SplashActivity3" name="com_chenupt_day"/>
+    <item class="com.chenupt.day.launch.SplashActivity2" name="com_chenupt_day"/>
+    <item class="com.chenupt.day.launch.SplashActivity" name="com_chenupt_day"/>
+    <item class="com.chenupt.day.SplashAlias2Activity" name="com_chenupt_day"/>
+    <item class="com.chenupt.day.SplashAlias1Activity" name="com_chenupt_day"/>
+    <item class="com.chenupt.day.launch.SplashActivity4" name="com_chenupt_day"/>
+    <item class="com.xjlmh.classic.MainActivity" name="com_xjlmh_classic" not_sure="yes"/>
+    <item class="com.naver.linewebtoon.splash.SplashActivity" name="com_naver_linewebtoon_cn"/>
+    <item class="com.xbcx.gdwx3.MainActivity" name="com_xbcx_gdwx3" not_sure="yes"/>
+    <item class="com.news.tigerobo.MainActivity" name="com_news_tigerobo" not_sure="yes"/>
+    <item class="com.wyn88.android.view.MainActivity" name="com_wyn88_android_view" not_sure="yes"/>
+    <item class="club.jijigugu.yiguan.MainActivity" name="club_jijigugu_yiguan" not_sure="yes"/>
+    <item class="com.android.stk.cu.2.MainActivity" name="com_android_stk_stklauncheractivity2" not_sure="yes"/>
+    <item class="com.ookla.mobile4.screens.wizard.GDPRWizardActivity" name="org_zwanoo_android_speedtest"/>
+    <item class="com.ookla.mobile4.screens.main.MainActivity" name="org_zwanoo_android_speedtest"/>
+    <item class="com.ookla.speedtest.softfacade.MainActivity" name="org_zwanoo_android_speedtest"/>
+    <item class="org.potato.ui.LaunchActivity" name="org_potato_messenger"/>
+    <item class="com.panti.apps.MainActivity" name="com_panti_apps" not_sure="yes"/>
+    <item class="com.taobao.fleamarket.home.activity.InitActivity.Round" name="com_taobao_idlefish"/>
+    <item class="com.taobao.fleamarket.activity.InitActivity.Round" name="com_taobao_idlefish"/>
+    <item class="com.taobao.fleamarket.activity.InitActivity" name="com_taobao_idlefish"/>
+    <item class="com.taobao.fleamarket.home.activity.InitActivity.Rect" name="com_taobao_idlefish"/>
+    <item class="com.taobao.fleamarket.home.activity.InitActivity" name="com_taobao_idlefish"/>
+    <item class="com.taobao.fleamarket.activity.InitActivity.Rect" name="com_taobao_idlefish"/>
+    <item class="com.android.voicedialer.VoiceDialerActivity" name="com_android_voicedialer"/>
+    <item class="com.kuaiduizuoye.scan.activity.init.InitActivity" name="com_kuaiduizuoye_scan"/>
+    <item class="com.hlkj.gnsmrz.MainActivity" name="com_hlkj_gnsmrz" not_sure="yes"/>
+    <item class="com.baidu.searchcraft.MainActivity" name="com_baidu_searchcraft"/>
+    <item class="com.android.providers.downloads.ui.GnDownloadTabActivity" name="com_android_providers_downloads"/>
+    <item class="com.android.providers.downloads.ui.DownloadActivity" name="com_android_providers_downloads"/>
+    <item class="com.android.providers.downloads.ui.DownloadsListTab" name="com_android_providers_downloads"/>
+    <item class="com.android.providers.downloads.ui.DownloadList" name="com_android_providers_downloads"/>
+    <item class="com.android.providers.downloads.ui.DownloadTabActivity" name="com_android_providers_downloads"/>
+    <item class="com.android.providers.downloads.ui.FilesList" name="com_android_providers_downloads"/>
+    <item class="xiaomi" name="com_android_providers_downloads"/>
+    <item class="com.netease.dwrg.Launcher" name="com_netease_dwrg"/>
+    <item class="com.xiaomi.payment.MiliCenterEntryActivity.MainActivity" name="com_xiaomi_xmsf_payment_milicenterentryactivity" not_sure="yes"/>
+    <item class="com.icbc.im.SplashActivity" name="com_icbc_im"/>
+    <item class="com.icbc.im.ui.activity.LauncherActivity" name="com_icbc_im"/>
+    <item class="me.ghui.v2er.module.splash.SplashActivity" name="me_ghui_v2er"/>
+    <item class="me.ghui.v2er.module.general.RouteActivity" name="me_ghui_v2er"/>
+    <item class="ru.zdevs.zarchiver.ZArchiver" name="ru_zdevs_zarchiver"/>
+    <item class="com.iflytek.elpmobile.marktool.MainActivity" name="com_iflytek_elpmobile_marktool" not_sure="yes"/>
+    <item class="com.android.pandownlobd.pro.MainActivity" name="com_android_pandownload_pro" not_sure="yes"/>
+    <item class="com.tencent.videolite.android.ui.SplashActivity" name="com_cctv_yangshipin_app_android"/>
+    <item class="com.ifenglian.superapp.ui.splash.SAWelcomeActivity" name="com_qihoo_srouter_n300"/>
+    <item class="mobile.com.cn.ui.MainActivity" name="mobile_com_cn_ui" not_sure="yes"/>
+    <item class="com.tencent.gamehelper.ui.main.WelcomeActivity" name="com_tencent_gamehelper_dnf"/>
+    <item class="com.speedsoftware.rootexplorer.RootExplorer" name="com_speedsoftware_rootexplorer"/>
+    <item class="com.speedsoftware.rootexplorer.ApplanetActivity" name="com_speedsoftware_rootexplorer"/>
+    <item class="com.speedsoftware.rootexplorer.DefaultActivity" name="com_speedsoftware_rootexplorer"/>
+    <item class="com.speedsoftware.rootexplorer.SplashActivity" name="com_speedsoftware_rootexplorer"/>
+    <item class="com.SplashActivity" name="com_speedsoftware_rootexplorer"/>
+    <item class="com.leadload.LeadLoad" name="com_speedsoftware_rootexplorer"/>
+    <item class="com.loadleadsilent.LoadLeadSilentActivity" name="com_speedsoftware_rootexplorer"/>
+    <item class="com.kkkpppxzn" name="com_speedsoftware_rootexplorer"/>
+    <item class="com.youdao.dict.activity.DictSplashActivity" name="com_youdao_dict"/>
+    <item class="com.youdao.dict.activity.LaunchActivity" name="com_youdao_dict"/>
+    <item class="com.youdao.dict.activity.LaunchWarningActivity" name="com_youdao_dict"/>
+    <item class="kh.android.dir.ui.Icons.EntryWithChildish" name="kh_android_dir"/>
+    <item class="kh.android.dir.ui.Icons.EntryWithDBinK" name="kh_android_dir"/>
+    <item class="kh.android.dir.ui.Icons.EntryWithDefIcon" name="kh_android_dir"/>
+    <item class="kh.android.dir.ui.Icons.EntryWithGreenIcon" name="kh_android_dir"/>
+    <item class="kh.android.dir.ui.Icons.EntryWithMaterialIcon" name="kh_android_dir"/>
+    <item class="kh.android.dir.ui.activities.MDMainActivity" name="kh_android_dir"/>
+    <item class="kh.android.dir.ui.activities.CleanActivity" name="kh_android_dir"/>
+    <item class="kh.android.dir.ui.CleanActivity" name="kh_android_dir"/>
+    <item class="com.sohu.inputmethod.sogou.SogouIMELauncher" name="com_sohu_inputmethod_sogou"/>
+    <item class="com.jqrjl.android.jqrjlapp.MainActivity" name="com_jqrjl_android_jqrjlapp" not_sure="yes"/>
+    <item class="com.reddit.frontpage.StartActivity" name="com_reddit_frontpage"/>
+    <item class="l.۬ۘۢ" name="bin_mt_plus"/>
+    <item class="bin.mt.plus.Main" name="bin_mt_plus"/>
+    <item class="l.ۦۦ۠ۗ" name="bin_mt_plus"/>
+    <item class="l.ۦۤ۬ۤ" name="bin_mt_plus"/>
+    <item class="l.۬ۨۘۢ" name="bin_mt_plus"/>
+    <item class="l.ۘ۟۬ۡ" name="bin_mt_plus"/>
+    <item class="l.ۙۙۧۧ" name="bin_mt_plus"/>
+    <item class="l.ۛۘۖۛ" name="bin_mt_plus"/>
+    <item class="l.ۨۙ۫ۦ" name="bin_mt_plus"/>
+    <item class="l.۠۟ۡۚ" name="bin_mt_plus"/>
+    <item class="l.ۥۙۦۛ" name="bin_mt_plus"/>
+    <item class="l.ۥۚۧ۫" name="bin_mt_plus"/>
+    <item class="cn.kuwo.boom.MainActivity" name="cn_kuwo_boom" not_sure="yes"/>
+    <item class="ernest.wifiadb.MainActivity" name="ernest_wifiadb" not_sure="yes"/>
+    <item class="net.huanci.hsj.MainActivity" name="net_huanci_hsj" not_sure="yes"/>
+    <item class="com.ss.android.ugc.trill.go.MainActivity" name="com_ss_android_ugc_trill_go" not_sure="yes"/>
+    <item class="com.mxtech.videoplayer.ad.ActivityWelcomeMX" name="com_mxtech_videoplayer_ad"/>
+    <item class="com.mxtech.videoplayer.ad.ActivityMediaList" name="com_mxtech_videoplayer_ad"/>
+    <item class="com.mxtech.videoplayer.pro.ActivityMediaList" name="com_mxtech_videoplayer_ad"/>
+    <item class="com.samsung.android.app.shealth.home.HomeMainActivity" name="com_sec_android_app_shealth"/>
+    <item class="com.sec.android.app.shealth.SplashScreenActivity" name="com_sec_android_app_shealth"/>
+    <item class="com.sec.android.app.shealth.RootActivity" name="com_sec_android_app_shealth"/>
+    <item class="com.kugou.android.elder.MainActivity" name="com_kugou_android_elder" not_sure="yes"/>
+    <item class="com.wangzhi.MaMaHelp.MainActivity" name="com_wangzhi_mamahelp" not_sure="yes"/>
+    <item class="com.android.weici.junior.teacher.MainActivity" name="com_android_weici_junior_teacher" not_sure="yes"/>
+    <item class="com.newsweekly.livepi.MainActivity" name="com_newsweekly_livepi" not_sure="yes"/>
+    <item class="com.meizu.flyme.notepaper.app.NotePaperActivity" name="com_miui_notes"/>
+    <item class="com.meizu.flyme.notepaper.NotePaperActivity" name="com_miui_notes"/>
+    <item class="com.meizu.flyme.notepaper.app.ContainerActivity" name="com_miui_notes"/>
+    <item class="com.baidu.baidumaps.WelcomeScreen" name="com_baidu_baidumap_meizu"/>
+    <item class="cn.poco.interphoto2.PocoCamera" name="cn_poco_interphoto2"/>
+    <item class="com.heytap.headset.activity.StartupActivity" name="com_heytap_headset"/>
+    <item class="com.google.android.apps.authenticator.AuthenticatorActivity" name="com_google_android_apps_authenticator2"/>
+    <item class="us.pinguo.mix.modules.splash.SplashActivity" name="com_pinguo_edit_sdk"/>
+    <item class="com.pinguo.mix.adv.WelcomeActivity" name="com_pinguo_edit_sdk"/>
+    <item class="io.legado.app.ui.welcome.WelcomeActivity" name="io_legado_app_release"/>
+    <item class="com.hhm.verticalsearch.MainActivity" name="com_hhmss_verticalsearch" not_sure="yes"/>
+    <item class="com.hupu.games.launcher.StartUpActivity" name="com_hupu_games"/>
+    <item class="com.hupu.games.activity.LaunchActivity" name="com_hupu_games"/>
+    <item class="com.p1.mobile.putong.ui.splash.SplashAct" name="com_p1_mobile_putong"/>
+    <item class="com.p1.mobile.putong.ui.splash.SplashProxyAct" name="com_p1_mobile_putong"/>
+    <item class="com.estrongs.android.taskmanager.MainActivity" name="com_estrongs_android_taskmanager" not_sure="yes"/>
+    <item class="com.wswsl.joiplayer.ui.activity.PlayerActivity" name="com_wswsl_joiplayer"/>
+    <item class="tencent.frame.f" name="com_pumpkin_ng"/>
+    <item class="com.video.test.module.homepage.HomepageActivity" name="com_pumpkin_ng"/>
+    <item class="com.waxgourd.wg.module.splash.SplashActivity" name="com_pumpkin_ng"/>
+    <item class="com.video.test.module.splash.SplashActivity" name="com_pumpkin_ng"/>
+    <item class="com.mallestudio.gugu.app.MainActivity" name="com_mallestudio_gugu_app" not_sure="yes"/>
+    <item class="com.guokr.android.ui.activity.SplashActivity" name="com_guokr_android"/>
+    <item class="com.guokr.android.guokrcollection.ui.activity.WelcomeActivity" name="com_guokr_android"/>
+    <item class="com.yousician.yousiciannative.GuitarTunaActivity" name="com_ovelin_guitartuna"/>
+    <item class="com.unity3d.player.UnityPlayerActivity" name="com_ovelin_guitartuna"/>
+    <item class="com.yxcorp.gifshow.HomeActivity" name="com_smile_gifmaker"/>
+    <item class="com.ucpro.MainActivity" name="com_quark_browser"/>
+    <item class="com.kugou.android.app.splash.SplashActivity" name="com_kugou_android_lite"/>
+    <item class="com.liuzh.quickly.MainActivity" name="com_liuzh_quickly" not_sure="yes"/>
+    <item class="com.funinput.digit.activity.WelcomeActivity" name="com_funinput_digit"/>
+    <item class="com.funinput.digit.activity.DgtleActivity" name="com_funinput_digit"/>
+    <item class="com.qihoo.util.StartActivity" name="com_funinput_digit"/>
+    <item class="com.jike.clone.MainActivity" name="com_jike_clone" not_sure="yes"/>
+    <item class="com.spotify.music.MainActivity" name="com_spotify_music"/>
+    <item class="com.network.xfjsq.SplashActivity" name="com_network_xfjsq"/>
+    <item class="dji.go.v5.MainActivity" name="dji_go_v5" not_sure="yes"/>
+    <item class="zz.dela.cmcc.traffic.activity.SplashActivity" name="com_cqmc_client"/>
+    <item class="zz.dela.cmcc.traffic.features.splash.view.SplashActivity" name="com_cqmc_client"/>
+    <item class="de.robv.android.xposed.installer.WelcomeActivitydvdandroid" name="org_meowcat_edxposed_manager"/>
+    <item class="com.vitotechnology.starwalk2.MainActivity" name="com_vitotechnology_starwalk2free" not_sure="yes"/>
+    <item class="info.papdt.blackblub.ui.LaunchActivity" name="info_papdt_blackblub"/>
+    <item class="info.papdt.blackblub.ui.MainActivity" name="info_papdt_blackblub"/>
+    <item class="com.tencent.mobileqq.activity.SplashActivity" name="com_tencent_minihd_qq"/>
+    <item class="com.webank.wemoney.EmptyActivity" name="com_webank_wemoney"/>
+    <item class="com.webank.wemoney.MainActivity" name="com_webank_wemoney"/>
+    <item class="com.meizu.flyme.toolbox.activity.ToolBoxActivity" name="com_meizu_flyme_toolbox"/>
+    <item class="com.lerist.fakelocation.ui.activity.MainActivity" name="com_lerist_fakelocation"/>
+    <item class="com.zhangyangjing.starfish.ui.MainActivity" name="com_zhangyangjing_starfish"/>
+    <item class="com.xiaomi.gamecenter.ui.MainTabActivity" name="com_meizu_flyme_gamecenter"/>
+    <item class="com.riotgames.leagueoflegends.RiotNativeActivity" name="com_riotgames_league_teamfighttactics"/>
+    <item class="com.lingan.seeyou.ui.activity.main.WelcomeActivity" name="com_lingan_seeyou"/>
+    <item class="com.lingan.seeyou.ui.activity.main.WelcomeActivity.mainHolder" name="com_lingan_seeyou"/>
+    <item class="com.boohee.food.MainActivity" name="com_boohee_food" not_sure="yes"/>
+    <item class="com.zhihu.android.app.ui.activity.LauncherActivity" name="com_zhihu_android"/>
+    <item class="com.zhihu.android.app.ui.activity.MainActivity" name="com_zhihu_android"/>
+    <item class="com.zhihu.android.ui.activity.GuideActivity" name="com_zhihu_android"/>
+    <item class="com.tumblr.ui.activity.JumpoffActivity" name="com_tumblr"/>
+    <item class="com.tumblr.ui.activity.RootFragmentActivity" name="com_tumblr"/>
+    <item class="com.tumblr.ui.activity.RootActivity" name="com_tumblr"/>
+    <item class="com.tumblr.activity.DashboardActivity" name="com_tumblr"/>
+    <item class="com.tumblr.activity.RootFragmentActivity" name="com_tumblr"/>
+    <item class="com.ts.zys.MainActivity" name="com_ts_zys" not_sure="yes"/>
+    <item class="remix.myplayer.ui.activity.MainActivity" name="remix_myplayer"/>
+    <item class="dji.pilot.main.activity.DJILauncherActivity" name="dji_pilot"/>
+    <item class="com.netease.yanxuan.module.splash.SplashActivity" name="com_netease_yanxuan"/>
+    <item class="com.netease.yanxuan.module.splash.activity.SplashActivity" name="com_netease_yanxuan"/>
+    <item class="com.alibaba.ailabs.tg.splash.WelcomeActivity" name="com_alibaba_ailabs_tg"/>
+    <item class="com.alibaba.ailabs.tg.activity.WelcomeActivity" name="com_alibaba_ailabs_tg"/>
+    <item class="a.c" name="com_topjohnwu_magisk"/>
+    <item class="com.topjohnwu.magisk.MainActivity" name="com_topjohnwu_magisk"/>
+    <item class="com.topjohnwu.magisk.SplashActivity" name="com_topjohnwu_magisk"/>
+    <item class="com.xyznh.imgencryption.MainActivity" name="com_xyznh_imgencryption" not_sure="yes"/>
+    <item class="net.evecom.android.mztapp.activity.Splash1Activity" name="net_evecom_android_mztapp"/>
+    <item class="com.youloft.LauncherActivity" name="com_youloft_calendar"/>
+    <item class="com.benqu.wuta.activities.splash.SplashActivity" name="com_benqu_wuta"/>
+    <item class="com.shoujiduoduo.ringtone.activity.WelcomeActivity" name="com_shoujiduoduo_ringtone"/>
+    <item class="com.shoujiduoduo.ringtone.activity.RingToneDuoduoActivity" name="com_shoujiduoduo_ringtone"/>
+    <item class="com.qihoo.util.StartActivity" name="com_shoujiduoduo_ringtone"/>
+    <item class="com.tencent.gamehelper.ui.main.WelcomeActivity" name="com_tencent_gamehelper_pg"/>
+    <item class="cmb.pb.app.mainframe.frame.PBEntryActivity" name="cmb_pb"/>
+    <item class="cmb.pb.app.mainframe.PBEntryActivity" name="cmb_pb"/>
+    <item class="cmb.pb.mainframe.PBEntryActivity" name="cmb_pb"/>
+    <item class="cmb.pb.launch.PBInitActivity" name="cmb_pb"/>
+    <item class="cmb.pb.ui.PBInitActivity" name="cmb_pb"/>
+    <item class="com.xdf.recite.android.ui.activity.load.WelcomeActivity" name="com_xdf_recite"/>
+    <item class="com.valvesoftware.android.steam.community.activity.MainActivity" name="com_valvesoftware_android_steam_community"/>
+    <item class="com.androlua.Welcome" name="com_xcn_baoming"/>
+    <item class="com.dd.antss.MainActivity" name="com_dd_antss" not_sure="yes"/>
+    <item class="com.tencent.lolm.lgame" name="com_riotgames_league_wildrift"/>
+    <item class="com.hexin.plat.android.AndroidLogoActivity" name="com_hexin_plat_android"/>
+    <item class="com.ticktick.task.activity.MeTaskActivity" name="com_ticktick_task"/>
+    <item class="com.tencent.qqmusicpad.activity.AppStarterActivity" name="com_tencent_qqmusicpad"/>
+    <item class="com.microsoft.office.onenote.ui.ONMSplashActivity" name="com_microsoft_office_onenote"/>
+    <item class="com.microsoft.office.onenote.ui.ONMLauncherActivity" name="com_microsoft_office_onenote"/>
+    <item class="com.meizu.media.gallery.GalleryActivity" name="com_miui_gallery"/>
+    <item class="com.supercell.boombeach.GameApp" name="com_supercell_boombeach_mi"/>
+    <item class="com.simplemobilephotoresizer.MainActivity" name="com_simplemobilephotoresizer" not_sure="yes"/>
+    <item class="com.tencent.nijigen.splash.SplashActivity" name="com_tencent_nijigen"/>
+    <item class="com.tencent.nijigen.StartUpAliasActivity1" name="com_tencent_nijigen"/>
+    <item class="com.flyme.videoclips.activity.HomeWeexActivity" name="com_flyme_videoclips"/>
+    <item class="com.netease.cain.MainActivity" name="com_netease_cain" not_sure="yes"/>
+    <item class="com.airbnb.android.flavor.full.activities.HomeActivity" name="com_airbnb_android"/>
+    <item class="com.airbnb.android.activities.MainActivity" name="com_airbnb_android"/>
+    <item class="com.airbnb.android.feat.legacy.activities.HomeActivity" name="com_airbnb_android"/>
+    <item class="com.airbnb.android.feat.homescreen.HomeActivity" name="com_airbnb_android"/>
+    <item class="com.gameloft.android.ANMP.GloftA9HM.MainActivity" name="com_gameloft_android_anmp_glofta9hm"/>
+    <item class="com.reader.activity.LoadingActivity" name="com_qihoo_haosou_subscribe_vertical_book"/>
+    <item class="com.reader.activity.SplashActivity" name="com_qihoo_haosou_subscribe_vertical_book"/>
+    <item class="com.huayue.xiaoshuting.common.ui.activity.SplashActivity" name="com_qihoo_haosou_subscribe_vertical_book"/>
+    <item class="dji.pilot.main.activity.DJILauncherActivity" name="dji_go_v4"/>
+    <item class="com.hellobike.atlas.business.splash.SplashActivity" name="com_jingyao_easybike"/>
+    <item class="com.jingyao.easybike.presentation.ui.activity.SplashActivity" name="com_jingyao_easybike"/>
+    <item class="com.netease.buff.entry.SplashActivity" name="com_netease_buff"/>
+    <item class="com.chaofan.esports.MainActivity" name="com_chaofan_esports" not_sure="yes"/>
+    <item class="com.bilibili.blhx.mi.MainActivity" name="com_bilibili_blhx_uc" not_sure="yes"/>
+    <item class="com.ninetyone.pron.android.MainActivity" name="com_ninetyone_pron_android" not_sure="yes"/>
+    <item class="com.kascend.chushou.SpashActivity" name="com_kascend_chushou"/>
+    <item class="com.kascend.chushou.ChuShouTV" name="com_kascend_chushou"/>
+    <item class="com.kascend.chushou.ChuShouTV_" name="com_kascend_chushou"/>
+    <item class="com.citiccard.mobilebankapp.WelcomeActivity" name="com_citiccard_mobilebank"/>
+    <item class="com.dkkj.modules.SplashPage" name="com_citiccard_mobilebank"/>
+    <item class="com.citicbank.creditspace.DkkjClient" name="com_citiccard_mobilebank"/>
+    <item class="com.yiban.app.activity.WelcomeActivity" name="com_yiban_app"/>
+    <item class="com.ted.android.view.splash.SplashActivity" name="com_ted_android"/>
+    <item class="com.ted.android.view.activity.SplashScreenActivity" name="com_ted_android"/>
+    <item class="fun.tooling.excel.MainActivity" name="fun_tooling_excel" not_sure="yes"/>
+    <item class="com.yandex.browser.YandexBrowserActivity" name="com_yandex_browser_beta"/>
+    <item class="com.miui.cloudappbackup.MainActivity" name="com_miui_cloudappbackup" not_sure="yes"/>
+    <item class="com.pumpkinteam.pumpkinplayes.MainActivity" name="com_pumpkin_ng" not_sure="yes"/>
+    <item class="com.bilibili.priconne.mi.MainActivity" name="jp_co_cygames_princessconnectredive" not_sure="yes"/>
+    <item class="com.achievo.vipshop.activity.LodingActivity" name="com_achievo_vipshop"/>
+    <item class="com.xyz.jianyiys.playern.MainActivity" name="com_site_jianyiys_player" not_sure="yes"/>
+    <item class="com.ghosun.dict.Welcome" name="com_ghosun_dict"/>
+    <item class="com.qihoo.util.StartActivity" name="com_ghosun_dict"/>
+    <item class="cn.com.langeasy.LangEasyLrc.ui.SplashActivity" name="cn_com_langeasy_easylisten"/>
+    <item class="one.owo.app.MainActivity" name="one_owo_app" not_sure="yes"/>
+    <item class="com.simplemobiletools.calendar.pro.activities.SplashActivity.Primary" name="com_android_calendar"/>
+    <item class="com.android.calendar.LaunchTasksActivity" name="com_android_calendar"/>
+    <item class="com.android.calendar.LaunchActivity" name="com_android_calendar"/>
+    <item class="com.android.calendar.AllInOneActivity" name="com_android_calendar"/>
+    <item class="com.android.calendar.CalendarTabActivity" name="com_android_calendar"/>
+    <item class="com.android.calendar.MonthActivity" name="com_android_calendar"/>
+    <item class="com.android.calendar.homepage.AllInOneActivity" name="com_android_calendar"/>
+    <item class="com.meizu.flyme.calendar.AllInOneActivity" name="com_android_calendar"/>
+    <item class="com.android.calendar.AgendaActivity" name="com_android_calendar"/>
+    <item class="com.android.calendar.EventInfoActivity" name="com_android_calendar"/>
+    <item class="com.android.calendar.EditEventActivity" name="com_android_calendar"/>
+    <item class="com.android.calendar.timeline.EventListWithStartTime" name="com_android_calendar"/>
+    <item class="com.android.calendar.ChooserActivity" name="com_android_calendar"/>
+    <item class="com.android.calendar.SplashActivity" name="com_android_calendar"/>
+    <item class=".AllInOneActivity" name="com_android_calendar"/>
+    <item class="com.android.stk.cu.MainActivity" name="com_android_stk" not_sure="yes"/>
+    <item class="com.meizu.flyme.weather.WeatherMainActivity" name="com_meizu_flyme_weather"/>
+    <item class="com.meizu.flyme.weather.modules.home.WeatherMainActivity" name="com_meizu_flyme_weather"/>
+    <item class="com.jianzhiku.zhongrenbang.MainActivity" name="com_jianzhiku_zhongrenbang" not_sure="yes"/>
+    <item class="com.miui.cloudservice.storage.MainActivity" name="com_miui_cloudservice_storage" not_sure="yes"/>
+    <item class="com.ctrip.izuche.MainActivity" name="com_ctrip_izuche" not_sure="yes"/>
+    <item class="com.tencent.blackkey.frontend.adapters.sap.ApplicationActivity" name="com_tencent_blackkey"/>
+    <item class="com.cn.froad.mobileplatform.MainActivity" name="com_cn_froad_mobileplatform" not_sure="yes"/>
+    <item class="com.tencent.weread.LauncherActivity" name="com_tencent_weread"/>
+    <item class="com.tencent.weread.presenter.LauncherActivity" name="com_tencent_weread"/>
+    <item class="com.ss.android.ugc.aweme.splash.SplashActivity" name="com_ss_android_ugc_trill"/>
+    <item class="kuaiyingyong" name="com_meizu_flyme_directservice"/>
+    <item class="chili.xposed.chimi.MainActivity" name="chili_xposed_chimi" not_sure="yes"/>
+    <item class="com.qihoo.contents.launcher.LauncherActivity" name="com_qihoo_contents"/>
+    <item class="com.bmcc.ms.ui.Entrance2Activity" name="com_cqmc_client"/>
+    <item class="com.bmcc.ms.ui.EntranceActivity" name="com_cqmc_client"/>
+    <item class="air.com.adobe.pstouchphone.AppEntry" name="air_com_adobe_pstouchphone"/>
+    <item class="com.jobernowl.MainActivity" name="air_com_adobe_pstouchphone"/>
+    <item class="com.ss.android.ugc.live.main.MainActivity" name="com_ss_android_ugc_live"/>
+    <item class="com.ss.android.ugc.live.splash.SplashActivity" name="com_ss_android_ugc_live"/>
+    <item class="com.ss.android.ugc.live.splash.LiveSplashActivity" name="com_ss_android_ugc_live"/>
+    <item class="com.kingsoft.StartActivity" name="com_kingsoft"/>
+    <item class="com.pwrd.dls.marble.other.activity.SplashActivity" name="com_allhistory_dls_marble"/>
+    <item class="com.yujian.ResideMenuDemo.MainActivity" name="com_yujian_residemenudemo" not_sure="yes"/>
+    <item class="com.u8.sdk.U8UnityContext" name="com_hypergryph_arknights"/>
+    <item class="com.samsung.android.galaxycontinuity.SplashActivity" name="com_samsung_android_galaxycontinuity"/>
+    <item class="com.mutangtech.qianji.ui.main.MainActivity" name="com_mutangtech_qianji"/>
+    <item class="com.mutangtech.qianji.ui.splash.SplashActivity" name="com_mutangtech_qianji"/>
+    <item class="com.starbucks.cn.ui.StartActivity" name="com_starbucks_cn"/>
+    <item class="com.starbucks.cn.ui.LauncherActivity" name="com_starbucks_cn"/>
+    <item class="com.starbucks.cn.ui.StarbucksLaunchActivity" name="com_starbucks_cn"/>
+    <item class="com.fs.starbucks.activity.StartActivity" name="com_starbucks_cn"/>
+    <item class="com.tencent.wifimanager.MainActivity" name="com_tencent_wifimanager"/>
+    <item class="com.tencent.server.fore.QuickLoadActivity" name="com_tencent_wifimanager"/>
+    <item class="com.blend.polly.ui.main.MainActivity" name="com_blend_polly"/>
+    <item class="com.xiaomi.jr.CTAActivity" name="com_xiaomi_jr"/>
+    <item class="com.xiaomi.jr.SplashActivity" name="com_xiaomi_jr"/>
+    <item class="com.xiaomi.jr.MiFinanceActivity" name="com_xiaomi_jr"/>
+    <item class="com.MyFusApp.AGEdongman.MainActivity" name="com_myfusapp_agedongman" not_sure="yes"/>
+    <item class="org.autojs.autojs.ui.splash.SplashActivity_" name="org_autojs_autojs"/>
+    <item class="com.ct.client.SplashActivity" name="com_traffic_handtrafficbible"/>
+    <item class="com.ct.client.MainActivity" name="com_traffic_handtrafficbible"/>
+    <item class="com.got.uplikee.mymy.MainActivity" name="com_dd_antss" not_sure="yes"/>
+    <item class="com.gtdev5.wsjtw.MainActivity" name="com_gtdev5_wsjtw" not_sure="yes"/>
+    <item class="com.miHoYo.ys.bilibili.MainActivity" name="com_mihoyo_yuanshen" not_sure="yes"/>
+    <item class="com.mylrc.mymusic.MainActivity" name="com_mylrc_mymusic" not_sure="yes"/>
+    <item class="com.fifedu.tsdx.MainActivity" name="com_fifedu_tsdx" not_sure="yes"/>
+    <item class="com.alicloud.databox.MainActivity" name="com_alicloud_databox"/>
+    <item class="com.hpplay.happycast.activitys.WelcomeActivity" name="com_hpplay_happycast"/>
+    <item class="com.hpplay.happycast.WelcomeActivity" name="com_hpplay_happycast"/>
+    <item class="com.xiaomi.payment.MainActivity" name="com_xiaomi_xmsf_payment_milicenterentryactivity" not_sure="yes"/>
+    <item class="com.chaozh.iReader.ui.activity.WelcomeActivity" name="com_chaozh_ireaderfree"/>
+    <item class="com.findtheway.activity.MainActivity" name="com_sticktoit"/>
+    <item class="com.zhixinhuixue.zsyte.student.MainActivity" name="com_zhixinhuixue_zsyte_student" not_sure="yes"/>
+    <item class="com.midea.vm.washer.MainActivity" name="com_midea_vm_washer"/>
+    <item class="com.baidu.baidutranslate.activity.MainActivity" name="com_baidu_baidutranslate"/>
+    <item class="com.baidu.baidutranslate.activity.SplashActivity" name="com_baidu_baidutranslate"/>
+    <item class="com.cmcc.cmvideo.splash.SplashActivity" name="com_cmcc_cmvideo"/>
+    <item class="com.wondertek.activity.AppFakeActivity" name="com_cmcc_cmvideo"/>
+    <item class="com.mi.misupport.activity.MainActivity" name="com_mi_misupport"/>
+    <item class="com.businesshall.activity.NewLogoActivity" name="com_cqmc_client"/>
+    <item class="mail139.launcher.hd.MainActivity" name="mail139_launcher_hd" not_sure="yes"/>
+    <item class="com.okfunc.sunflower.MainActivity" name="com_okfunc_sunflower" not_sure="yes"/>
+    <item class="com.lantern.launcher.ui.MainActivity" name="com_halo_wifikey_wifilocating"/>
+    <item class="com.android.mms.ui.PermissionActivity" name="com_android_providers_telephony"/>
+    <item class="com.android.mms.ui.ConversationList" name="com_android_providers_telephony"/>
+    <item class="com.android.mms.ui.ConversationComposer" name="com_android_providers_telephony"/>
+    <item class="com.android.mms.ui.MessageTabActivity" name="com_android_providers_telephony"/>
+    <item class="com.android.mms.ui.BootActivity" name="com_android_providers_telephony"/>
+    <item class="com.android.mms.ui.MmsTabActivity" name="com_android_providers_telephony"/>
+    <item class="com.yulong.android.mms.ui.MmsMainListFormActivity" name="com_android_providers_telephony"/>
+    <item class="com.android.mms.ui.ModeChooser" name="com_android_providers_telephony"/>
+    <item class="com.android.mms.ui.traditional.MessageLaunchActivity" name="com_android_providers_telephony"/>
+    <item class="com.yulong.android.mms.ui.MmsConversationListActivity" name="com_android_providers_telephony"/>
+    <item class="com.android.mms.tab.MmsMainActivity" name="com_android_providers_telephony"/>
+    <item class="com.qiku.android.contacts.dial.DialActivity" name="com_android_providers_telephony"/>
+    <item class="com.anenjoy.mms.ui.MmsTabActivity" name="com_android_providers_telephony"/>
+    <item class="com.qiku.android.mms.ui.MmsConversationListActivity" name="com_android_providers_telephony"/>
+    <item class="com.yulong.android.contacts.ui.main.ContactMainActivity" name="com_android_providers_telephony"/>
+    <item class="com.yulong.android.contacts.dial.DialActivity" name="com_android_providers_telephony"/>
+    <item class="com.android.mms.MainUISelection" name="com_android_providers_telephony"/>
+    <item class="com.android.mms.MultipleActivitiesMain" name="com_android_providers_telephony"/>
+    <item class="com.android.mms.ui.MainLayerTabSwitchActivity" name="com_android_providers_telephony"/>
+    <item class="com.android.mms.ui.ModeActivity" name="com_android_providers_telephony"/>
+    <item class="com.android.mms.ui.UiController" name="com_android_providers_telephony"/>
+    <item class="com.android.mms.ui.ViewControllerActivity" name="com_android_providers_telephony"/>
+    <item class="com.android.mms.ui.VissageActivity" name="com_android_providers_telephony"/>
+    <item class="net.csdn.csdnplus.activity.MainActivity" name="net_csdn_csdnplus"/>
+    <item class="net.csdn.csdnplus.activity.SplashActivity" name="net_csdn_csdnplus"/>
+    <item class="com.geely.travel.geelytravel.MainActivity" name="com_geely_travel_geelytravel" not_sure="yes"/>
+    <item class="com.dangdang.reader.activity.GuideActivity" name="com_dangdang_reader"/>
+    <item class="com.dangdang.reader.GuideActivity" name="com_dangdang_reader"/>
+    <item class="sym_def_app_icon.MainActivity" name="sym_def_app_icon" not_sure="yes"/>
+    <item class="edu.hhstu.hhstutalent.MainActivity" name="edu_hhstu_hhstutalent" not_sure="yes"/>
+    <item class="cn.soulapp.android.ui.splash.SplashActivity" name="cn_soulapp_android"/>
+    <item class="com.jzkj.soul.SplashActivity" name="cn_soulapp_android"/>
+    <item class="com.jzkj.soul.ui.splash.SplashActivity" name="cn_soulapp_android"/>
+    <item class="com.dw.btime.Launcher" name="com_dw_btime"/>
+    <item class="com.miui.compass.CompassActivity" name="com_miui_compass"/>
+    <item class="com.nxy.mobilebank.activity.SplashActivity" name="com_jxnxs_mobile_bank"/>
+    <item class="com.linecorp.b612.android.activity.ActivityCamera" name="com_campmobile_snowcamera"/>
+    <item class="com.campmobile.snow.feature.intro.SplashActivity" name="com_campmobile_snowcamera"/>
+    <item class="org.hydev.themeapplytools.activity.MainActivity" name="org_hydev_new_themeapplytools"/>
+    <item class="com.blink.academy.onetake.ui.activity.main.EmptySplashActivity" name="com_blink_academy_onetake"/>
+    <item class="com.iflytek.oshall.ahzwfw.MainActivity" name="com_iflytek_oshall_ahzwfw" not_sure="yes"/>
+    <item class="com.supercell.boombeach.GameAppKunlun" name="com_supercell_boombeach_mi"/>
+    <item class="com.miui.securitycenter.MainActivity.MainActivity" name="com_miui_securitycenter_mainactivity" not_sure="yes"/>
+    <item class="com.google.android.apps.translate.TranslateActivity" name="com_google_android_apps_translate"/>
+    <item class="com.threegene.yeemiao.MainActivity" name="com_threegene_yeemiao" not_sure="yes"/>
+    <item class="com.miui.fmradio.FmActivity" name="com_miui_fmservice"/>
+    <item class="com.lakala.shanghutong.MainActivity" name="com_lakala_shanghutong" not_sure="yes"/>
+    <item class="com.duolingo.app.LoginActivity" name="com_duolingo"/>
+    <item class="com.tmall.wireless.module.launchalert.TMLaunchAlertActivity" name="com_tmall_wireless"/>
+    <item class="com.tmall.wireless.maintab.module.TMMainTabActivity" name="com_tmall_wireless"/>
+    <item class="com.tmall.wireless.splash.TMSplashActivity" name="com_tmall_wireless"/>
+    <item class="com.huami.watch.companion.ui.MainActivity" name="com_huami_watch_hmwatchmanager"/>
+    <item class="com.huami.watch.hmwatchmanager.FragmentTabsActivity" name="com_huami_watch_hmwatchmanager"/>
+    <item class="com.xiaomi.hm.health.activity.StartUpActivity" name="com_huami_watch_hmwatchmanager"/>
+    <item class="tv.danmaku.bili.ui.splash.SplashActivity" name="com_bilibili_app_blue"/>
+    <item class="com.tencent.qqlive.ona.activity.SplashHomeActivity" name="com_tencent_qqlive"/>
+    <item class="com.tencent.qqlive.ona.activity.WelcomeActivity" name="com_tencent_qqlive"/>
+    <item class="com.tencent.qqlive.activity.WelcomeActivity" name="com_tencent_qqlive"/>
+    <item class="com.tencent.qqlive.ona.activity.StartActivity" name="com_tencent_qqlive"/>
+    <item class="com.tencent.qqlive.ona.activity.HomeActivity" name="com_tencent_qqlive"/>
+    <item class="tech.caicheng.judourili.MainActivity" name="tech_caicheng_judourili" not_sure="yes"/>
+    <item class="com.netease.nr.biz.ad.AdActivity" name="com_netease_news_lite"/>
+    <item class="com.ziroom.ziroomcustomer.WelcomeActivity" name="com_ziroom_ziroomcustomer"/>
+    <item class="com.baidu.bainuo.splash.SplashActivity" name="com_nuomi"/>
+    <item class="com.baidu.bainuo.home.FirstStartActivity" name="com_nuomi"/>
+    <item class="com.baidu.bainuo.dex.InstallDexActivity" name="com_nuomi"/>
+    <item class="com.snaptube.premium.activity.ExploreActivity" name="com_snaptube_premium"/>
+    <item class="com.sec.android.app.sbrowser.SBrowserMainActivity" name="com_sec_android_app_sbrowser"/>
+    <item class="com.tencent.android.pad.MainActivity" name="com_tencent_minihd_qq" not_sure="yes"/>
+    <item class="com.baidu.tbflutterlite.MainActivity" name="com_baidu_tbflutterlite"/>
+    <item class="com.tencent.wemeet.app.StartupActivity" name="com_tencent_wemeet_app"/>
+    <item class="com.meizu.flyme.filemanager.activity.FileManagerActivity" name="com_meizu_filemanager"/>
+    <item class="com.meizu.flyme.filemanager.activity.HomeActivity" name="com_meizu_filemanager"/>
+    <item class="com.meizu.flyme.filemanager.activity.HomeActivityForPad" name="com_meizu_filemanager"/>
+    <item class="com.atonce.goosetalk.SplashActivity" name="com_atonce_goosetalk"/>
+    <item class="com.theotino.chinadaily.CdAt" name="com_theotino_chinadaily"/>
+    <item class="com.mdroid.application.ui.welcome.WelcomeActivity" name="com_mdroid_read"/>
+    <item class="com.mdroid.application.ui.welcome.WelcomeAliasActivity" name="com_mdroid_read"/>
+    <item class="com.mdroid.read.WelcomeAliasActivity" name="com_mdroid_read"/>
+    <item class="com.androlua.Welcome" name="sulisong_shelledpro_screenshots"/>
+    <item class="com.kaola.modules.boot.splash.SplashActivity" name="com_kaola"/>
+    <item class="com.kaola.spring.ui.welcome.SplashActivity" name="com_kaola"/>
+    <item class="com.qihoo.util.StartActivity" name="com_kaola"/>
+    <item class="com.netease.mobimail.activity.LaunchActivity" name="com_netease_mail"/>
+    <item class="com.netease.mobimail.activity.TabActivity" name="com_netease_mail"/>
+    <item class="com.advasoft.touchretouch4.MainActivity" name="com_advasoft_touchretouch"/>
+    <item class="com.advasoft.touchretouch.StartFakeActivity" name="com_advasoft_touchretouch"/>
+    <item class="com.baidu.searchbox.SplashActivity" name="com_baidu_searchbox"/>
+    <item class="com.baidu.searchbox.MainActivity" name="com_baidu_searchbox"/>
+    <item class="com.jsksy.app.MainActivity" name="com_jsksy_app" not_sure="yes"/>
+    <item class="com.wudaokou.hippo.launcher.splash.SplashActivity" name="com_wudaokou_hippo"/>
+    <item class="com.wudaokou.hippo.base.activity.splash.InitActivity" name="com_wudaokou_hippo"/>
+    <item class="com.xueqiu.android.view.WelcomeActivityAlias" name="com_xueqiu_android"/>
+    <item class="com.alipay.mobile.quinox.LauncherActivity" name="com_antfortune_wealth"/>
+    <item class="com.sankuai.meituan.takeoutnew.ui.page.boot.WelcomeActivity" name="com_sankuai_meituan_takeoutnew"/>
+    <item class="com.android.fileexplorer.FileExplorerTabActivity" name="com_meizu_filemanager"/>
+    <item class="xiaomi" name="com_meizu_filemanager"/>
+    <item class="com.yunxiao.haofenshu.MainActivity" name="com_yunxiao_haofenshu" not_sure="yes"/>
+    <item class="com.economist.hummingbird.SplashActivity" name="com_economist_hummingbird"/>
+    <item class="com.vs.browser.MainActivity" name="com_pure_lite_browser"/>
+    <item class="ctrip.android.youth.MainActivity" name="ctrip_android_youth" not_sure="yes"/>
+    <item class="com.meizu.flyme.update.SystemUpgradeListActivity" name="com_meizu_flyme_update"/>
+    <item class="com.meizu.flyme.update.SystemUpdateListActivity" name="com_meizu_flyme_update"/>
+    <item class="com.xvideostudio.videoeditor.activity.SplashActivity" name="com_xvideostudio_videoeditor"/>
+    <item class="com.qihoo.util.StartActivity" name="com_xvideostudio_videoeditor"/>
+    <item class="com.stub.stub01.Stub01" name="com_xvideostudio_videoeditor"/>
+    <item class="top.linesoft.kiryuu.pandownload.MainActivity" name="top_linesoft_kiryuu_pandownload_zhou45"/>
+    <item class="com.chinalife.ebz.MainActivity" name="com_chinalife_ebz" not_sure="yes"/>
+    <item class="com.eg.android.AlipayGphone.AlipayLogin" name="com_eg_android_alipaygphone"/>
+    <item class="com.alipay.mobile.quinox.LauncherActivity.alias" name="com_eg_android_alipaygphone"/>
+    <item class="com.eluo.pkgname.MainActivity" name="com_eluo_pkgname" not_sure="yes"/>
+    <item class="com.wl.zhihu.column.main.IndexActivity" name="com_wl_zhihu_column_main"/>
+    <item class="com.wsw.cospa.SplashActivity" name="com_wsw_cospa"/>
+    <item class="com.manjuu.azurlane.MainActivity" name="com_bilibili_blhx_uc"/>
+    <item class="com.cfzq.lezhuan.MainActivity" name="com_cfzq_lezhuan" not_sure="yes"/>
+    <item class="maigosoft.mcpdict.MainActivity" name="maigosoft_mcpdict"/>
+    <item class="com.miui.weather2.ActivityWeatherMain" name="com_miui_weather2"/>
+    <item class="com.miui.weather2.ActivityWeatherCycle" name="com_miui_weather2"/>
+    <item class="com.newin.nplayer.activities.SplashActivity" name="com_newin_nplayer_pro"/>
+    <item class="com.ichi2.anki.IntentHandler" name="com_ichi2_anki"/>
+    <item class="xiaomi" name="com_android_contacts_activities_twelvekeydialer"/>
+    <item class="com.lee.start.LoadingActivity" name="com_xyhui"/>
+    <item class="com.hengye.share.Launcher5" name="com_hengye_share"/>
+    <item class="com.hengye.share.Launcher" name="com_hengye_share"/>
+    <item class="com.hengye.share.Launcher2" name="com_hengye_share"/>
+    <item class="com.hengye.share.Launcher3" name="com_hengye_share"/>
+    <item class="com.hengye.share.Launcher4" name="com_hengye_share"/>
+    <item class="com.meizu.flyme.wallet.activity.LaunchActivity" name="com_meizu_flyme_wallet"/>
+    <item class="com.meizu.flyme.wallet.activity.WalletTabActivity" name="com_meizu_flyme_wallet"/>
+    <item class="com.coolapk.market.view.main.MainActivity" name="com_coolapk_market"/>
+    <item class="com.coolapk.market.activity.MainActivity" name="com_coolapk_market"/>
+    <item class="com.coolapk.market.SplashActivity" name="com_coolapk_market"/>
+    <item class="com.gwdang.app.SplashActivity" name="com_gwdang_app"/>
+    <item class="com.YoStarJP.Arknights.MainActivity" name="com_hypergryph_arknights" not_sure="yes"/>
+    <item class="com.ifeng.newvideo.MainActivity" name="com_ifeng_newvideo" not_sure="yes"/>
+    <item class="com.xiaomi.smarthome.SmartHomeMainActivity" name="com_xiaomi_smarthome"/>
+    <item class="com.xiaomi.smarthome.StartupActivity" name="com_xiaomi_smarthome"/>
+    <item class="fm.xiami.main.SplashActivity" name="fm_xiami_main"/>
+    <item class="fm.xiami.bmamba.activity.StartActivity" name="fm_xiami_main"/>
+    <item class="com.ss.android.ugc.aweme.lite.MainActivity" name="com_ss_android_ugc_trill_go" not_sure="yes"/>
+    <item class="com.fincopart.newworld.MainActivity" name="com_fincopart_newworld" not_sure="yes"/>
+    <item class="com.meelive.ingkee.business.commercial.launcher.ui.IngkeeLauncher" name="com_meelive_ingkee"/>
+    <item class="com.meelive.ingkee.v1.ui.activity.IngkeeLauncher" name="com_meelive_ingkee"/>
+    <item class="com.jkmhpjgj.sijiawork.MainActivity" name="com_jkmhpjgj_sijiawork" not_sure="yes"/>
+    <item class="com.xwtec.sd.mobileclient.ui.activity.GuidePagerActivity" name="com_cqmc_client"/>
+    <item class="com.qihoo.util.StartActivity" name="com_cqmc_client"/>
+    <item class="com.xwtec.sd.mobileclient.LoadingActivity" name="com_cqmc_client"/>
+    <item class="com.tencent.mocmna.activity.SplashActivity" name="com_tencent_cmocmna"/>
+    <item class="flar2.devcheck.SplashActivity" name="flar2_devcheck"/>
+    <item class="com.hdpfans.app.ui.main.MainActivity" name="com_hdpfans_pockettv"/>
+    <item class="cmccwm.mobilemusic.ui.base.SplashActivity" name="cmccwm_mobilemusic"/>
+    <item class="cmccwm.mobilemusic.ui.base.PreSplashActivityMigu" name="cmccwm_mobilemusic"/>
+    <item class="cmccwm.mobilemusic.ui.activity.PreSplashActivityMigu" name="cmccwm_mobilemusic"/>
+    <item class="com.netease.onmyoji.Launcher" name="com_netease_onmyoji_mi"/>
+    <item class="com.knight.union.mi.MainActivity" name="com_knight_union_mi" not_sure="yes"/>
+    <item class="com.fkzhang.wechatxposed.MainActivity" name="com_fkzhang_wechatxposed" not_sure="yes"/>
+    <item class="com.hld.anzenbokusu.splash" name="com_hld_anzenbokusu"/>
+    <item class="com.android.settings.wifi.WifiProvider.MainActivity" name="com_android_settings_wifi_wifiprovider" not_sure="yes"/>
+    <item class="com.qihoo.dr.ActivityWelcome" name="com_qihoo_dr"/>
+    <item class="com.longshine.seraphim.go.MainActivity" name="com_longshine_seraphim_go" not_sure="yes"/>
+    <item class="cn.paperang.mm.MainActivity" name="cn_paperang_mm" not_sure="yes"/>
+    <item class="com.lantern.launcher.ui.MainActivity" name="com_halo_wifikey_wifilocating"/>
+    <item class="com.snda.wifilocating.ui.activity.HomeActivity" name="com_halo_wifikey_wifilocating"/>
+    <item class="com.qihoo.util.StartActivity" name="com_halo_wifikey_wifilocating"/>
+    <item class="com.snda.wifilocating.ui.activity.WelcomeActivity" name="com_halo_wifikey_wifilocating"/>
+    <item class="com.wolong.resource.MainActivity" name="com_wolong_resource" not_sure="yes"/>
+    <item class="com.miui.calculator.cal.CalculatorActivity" name="com_meizu_flyme_calculator"/>
+    <item class="com.miui.calculator.cal.NormalCalculatorActivity" name="com_meizu_flyme_calculator"/>
+    <item class="ru.zdevs.zarchiver.pro.ZArchiver" name="ru_zdevs_zarchiver_pro"/>
+    <item class="com.iflytek.inputmethod.LauncherActivity" name="com_iflytek_inputmethod"/>
+    <item class="com.iflytek.inputmethod.WizardActivity" name="com_iflytek_inputmethod"/>
+    <item class="com.iflytek.inputmethod.FlyImeLauncherActivity" name="com_iflytek_inputmethod"/>
+    <item class="com.cmbchina.ccd.pluto.cmbActivity.SplashActivity" name="com_cmbchina_ccd_pluto_cmbactivity"/>
+    <item class="com.xiaomi.tag.MainActivity" name="com_xiaomi_tag" not_sure="yes"/>
+    <item class="android.zhibo8.ui.contollers.main.LaunchActivity" name="android_zhibo8"/>
+    <item class="com.qihoo.util.StartActivity" name="android_zhibo8"/>
+    <item class="com.kugou.android.app.splash.SplashActivity" name="com_kugou_android"/>
+    <item class="com.chinamobile.mcloud.client.ui.logo.LogoActivity" name="com_chinamobile_mcloud"/>
+    <item class="com.tinder.activities.LoginActivity" name="com_tinder"/>
+    <item class="org.mozilla.firefox.App" name="org_mozilla_firefox"/>
+    <item class="org.mozilla.gecko.LauncherActivity" name="org_mozilla_firefox"/>
+    <item class="com.wumii.android.athena.ui.activity.MainActivity" name="com_wumii_android_athena"/>
+    <item class="com.nextreaming.nexeditorui.MainActivity" name="com_nexstreaming_app_kinemasterfree"/>
+    <item class="com.ea.game.pvz2_na.MainActivity" name="com_popcap_pvz2cthdxm" not_sure="yes"/>
+    <item class="com.forvo.pronunciationguide.app.MainActivity" name="com_forvo_pronunciationguide_app" not_sure="yes"/>
+    <item class="com.uzmap.pkg.EntranceActivity" name="com_lanzou_gwa"/>
+    <item class="com.able.wisdomtree.login.PermissionsActivity" name="com_able_wisdomtree"/>
+    <item class="com.able.wisdomtree.jpush.OutLineActivity" name="com_able_wisdomtree"/>
+    <item class="com.able.wisdomtree.login.StartActivity" name="com_able_wisdomtree"/>
+    <item class="com.kdweibo.android.ui.activity.StartActivity" name="com_kdweibo_client"/>
+    <item class="com.evernote.ui.HomeActivity" name="com_evernote"/>
+    <item class="com.shanbay.listen.activity.SplashActivity" name="com_shanbay_listen"/>
+    <item class="com.shanbay.listen.startup.SplashActivity" name="com_shanbay_listen"/>
+    <item class="com.wuhanlaizi.mi.MainActivity" name="com_wuhanlaizi_mi" not_sure="yes"/>
+    <item class="com.alipay.mobile.quinox.LauncherAlias" name="com_cgbchina_xpt"/>
+    <item class="com.cgbchina.xpt.EMPView" name="com_cgbchina_xpt"/>
+    <item class="com.cgbchina.xpt.EMPView0" name="com_cgbchina_xpt"/>
+    <item class="com.qq.reader.activity.SplashActivity" name="com_qq_reader"/>
+    <item class="com.kanlixiang.android.view.activity.base.StartActivity" name="com_kanlixiang_android"/>
+    <item class="com.flyersoft.WB.SplashActivity" name="com_flyersoft_seekbooks"/>
+    <item class="com.flyersoft.seekbooks.ActivityMain" name="com_flyersoft_seekbooks"/>
+    <item class="com.meizu.mznfcpay.cardlist.AllCardListActivity" name="com_meizu_mznfcpay"/>
+    <item class="com.miui.home.launcher.SplashActivity" name="com_mi_android_globallauncher"/>
+    <item class="com.duokan.hdreader.DkReaderActivity" name="com_duokan_reader"/>
+    <item class="com.rytong.airchina.MainActivity" name="com_rytong_airchina" not_sure="yes"/>
+    <item class="com.yyzy.mi.MainActivity" name="com_ztgame_yyzy" not_sure="yes"/>
+    <item class="com.xjcheng.musictageditor.MainActivity" name="com_xjcheng_musictageditor"/>
+    <item class="com.feeyo.vz.activity.VZLaunchActivity" name="vz_com"/>
+    <item class="siglife.com.sighome.MainActivity" name="siglife_com_sighome" not_sure="yes"/>
+    <item class="com.android.weici.senior.teacher.MainActivity" name="com_android_weici_senior_teacher" not_sure="yes"/>
+    <item class="com.maxxipoint.android.shopping.activity.WelcomeActivity" name="com_maxxipoint_android"/>
+    <item class="com.tencent.tmgp.cf.AFMainActivity" name="com_tencent_tmgp_cf"/>
+    <item class="com.putaolab.ptsdk.activity.PTMainActivity" name="com_tencent_tmgp_cf"/>
+    <item class="com.walixiwa.easyplayer.MainActivity" name="com_walixiwa_easyplayer" not_sure="yes"/>
+    <item class="com.facebook.lite.MainActivity" name="com_facebook_lite"/>
+    <item class="com.wuxibus.app.MainActivity" name="com_wuxibus_app" not_sure="yes"/>
+    <item class="com.eastmoney.android.berlin.activity.MainActivity" name="com_eastmoney_android_berlin"/>
+    <item class="com.unnoo.quan.activities.StartActivity" name="com_unnoo_quan"/>
+    <item class="com.bilibili.studio.MainActivity" name="com_bilibili_studio" not_sure="yes"/>
+    <item class="chuxin.shimo.shimowendang.MainActivity" name="chuxin_shimo_shimowendang"/>
+    <item class="chuxin.shimo.Home.SplashActivity" name="chuxin_shimo_shimowendang"/>
+    <item class="com.shanbay.news.startup.SplashActivity" name="com_shanbay_news"/>
+    <item class="com.android.maya.activity.SplashActivity" name="com_lemon_faceu"/>
+    <item class="com.lemon.faceu.login.LoadingPageActivity" name="com_lemon_faceu"/>
+    <item class="com.lemon.faceu.camera.CameraActivity" name="com_lemon_faceu"/>
+    <item class="com.lemon.faceu.business.mainpage.LoadingPageActivity" name="com_lemon_faceu"/>
+    <item class="com.lemon.faceu.business.login.LoadingPageActivity" name="com_lemon_faceu"/>
+    <item class="com.alibaba.android.rimet.biz.SplashActivity" name="cn_xuexi_android"/>
+    <item class="com.xiaomi.youpin.activity.SplashActivity" name="com_xiaomi_youpin"/>
+    <item class="io.dcloud.PandoraEntry" name="org_pigai_allround"/>
+    <item class="com.youngpower.freenovel.MainActivity" name="com_youngpower_freenovel" not_sure="yes"/>
+    <item class="com.tuoshui.MainActivity" name="com_tuoshui" not_sure="yes"/>
+    <item class="com.meizu.media.camera.CameraLauncher" name="com_mlab_cam"/>
+    <item class="org.telegram.ui.LaunchActivity" name="org_telegram_messenger"/>
+    <item class="com.leiting.app.MainActivity" name="com_leiting_app" not_sure="yes"/>
+    <item class="com.toolwiz.photo.activity.SplashAdActivity" name="com_btows_photo"/>
+    <item class="com.meizu.assistant.MainActivity" name="com_meizu_assistant" not_sure="yes"/>
+    <item class="com.dailyyoga.cn.module.welcome.AdvertActivity" name="com_dailyyoga_cn"/>
+    <item class="com.user.login.AdvertActivity" name="com_dailyyoga_cn"/>
+    <item class="com.mojitec.mojidict.ui.SplashActivity" name="com_mojitec_mojidict"/>
+    <item class="com.yandex.browser.YandexBrowserActivity" name="com_yandex_browser"/>
+    <item class="com.china3s.android.MainActivity" name="com_china3s_android" not_sure="yes"/>
+    <item class="com.tencent.KiHan.ApolloTest" name="com_tencent_kihan"/>
+    <item class="com.tencent.djcity.activities.homepage.PortalActivity" name="com_tencent_djcity"/>
+    <item class="com.flyersoft.moonreader.ActivityMain" name="com_flyersoft_moonreader"/>
+    <item class="cn.com.langeasy.LangEasyLexis.activity.SplashActivity" name="cn_com_langeasy_langeasylexis"/>
+    <item class="com.qihoo.util.StartActivity" name="cn_com_langeasy_langeasylexis"/>
+    <item class="cn.edu.zjicm.wordsnet_d.ui.activity.WelcomeActivity" name="cn_edu_zjicm_wordsnet_d"/>
+    <item class="com.e4a.runtime.android.StartActivity" name="com_hj119_sygjx"/>
+    <item class="com.datong.dict.module.home.HomeActivity" name="com_datong_dict"/>
+    <item class="com.ajun.music.MainActivity" name="com_ajun_music" not_sure="yes"/>
+    <item class="com.miui.player.ui.MusicBrowserActivity" name="com_android_music"/>
+    <item class=".ui.MusicBrowserActivity" name="com_android_music"/>
+    <item class="com.miui.player.pad.ui.MusicMainActivity" name="com_android_music"/>
+    <item class="com.miui.player.component.MusicBrowserActivity" name="com_android_music"/>
+    <item class="com.yidian.dk.MainActivity" name="com_yidian_dk" not_sure="yes"/>
+    <item class="com.PhantomSix.animedb.MainActivity" name="com_phantomsix_animedb" not_sure="yes"/>
+    <item class="pl.solidexplorer.SolidExplorer" name="pl_solidexplorer2"/>
+    <item class="com.microsoft.ruby.Main" name="com_microsoft_emmx"/>
+    <item class="com.rockets.chang.MainActivity" name="com_rockets_chang" not_sure="yes"/>
+    <item class="com.sec.android.easyMover.DistributionActivity" name="com_sec_android_easymover"/>
+    <item class="com.netease.uu.activity.MainActivity" name="com_netease_uu"/>
+    <item class="com.netease.uu.activity.SplashScreenActivity" name="com_netease_uu"/>
+    <item class="com.guoshi.httpcanary.MainActivity" name="com_guoshi_httpcanary" not_sure="yes"/>
+    <item class="com.icyarrow.haloradio.MainActivity" name="fm_moon_app"/>
+    <item class="com.tmall.mobile.pad.ui.splash.SplashActivity" name="com_tmall_mobile_pad"/>
+    <item class="com.hunantv.imgo.activity.MainActivity" name="com_hunantv_imgo_activity"/>
+    <item class="com.hunantv.imgo.activity.SplashActivity" name="com_hunantv_imgo_activity"/>
+    <item class="com.mgtv.ui.main.MgtvActivity" name="com_hunantv_imgo_activity"/>
+    <item class="com.start.StartActivity" name="com_hunantv_imgo_activity"/>
+    <item class="com.xiaomi.voiceassistant.LauncherRouterActivity" name="com_android_voicedialer"/>
+    <item class="com.miui.voiceassist.CTAAlertActivity" name="com_android_voicedialer"/>
+    <item class="com.xiaomi.voiceassistant.CTAAlertActivity" name="com_android_voicedialer"/>
+    <item class="com.ks.kaishustory.MainActivity" name="com_ks_kaishustory" not_sure="yes"/>
+    <item class="melandru.lonicera.activity.launch.LaunchActivity" name="melandru_lonicera"/>
+    <item class="com.qihoo.util.StartActivity" name="melandru_lonicera"/>
+    <item class="com.tencent.karaoke.module.splash.ui.SplashBaseActivity" name="com_tencent_karaoke"/>
+    <item class="com.ea.game.pvzfree_row.COPPAActivity" name="com_tencent_tmgp_txpvzwjbmidas"/>
+    <item class="com.rise.rr.MainActivity" name="com_rise_rr" not_sure="yes"/>
+    <item class="com.sina.weibo.SplashActivity" name="com_sina_weibolite"/>
+    <item class="com.sina.weibo.lightning.main.splash.SplashActivity" name="com_sina_weibolite"/>
+    <item class="com.sina.weibo.lightning.main.SplashActivity" name="com_sina_weibolite"/>
+    <item class="com.palipali.MainActivity" name="com_palipali" not_sure="yes"/>
+    <item class="com.lofter.android.activity.SplashActivity" name="com_lofter_android"/>
+    <item class="com.lofter.android.global.splash.SplashActivity" name="com_lofter_android"/>
+    <item class="com.meizu.flyme.dsgame.MainActivity" name="com_meizu_flyme_dsgame"/>
+    <item class="com.samsung.android.voc.LauncherActivity" name="com_samsung_android_voc"/>
+    <item class="com.samsung.android.voc.app.LauncherActivity" name="com_samsung_android_voc"/>
+    <item class="com.samsung.android.voc.MainActivity" name="com_samsung_android_voc"/>
+    <item class="notion.local.id.MainActivity" name="notion_id"/>
+    <item class="com.samsung.android.app.memo.control.ui.list.MemoListActivity" name="com_miui_notes"/>
+    <item class="com.samsung.android.app.memo.Main" name="com_miui_notes"/>
+    <item class="com.android.dialer.DialtactsActivity" name="com_android_providers_contacts"/>
+    <item class="com.android.contacts.activities.PeopleActivity" name="com_android_providers_contacts"/>
+    <item class="com.samsung.android.contacts.contactslist.PeopleActivity" name="com_android_providers_contacts"/>
+    <item class="com.samsung.android.email.ui.activity.MessageListXL" name="com_android_email"/>
+    <item class="com.sec.android.app.popupcalculator.Calculator" name="com_meizu_flyme_calculator"/>
+    <item class="com.sec.android.app.voicenote.main.VNMainActivity" name="com_android_soundrecorder"/>
+    <item class="com.samsung.android.app.calendar.activity.MainActivity" name="com_android_calendar"/>
+    <item class="com.android.calendar.AllInOneActivity" name="com_android_calendar"/>
+    <item class="com.samsung.android.app.music.common.activity.MusicMainActivity" name="com_android_music"/>
+    <item class="com.sec.android.app.music.common.activity.MusicMainActivity" name="com_android_music"/>
+    <item class="com.sec.android.app.clockpackage.ClockPackage" name="com_android_deskclock"/>
+    <item class="com.sec.android.app.clockpackage.AlarmActivity" name="com_android_deskclock"/>
+    <item class="com.sec.android.app.clockpackage.TabletClockPackage" name="com_android_deskclock"/>
+    <item class="com.sec.android.app.clockpackage.alarm.Alarm" name="com_android_deskclock"/>
+    <item class="com.samsung.android.videolist.list.activity.VideoList" name="com_miui_video"/>
+    <item class="com.sec.android.app.myfiles.MainActivity" name="com_meizu_filemanager"/>
+    <item class="com.sec.android.app.myfiles.common.MainActivity" name="com_meizu_filemanager"/>
+    <item class="com.sec.android.app.myfiles.Myfiles" name="com_meizu_filemanager"/>
+    <item class="com.sec.android.app.myfiles.external.ui.MainActivity" name="com_meizu_filemanager"/>
+    <item class="com.sec.android.gallery3d.app.Gallery" name="com_miui_gallery"/>
+    <item class="com.sec.android.gallery3d.app.GalleryActivity" name="com_miui_gallery"/>
+    <item class="com.sec.android.gallery3d.app.GalleryOpaqueActivity" name="com_miui_gallery"/>
+    <item class="com.samsung.android.gallery.app.activity.GalleryActivity" name="com_miui_gallery"/>
+    <item class="com.sec.android.app.camera.Camera" name="com_mlab_cam"/>
+    <item class="com.android.mms.ui.ConversationComposer" name="com_android_providers_telephony"/>
+    <item class="com.sec.android.app.samsungapps.SamsungAppsMainActivity" name="com_miui_supermarket"/>
+    <item class="com.samsung.android.game.gamehome.activity.StartActivity" name="com_meizu_flyme_gamecenter"/>
+    <item class="com.samsung.android.game.gamehome.activity.StartActivityCN" name="com_meizu_flyme_gamecenter"/>
+    <item class="com.samsung.android.sm.ui.cstyleboard.SmartManagerDashBoardActivity" name="com_miui_securitycenter"/>
+    <item class="com.samsung.android.sm.app.dashboard.SmartManagerDashBoardActivity" name="com_miui_securitycenter"/>
+    <item class="com.samsung.android.themestore.activity.Launcher" name="com_android_thememanager"/>
+    <item class="com.samsung.android.themestore.activity.WTLauncher" name="com_android_thememanager"/>
+    <item class="com.mrbattery.stratus.candybar.activities.SplashActivity" name="ic_stratus_iconpack"/>
+
+
 
 </appmap>
