@@ -3,8 +3,8 @@
     <version>1</version>
 
     <pkgName>com.mrbattery.stratus.candybar</pkgName>
-	<themeName>Stratus</themeName>
-	<themeInfo>Info</themeInfo>
+	<themeName>重云</themeName>
+	<themeInfo>规则的圆角矩形图标，配合轻柔的色彩和渐变，中宫收紧，圆角平滑饱满。面形图标为主，全部矢量重绘。</themeInfo>
 	<preview img1="preview1" img2="preview2" />
 	
 </theme>

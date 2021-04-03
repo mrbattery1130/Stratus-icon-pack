@@ -52,9 +52,11 @@
     <!-- Home description
     - If you don't want to show description, just leave this empty -->
     <string name="home_description"><![CDATA[
-        <big>Clouds rise therefrom and lave my breast; My eyes are strained to see birds fleet.</big><br><br>
-        Smooth rounded rectangle based icons, with soft colors and gradients, tightened counters.
-        Filling icons instead of linear icons, are all redrawn with vector.
+        <big><b>Clouds rise therefrom and lave my breast; My eyes are strained to see birds fleet.</b></big><br><br>
+        Smooth rounded rectangle based icons, with soft colors and gradients, tightened counters.<br><br>
+        Filling icons instead of linear icons, are all redrawn with vector.<br><br>
+        To request an icon, please use "Icon Request".<br><br>
+        To give some suggestions, please follow me on Coolapk - <a href="http://www.coolapk.com/u/1080166">电池君</a>，or Sina Weibo - <a href="https://www.weibo.com/u/7447614698">电池君的主题小站</a>。
         ]]></string>
 
     <!-- More apps at Google Play Store
@@ -195,9 +197,7 @@
 
     <!-- About description below title -->
     <string name="about_desc"><![CDATA[
-        About description now supports html formatting, <b>bold description</b>,
-        <i>italic description</i>, <u>underline description</u>,
-        <a href="https://github.com/danimahardhika">link inside description</a>.
+        Still new at design, updating very infrequently :p<br>
         ]]></string>
 
     <!-- Social link inside about
@@ -209,13 +209,15 @@
     * ex:
     * <string-array name="about_social_links"></string-array>-->
     <string-array name="about_social_links">
-        <item>https://www.instagram.com/_u/yourusername</item>
-        <item>https://twitter.com/</item>
-        <item>https://www.behance.net/</item>
-        <item>https://plus.google.com/u/1/+yourusername</item>
-        <item>http://github.com/yourusername</item>
-        <item>http://www.yourwebsite.com</item>
-        <item>your@email.com</item>
+        <item>https://weibo.com/u/7447614698</item>
+        <item>http://www.coolapk.com/u/1080166</item>
+<!--        <item>https://www.instagram.com/_u/yourusername</item>-->
+<!--        <item>https://twitter.com/</item>-->
+<!--        <item>https://www.behance.net/</item>-->
+<!--        <item>https://plus.google.com/u/1/+yourusername</item>-->
+<!--        <item>http://github.com/mrbattery1130</item>-->
+<!--        <item>http://www.yourwebsite.com</item>-->
+        <item>mrbattery_iconpack@163.com</item>
     </string-array>
 
     <!-- Contributors dialog

@@ -52,8 +52,11 @@
     <!-- Home description
     - If you don't want to show description, just leave this empty -->
     <string name="home_description"><![CDATA[
-        <big>荡胸生曾云，决眦入归鸟。</big><br><br>
-        规则的圆角矩形图标，配合轻柔的色彩和渐变，中宫收紧，圆角平滑饱满。面形图标为主，全部矢量重绘。
+        <big><b>荡胸生曾云，决眦入归鸟。</b></big><br><br>
+        规则的圆角矩形图标，配合轻柔的色彩和渐变，中宫收紧，圆角平滑饱满。面形图标为主，全部矢量重绘。<br><br>
+        如有图标需要适配请使用「申请图标」。<br><br>
+        建议反馈&闲聊请关注酷安 - <a href="http://www.coolapk.com/u/1080166">电池君</a>，微博 - <a href="https://www.weibo.com/u/7447614698">电池君的主题小站</a>。<br><br>
+        感谢大家的支持！
         ]]></string>
 
     <!-- More apps at Google Play Store
@@ -190,13 +193,11 @@
 <!--    <string name="about_profile_image">https://lh3.googleusercontent.com/-KBI2HdgNtN0/AAAAAAAAAAI/AAAAAAAABpc/icnuAgrjOT4/s256-p-rw-no/photo.jpg</string>-->
 
     <!-- About title above description -->
-    <string name="about_title">CandyBar \nMaterial Dashboard</string>
+    <string name="about_title">电池君</string>
 
     <!-- About description below title -->
     <string name="about_desc"><![CDATA[
-        About description now supports html formatting, <b>bold description</b>,
-        <i>italic description</i>, <u>underline description</u>,
-        <a href="https://github.com/danimahardhika">link inside description</a>.
+        新人主题设计师 或肝或鸽很佛系 :p
         ]]></string>
 
     <!-- Social link inside about
