@@ -17,7 +17,7 @@
         android:xlargeScreens="true" />
 
     <application
-        android:name="com.mrbattery.stratus.candybar.applications.CandyBar"
+        android:name=".applications.CandyBar"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:roundIcon="@mipmap/ic_launcher_round"
@@ -26,7 +26,7 @@
         android:theme="@style/AppTheme"
         tools:replace="android:icon">
 
-        <activity android:name="com.mrbattery.stratus.candybar.activities.SplashActivity"
+        <activity android:name=".activities.SplashActivity"
             android:launchMode="singleTop"
             android:noHistory="true"
             android:screenOrientation="portrait"
@@ -37,7 +37,7 @@
             </intent-filter>
         </activity>
 
-        <activity android:name="com.mrbattery.stratus.candybar.activities.MainActivity"
+        <activity android:name=".activities.MainActivity"
             android:launchMode="singleTop"
             android:theme="@style/AppTheme"
             android:configChanges="orientation|keyboardHidden|screenSize">
@@ -151,13 +151,13 @@
             </intent-filter>
         </activity>
 
-        <activity android:name="com.mrbattery.stratus.candybar.activities.MuzeiActivity"
+        <activity android:name=".activities.MuzeiActivity"
             android:label="@string/muzei_settings"
             android:theme="@style/AppTheme"
             android:exported="true"
             android:configChanges="orientation|keyboardHidden|screenSize"/>
 
-        <service android:name="com.mrbattery.stratus.candybar.services.MuzeiService"
+        <service android:name=".services.MuzeiService"
             android:label="@string/muzei_art_source_name"
             android:description="@string/muzei_art_source_desc"
             android:icon="@drawable/ic_muzei_logo"
@@ -167,7 +167,7 @@
             </intent-filter>
             <meta-data android:name="color" android:value="@color/muzei_color" />
             <meta-data android:name="settingsActivity"
-                android:value="com.mrbattery.stratus.candybar.activities.MuzeiActivity"/>
+                android:value=".activities.MuzeiActivity"/>
         </service>
 
         <!-- This is important -->
