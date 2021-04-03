@@ -2,24 +2,24 @@
 <resources>
 
     <contributor
-        name="Name 1"
-        contribution="Contribution 1, contribution 2"
-        image="https://avatars1.githubusercontent.com/u/23138905?v=3&amp;s=300"
-        link="" />
-    <contributor
-        name="Name 2"
-        contribution="Contribution 1, contribution 2, contribution 3"
-        image=""
-        link="" />
-    <contributor
-        name="Another Name"
-        contribution="Contribution 1"
-        image=""
-        link="http://plus.google.com/..." />
-    <contributor
-        name="Another Name 2"
-        contribution="Contribution 1, contribution 2, contribution 3, contribution 4, contribution 5, contribution 6"
-        image=""
-        link="http://www.link.com" />
+        name="电池君"
+        contribution="图标设计&amp;图表开发"
+        image="https://gitee.com/mrbattery/mrbattery_iconpack_res_repo/raw/master/Stratus/pic/about_profile_image.jpg"
+        link="http://www.coolapk.com/u/1080166" />
+<!--    <contributor-->
+<!--        name="Name 2"-->
+<!--        contribution="Contribution 1, contribution 2, contribution 3"-->
+<!--        image=""-->
+<!--        link="" />-->
+<!--    <contributor-->
+<!--        name="Another Name"-->
+<!--        contribution="Contribution 1"-->
+<!--        image=""-->
+<!--        link="http://plus.google.com/..." />-->
+<!--    <contributor-->
+<!--        name="Another Name 2"-->
+<!--        contribution="Contribution 1, contribution 2, contribution 3, contribution 4, contribution 5, contribution 6"-->
+<!--        image=""-->
+<!--        link="http://www.link.com" />-->
 
 </resources>

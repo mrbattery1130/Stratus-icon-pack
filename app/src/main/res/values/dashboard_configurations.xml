@@ -38,7 +38,7 @@
     *
     * If you want to use solid color, you can put hex color code here
     * ex: <string name="navigation_view_header">#000000</string> -->
-    <string name="home_image">https://gitee.com/mrbattery/mrbattery_iconpack_res_repo/raw/master/Stratus/pic/home_image.jpg</string>
+    <string name="home_image">home_image</string>
 
     <!-- Home image style
     * Available choices:
@@ -74,7 +74,7 @@
     *
     * If you want to use solid color, you can put hex color code here
     * ex: <string name="navigation_view_header">#000000</string> -->
-    <string name="navigation_view_header">https://gitee.com/mrbattery/mrbattery_iconpack_res_repo/raw/master/Stratus/pic/navigation_view_header.jpg</string>
+    <string name="navigation_view_header">navigation_view_header</string>
 
     <!-- Navigation view header text
     * Leave empty if you don't want to show any text -->
@@ -184,16 +184,16 @@
     *
     * If you want to use solid color, you can put hex color code here
     * ex: <string name="navigation_view_header">#000000</string> -->
-    <string name="about_image">https://gitee.com/mrbattery/mrbattery_iconpack_res_repo/raw/master/Stratus/pic/about_image.jpg</string>
+    <string name="about_image">about_image</string>
 
     <!-- About profile image
     * If you want to use image from url, just put the url here
     * If you want to use image stored in project (drawable folder)
     * just put image name here without the extension (ex: about_profile_image.png -> about_profile_image) -->
-    <string name="about_profile_image">https://gitee.com/mrbattery/mrbattery_iconpack_res_repo/raw/master/Stratus/pic/about_profile_image.jpg</string>
+    <string name="about_profile_image">about_profile_image</string>
 
     <!-- About title above description -->
-    <string name="about_title">MrBattery \nMaterial Dashboard</string>
+    <string name="about_title">MrBattery</string>
 
     <!-- About description below title -->
     <string name="about_desc"><![CDATA[
