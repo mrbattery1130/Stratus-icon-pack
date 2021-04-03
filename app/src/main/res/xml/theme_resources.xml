@@ -43,6 +43,7 @@
     <AppIcon name="com.xbiao/com.xbiao.MainActivity" image="com_xbiao"/>
     <AppIcon name="com.wanci.so/com.wanci.so.MainActivity" image="com_wanci_so" not_sure="yes"/>
     <AppIcon name="me.yoopu.app.songbook/me.yoopu.app.songbook.login.SplashActivity" image="me_yoopu_app_songbook"/>
+    <AppIcon name="me.yoopu.app.songbook/me.yoopu.app.songbook.login.LoginActivity" image="me_yoopu_app_songbook"/>
     <AppIcon name="com.suning.mobile.ebuy/com.suning.mobile.ebuy.host.InitialActivity" image="com_suning_mobile_ebuy"/>
     <AppIcon name="com.suning.mobile.ebuy/com.suning.mobile.ebuy.base.host.InitialActivity" image="com_suning_mobile_ebuy"/>
     <AppIcon name="com.suning.mobile.ebuy/com.suning.mobile.ebuy.host.initial.InitialActivty" image="com_suning_mobile_ebuy"/>

@@ -86,6 +86,7 @@
 	<item component="ComponentInfo{com.xbiao/com.xbiao.MainActivity}" drawable="com_xbiao"/>
 	<item component="ComponentInfo{com.wanci.so/com.wanci.so.MainActivity}" drawable="com_wanci_so" not_sure="yes"/>
 	<item component="ComponentInfo{me.yoopu.app.songbook/me.yoopu.app.songbook.login.SplashActivity}" drawable="me_yoopu_app_songbook"/>
+	<item component="ComponentInfo{me.yoopu.app.songbook/me.yoopu.app.songbook.login.LoginActivity}" drawable="me_yoopu_app_songbook"/>
 	<item component="ComponentInfo{com.suning.mobile.ebuy/com.suning.mobile.ebuy.host.InitialActivity}" drawable="com_suning_mobile_ebuy"/>
 	<item component="ComponentInfo{com.suning.mobile.ebuy/com.suning.mobile.ebuy.base.host.InitialActivity}" drawable="com_suning_mobile_ebuy"/>
 	<item component="ComponentInfo{com.suning.mobile.ebuy/com.suning.mobile.ebuy.host.initial.InitialActivty}" drawable="com_suning_mobile_ebuy"/>

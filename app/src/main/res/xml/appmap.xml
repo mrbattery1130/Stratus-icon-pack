@@ -31,6 +31,7 @@
     <item class="com.xbiao.MainActivity" name="com_xbiao"/>
     <item class="com.wanci.so.MainActivity" name="com_wanci_so" not_sure="yes"/>
     <item class="me.yoopu.app.songbook.login.SplashActivity" name="me_yoopu_app_songbook"/>
+    <item class="me.yoopu.app.songbook.login.LoginActivity" name="me_yoopu_app_songbook"/>
     <item class="com.suning.mobile.ebuy.host.InitialActivity" name="com_suning_mobile_ebuy"/>
     <item class="com.suning.mobile.ebuy.base.host.InitialActivity" name="com_suning_mobile_ebuy"/>
     <item class="com.suning.mobile.ebuy.host.initial.InitialActivty" name="com_suning_mobile_ebuy"/>
